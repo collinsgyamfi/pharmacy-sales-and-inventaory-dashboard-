@@ -45,6 +45,15 @@ def save_users(users):
 def hash_password(password):
     return hashlib.sha256(password.encode()).hexdigest()
 
+def format_large_number(value):
+    """Format large numbers with K (thousands) or M (millions) notation"""
+    if value >= 1_000_000:
+        return f"₵{value/1_000_000:.1f}M"
+    elif value >= 1_000:
+        return f"₵{value/1_000:.1f}K"
+    else:
+        return f"₵{value:,.2f}"
+
 if 'users' not in st.session_state:
     st.session_state.users = load_users()
 
@@ -304,6 +313,28 @@ else:
     # Calculate profit (assuming 30% profit margin)
     filtered_df['profit'] = filtered_df['total_price'] * 0.30
     df['profit'] = df['total_price'] * 0.30
+    
+    # ====================== INVENTORY CALCULATIONS ======================
+    # Calculate current stock for each medication
+    inventory_summary = df.groupby('medication').agg({
+        'quantity_sold': 'sum',
+        'initial_stock': 'first'
+    }).reset_index()
+    inventory_summary['current_stock'] = inventory_summary['initial_stock'] - inventory_summary['quantity_sold']
+    
+    # Define stock status thresholds
+    LOW_STOCK_THRESHOLD = 50
+    CRITICAL_STOCK_THRESHOLD = 20
+    
+    def get_stock_status(stock_level):
+        if stock_level <= CRITICAL_STOCK_THRESHOLD:
+            return 'Critical'
+        elif stock_level <= LOW_STOCK_THRESHOLD:
+            return 'Low Stock'
+        else:
+            return 'OK'
+    
+    inventory_summary['stock_status'] = inventory_summary['current_stock'].apply(get_stock_status)
 
     # ====================== DASHBOARD METRICS ======================
     if len(filtered_df) == 0:
@@ -313,11 +344,11 @@ else:
 
         with col1:
             total_sales = filtered_df['total_price'].sum()
-            st.metric("💰 Total Sales (₵)", f"₵{total_sales:,.2f}")
+            st.metric("💰 Total Sales", format_large_number(total_sales))
 
         with col2:
             total_profit = filtered_df['profit'].sum()
-            st.metric("📈 Total Profit (₵)", f"₵{total_profit:,.2f}")
+            st.metric("📈 Total Profit", format_large_number(total_profit))
 
         with col3:
             total_qty = filtered_df['quantity_sold'].sum()
@@ -325,7 +356,7 @@ else:
 
         with col4:
             avg_transaction = filtered_df['total_price'].mean()
-            st.metric("🔄 Avg Transaction", f"₵{avg_transaction:,.2f}")
+            st.metric("🔄 Avg Transaction", format_large_number(avg_transaction))
 
         with col5:
             num_transactions = len(filtered_df)
@@ -494,3 +525,88 @@ else:
             profit_margin = (filtered_df['profit'].sum() / filtered_df['total_price'].sum() * 100) if filtered_df['total_price'].sum() > 0 else 0
             st.write("**Average Profit Margin:**")
             st.write(f"📊 {profit_margin:.1f}%")
+
+        # ====================== INVENTORY MANAGEMENT ======================
+        st.markdown("---")
+        st.subheader("📦 Inventory Management")
+        
+        # Filter inventory by stock status
+        inventory_display = inventory_summary.copy()
+        if stock_status_filter and 'OK' not in stock_status_filter or 'Low Stock' not in stock_status_filter or 'Critical' not in stock_status_filter:
+            if stock_status_filter:
+                inventory_display = inventory_display[inventory_display['stock_status'].isin(stock_status_filter)]
+        
+        # Create inventory visualization
+        inv_col1, inv_col2 = st.columns(2)
+        
+        # Stock Status Distribution (Pie Chart)
+        with inv_col1:
+            stock_dist = inventory_summary['stock_status'].value_counts().reset_index()
+            stock_dist.columns = ['stock_status', 'count']
+            
+            fig_stock_dist = px.pie(
+                stock_dist,
+                values='count',
+                names='stock_status',
+                title='📊 Stock Status Distribution',
+                color='stock_status',
+                color_discrete_map={'OK': '#2ecc71', 'Low Stock': '#f39c12', 'Critical': '#e74c3c'}
+            )
+            st.plotly_chart(fig_stock_dist, use_container_width=True)
+        
+        # Current Stock by Medication (Bar Chart)
+        with inv_col2:
+            stock_sorted = inventory_display.sort_values('current_stock', ascending=True)
+            fig_stock = px.bar(
+                stock_sorted,
+                y='medication',
+                x='current_stock',
+                color='stock_status',
+                orientation='h',
+                title='📦 Current Stock Levels',
+                labels={'current_stock': 'Quantity in Stock', 'medication': 'Medication'},
+                color_discrete_map={'OK': '#2ecc71', 'Low Stock': '#f39c12', 'Critical': '#e74c3c'}
+            )
+            fig_stock.update_layout(yaxis={'categoryorder': 'total ascending'})
+            st.plotly_chart(fig_stock, use_container_width=True)
+        
+        # Inventory Details Table
+        st.markdown("---")
+        st.subheader("📋 Inventory Details")
+        
+        inventory_table = inventory_display[['medication', 'initial_stock', 'quantity_sold', 'current_stock', 'stock_status']].copy()
+        inventory_table = inventory_table.sort_values('current_stock', ascending=True)
+        
+        # Add color coding to status
+        def highlight_status(val):
+            if val == 'Critical':
+                return '🔴 Critical'
+            elif val == 'Low Stock':
+                return '🟡 Low Stock'
+            else:
+                return '🟢 OK'
+        
+        inventory_table['stock_status'] = inventory_table['stock_status'].apply(highlight_status)
+        inventory_table = inventory_table.rename(columns={
+            'medication': 'Medication',
+            'initial_stock': 'Initial Stock',
+            'quantity_sold': 'Sold',
+            'current_stock': 'Current Stock',
+            'stock_status': 'Status'
+        })
+        
+        st.dataframe(inventory_table, use_container_width=True, hide_index=True)
+        
+        # Restock Alert
+        critical_items = inventory_summary[inventory_summary['stock_status'] == 'Critical']
+        low_items = inventory_summary[inventory_summary['stock_status'] == 'Low Stock']
+        
+        if len(critical_items) > 0:
+            st.error(f"🔴 **CRITICAL ALERT:** {len(critical_items)} medication(s) require immediate restocking!")
+            for _, item in critical_items.iterrows():
+                st.error(f"  • {item['medication']}: Only {int(item['current_stock'])} units left")
+        
+        if len(low_items) > 0:
+            st.warning(f"🟡 **LOW STOCK WARNING:** {len(low_items)} medication(s) are running low")
+            for _, item in low_items.iterrows():
+                st.warning(f"  • {item['medication']}: {int(item['current_stock'])} units remaining")
