@@ -1,4 +1,4 @@
-# Pharmacy Dashboard
+# Pharmacy sales and inventory Dashboard
 
 💊 **Pharmacy Management System** is a web application built with Streamlit that allows users to efficiently manage pharmacy sales, inventory, and profit analytics.
 
@@ -29,5 +29,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pharmacy-dashboard.git
+   git clone https://github.com/collinsgyamfi/pharmacy-dashboard.git
    cd pharmacy-dashboard
