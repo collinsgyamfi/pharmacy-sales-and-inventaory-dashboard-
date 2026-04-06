@@ -1,22 +1,33 @@
-# 💊 Pharmacy Sales & Inventory Dashboard
+# Pharmacy Dashboard
 
-A user-friendly web dashboard built with Streamlit for pharmacy owners to track **sales**, **inventory**, and **profits**.
+💊 **Pharmacy Management System** is a web application built with Streamlit that allows users to efficiently manage pharmacy sales, inventory, and profit analytics.
 
-### ✨ Features
+## Features
 
-- Login & Sign-up system (secure)
-- Upload sales data (CSV, XLS, XLSX)
-- View sales overview and top-selling medications
-- Real-time inventory tracking with stock alerts
-- Monthly summary with profit calculation
-- Interactive charts and trends
-- Export reports (Sales, Inventory, Monthly)
+- **User Authentication**: Sign in and create accounts securely.
+- **Data Upload**: Upload sales data in CSV or Excel formats.
+- **Data Visualization**: Interactive charts for sales trends, profit margins, and medication performance.
+- **Filters**: Filter data by date range, medication, payment method, and category.
+- **Summary Statistics**: Get key insights into sales and profits.
 
-### 🛠️ How to Run
+## Technologies Used
 
-1. **Clone or download** this repository
-2. Open the folder in **VS Code**
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- JSON for user data storage
 
-3. Install required packages:
+## Requirements
+
+- Python 3.x
+- Streamlit
+- Pandas
+- Plotly
+
+## Installation
+
+1. Clone the repository:
    ```bash
-   pip install streamlit pandas plotly numpy openpyxl
+   git clone https://github.com/yourusername/pharmacy-dashboard.git
+   cd pharmacy-dashboard
