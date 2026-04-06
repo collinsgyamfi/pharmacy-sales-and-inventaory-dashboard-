@@ -1,0 +1,2001 @@
+sale_id,date,medication,category,unit,quantity_sold,unit_price,payment_method,total_price
+123,2025-03-01,Vitamin D3 1000IU,Gastrointestinal,Vial,18,243.05,Card,4374.9
+128,2025-03-01,Cetirizine 10mg,Vitamins & Supplements,Strip,16,53.46,Insurance,855.36
+163,2025-03-01,Omeprazole 20mg,Diabetes,Vial,13,173.9,Insurance,2260.7
+169,2025-03-01,Levothyroxine 50mcg,Thyroid,Tab,9,216.72,Cash,1950.48
+225,2025-03-01,Cetirizine 10mg,Pain Relief,Vial,13,94.83,Insurance,1232.79
+275,2025-03-01,Amlodipine 5mg,Diabetes,Bottle,18,122.26,Cash,2200.68
+327,2025-03-01,Paracetamol 500mg,Pain Relief,Vial,3,175.21,Card,525.63
+348,2025-03-01,Vitamin D3 1000IU,Diabetes,Bottle,5,68.42,UPI,342.1
+507,2025-03-01,Vitamin D3 1000IU,Vitamins & Supplements,Capsule,18,87.0,Card,1566.0
+578,2025-03-01,Cetirizine 10mg,Thyroid,Bottle,5,192.94,UPI,964.7
+581,2025-03-01,Atorvastatin 10mg,Pain Relief,Capsule,10,141.36,Card,1413.6
+591,2025-03-01,Azithromycin 500mg,Allergy,Tab,4,228.47,Insurance,913.88
+641,2025-03-01,Pantoprazole 40mg,Gastrointestinal,Strip,6,107.12,UPI,642.72
+668,2025-03-01,Omeprazole 20mg,Allergy,Vial,2,15.68,Cash,31.36
+814,2025-03-01,Ibuprofen 400mg,Antibiotics,Strip,18,38.72,Card,696.96
+846,2025-03-01,Ibuprofen 400mg,Antibiotics,Strip,10,118.07,UPI,1180.7
+884,2025-03-01,Metformin 500mg,Thyroid,Capsule,22,208.98,Card,4597.56
+949,2025-03-01,Omeprazole 20mg,Cardiovascular,Tab,20,50.59,Insurance,1011.8
+967,2025-03-01,Ibuprofen 400mg,Thyroid,Vial,24,70.54,Insurance,1692.96
+992,2025-03-01,Cetirizine 10mg,Antibiotics,Bottle,4,53.11,UPI,212.44
+997,2025-03-01,Atorvastatin 10mg,Allergy,Tab,10,183.43,Card,1834.3
+1015,2025-03-01,Cetirizine 10mg,Gastrointestinal,Tab,15,53.45,Cash,801.75
+1114,2025-03-01,Omeprazole 20mg,Thyroid,Tab,14,179.23,Cash,2509.22
+1140,2025-03-01,Omeprazole 20mg,Cardiovascular,Bottle,13,133.99,Insurance,1741.87
+1285,2025-03-01,Cetirizine 10mg,Thyroid,Tab,6,165.45,UPI,992.7
+1309,2025-03-01,Metformin 500mg,Vitamins & Supplements,Capsule,18,194.75,Card,3505.5
+1336,2025-03-01,Azithromycin 500mg,Allergy,Capsule,7,213.53,Cash,1494.71
+1497,2025-03-01,Vitamin D3 1000IU,Cardiovascular,Tab,18,170.44,Insurance,3067.92
+1507,2025-03-01,Atorvastatin 10mg,Vitamins & Supplements,Tab,18,246.34,UPI,4434.12
+1572,2025-03-01,Cetirizine 10mg,Gastrointestinal,Capsule,11,244.69,Cash,2691.59
+1592,2025-03-01,Pantoprazole 40mg,Thyroid,Strip,6,177.92,Cash,1067.52
+1606,2025-03-01,Ibuprofen 400mg,Gastrointestinal,Strip,8,176.76,Insurance,1414.08
+1628,2025-03-01,Atorvastatin 10mg,Diabetes,Vial,11,170.04,UPI,1870.44
+1680,2025-03-01,Vitamin D3 1000IU,Vitamins & Supplements,Vial,10,122.38,UPI,1223.8
+1782,2025-03-01,Paracetamol 500mg,Diabetes,Tab,7,23.51,UPI,164.57
+1830,2025-03-01,Levothyroxine 50mcg,Allergy,Capsule,15,46.77,Insurance,701.55
+1985,2025-03-01,Omeprazole 20mg,Allergy,Bottle,12,25.6,Card,307.2
+1999,2025-03-01,Paracetamol 500mg,Cardiovascular,Bottle,4,249.93,UPI,999.72
+22,2025-03-02,Vitamin D3 1000IU,Antibiotics,Vial,10,166.72,Card,1667.2
+27,2025-03-02,Cetirizine 10mg,Diabetes,Vial,4,77.54,Card,310.16
+67,2025-03-02,Azithromycin 500mg,Vitamins & Supplements,Tab,21,199.34,Insurance,4186.14
+83,2025-03-02,Levothyroxine 50mcg,Thyroid,Vial,23,61.58,Cash,1416.34
+206,2025-03-02,Levothyroxine 50mcg,Diabetes,Capsule,12,42.42,UPI,509.04
+258,2025-03-02,Vitamin D3 1000IU,Antibiotics,Tab,12,62.21,Insurance,746.52
+267,2025-03-02,Azithromycin 500mg,Vitamins & Supplements,Capsule,3,96.23,Cash,288.69
+268,2025-03-02,Atorvastatin 10mg,Vitamins & Supplements,Strip,23,189.67,Insurance,4362.41
+277,2025-03-02,Paracetamol 500mg,Vitamins & Supplements,Capsule,10,75.13,UPI,751.3
+347,2025-03-02,Levothyroxine 50mcg,Cardiovascular,Vial,16,72.47,Card,1159.52
+386,2025-03-02,Atorvastatin 10mg,Diabetes,Vial,1,116.96,Card,116.96
+478,2025-03-02,Vitamin D3 1000IU,Gastrointestinal,Vial,19,82.88,Card,1574.72
+481,2025-03-02,Atorvastatin 10mg,Gastrointestinal,Tab,7,184.01,Card,1288.07
+518,2025-03-02,Paracetamol 500mg,Pain Relief,Bottle,24,180.48,Cash,4331.52
+650,2025-03-02,Metformin 500mg,Vitamins & Supplements,Vial,22,18.64,Insurance,410.08
+679,2025-03-02,Vitamin D3 1000IU,Cardiovascular,Bottle,3,77.52,Cash,232.56
+805,2025-03-02,Cetirizine 10mg,Antibiotics,Bottle,1,161.69,Insurance,161.69
+937,2025-03-02,Amlodipine 5mg,Thyroid,Capsule,22,97.03,Cash,2134.66
+1031,2025-03-02,Vitamin D3 1000IU,Thyroid,Vial,23,58.04,UPI,1334.92
+1074,2025-03-02,Atorvastatin 10mg,Vitamins & Supplements,Bottle,16,213.09,UPI,3409.44
+1155,2025-03-02,Pantoprazole 40mg,Thyroid,Capsule,9,94.36,Cash,849.24
+1251,2025-03-02,Ibuprofen 400mg,Antibiotics,Strip,23,223.73,UPI,5145.79
+1265,2025-03-02,Pantoprazole 40mg,Allergy,Vial,11,102.63,Insurance,1128.93
+1304,2025-03-02,Omeprazole 20mg,Vitamins & Supplements,Strip,19,172.74,Cash,3282.06
+1307,2025-03-02,Ibuprofen 400mg,Cardiovascular,Vial,7,211.41,Card,1479.87
+1379,2025-03-02,Azithromycin 500mg,Diabetes,Strip,8,53.19,Insurance,425.52
+1414,2025-03-02,Levothyroxine 50mcg,Cardiovascular,Capsule,21,69.0,UPI,1449.0
+1439,2025-03-02,Paracetamol 500mg,Gastrointestinal,Capsule,21,78.3,Card,1644.3
+1530,2025-03-02,Levothyroxine 50mcg,Vitamins & Supplements,Tab,19,209.0,Card,3971.0
+1597,2025-03-02,Azithromycin 500mg,Diabetes,Tab,13,249.94,Card,3249.22
+1679,2025-03-02,Cetirizine 10mg,Cardiovascular,Strip,21,27.4,UPI,575.4
+1686,2025-03-02,Ibuprofen 400mg,Thyroid,Tab,21,78.78,UPI,1654.38
+1721,2025-03-02,Azithromycin 500mg,Thyroid,Strip,17,197.75,Insurance,3361.75
+1778,2025-03-02,Ibuprofen 400mg,Vitamins & Supplements,Vial,7,109.97,Insurance,769.79
+1824,2025-03-02,Azithromycin 500mg,Vitamins & Supplements,Strip,20,247.88,UPI,4957.6
+1950,2025-03-02,Pantoprazole 40mg,Gastrointestinal,Bottle,11,246.69,Insurance,2713.59
+19,2025-03-03,Azithromycin 500mg,Thyroid,Capsule,11,39.97,Cash,439.67
+50,2025-03-03,Levothyroxine 50mcg,Antibiotics,Bottle,22,63.95,Insurance,1406.9
+168,2025-03-03,Vitamin D3 1000IU,Pain Relief,Strip,13,99.47,Card,1293.11
+232,2025-03-03,Amoxicillin 500mg,Diabetes,Strip,21,159.82,Cash,3356.22
+259,2025-03-03,Azithromycin 500mg,Pain Relief,Tab,2,86.84,Cash,173.68
+308,2025-03-03,Amoxicillin 500mg,Diabetes,Strip,23,201.28,Insurance,4629.44
+315,2025-03-03,Omeprazole 20mg,Gastrointestinal,Bottle,2,157.76,UPI,315.52
+362,2025-03-03,Metformin 500mg,Gastrointestinal,Vial,20,190.25,Card,3805.0
+402,2025-03-03,Atorvastatin 10mg,Antibiotics,Vial,18,30.16,Cash,542.88
+462,2025-03-03,Paracetamol 500mg,Gastrointestinal,Vial,9,196.0,Insurance,1764.0
+469,2025-03-03,Pantoprazole 40mg,Allergy,Strip,22,83.13,UPI,1828.86
+598,2025-03-03,Ibuprofen 400mg,Allergy,Bottle,2,103.15,UPI,206.3
+667,2025-03-03,Cetirizine 10mg,Antibiotics,Capsule,9,159.97,Card,1439.73
+835,2025-03-03,Pantoprazole 40mg,Pain Relief,Tab,18,76.81,Card,1382.58
+847,2025-03-03,Amlodipine 5mg,Allergy,Vial,5,193.67,UPI,968.35
+888,2025-03-03,Metformin 500mg,Pain Relief,Capsule,8,54.74,Insurance,437.92
+978,2025-03-03,Vitamin D3 1000IU,Allergy,Tab,16,240.73,Cash,3851.68
+1011,2025-03-03,Metformin 500mg,Gastrointestinal,Capsule,17,85.04,Insurance,1445.68
+1096,2025-03-03,Cetirizine 10mg,Pain Relief,Strip,3,246.18,Card,738.54
+1098,2025-03-03,Pantoprazole 40mg,Gastrointestinal,Strip,17,90.31,Card,1535.27
+1163,2025-03-03,Ibuprofen 400mg,Vitamins & Supplements,Tab,2,233.81,Card,467.62
+1196,2025-03-03,Metformin 500mg,Allergy,Vial,23,142.51,UPI,3277.73
+1242,2025-03-03,Omeprazole 20mg,Pain Relief,Strip,7,88.45,Insurance,619.15
+1294,2025-03-03,Ibuprofen 400mg,Gastrointestinal,Tab,6,204.87,UPI,1229.22
+1389,2025-03-03,Atorvastatin 10mg,Pain Relief,Capsule,6,45.23,Cash,271.38
+1611,2025-03-03,Amoxicillin 500mg,Gastrointestinal,Strip,22,75.92,UPI,1670.24
+1631,2025-03-03,Atorvastatin 10mg,Cardiovascular,Strip,7,229.63,UPI,1607.41
+1640,2025-03-03,Ibuprofen 400mg,Cardiovascular,Strip,15,86.32,UPI,1294.8
+1687,2025-03-03,Atorvastatin 10mg,Vitamins & Supplements,Capsule,20,125.83,Cash,2516.6
+1838,2025-03-03,Ibuprofen 400mg,Vitamins & Supplements,Bottle,15,148.25,Cash,2223.75
+1927,2025-03-03,Ibuprofen 400mg,Cardiovascular,Capsule,16,172.99,Card,2767.84
+1988,2025-03-03,Paracetamol 500mg,Antibiotics,Bottle,7,38.04,Card,266.28
+58,2025-03-04,Ibuprofen 400mg,Diabetes,Bottle,6,202.37,UPI,1214.22
+82,2025-03-04,Levothyroxine 50mcg,Gastrointestinal,Strip,11,169.35,Cash,1862.85
+87,2025-03-04,Omeprazole 20mg,Gastrointestinal,Vial,23,116.28,Cash,2674.44
+189,2025-03-04,Metformin 500mg,Allergy,Bottle,23,191.31,UPI,4400.13
+285,2025-03-04,Paracetamol 500mg,Gastrointestinal,Strip,7,76.82,Card,537.74
+393,2025-03-04,Atorvastatin 10mg,Cardiovascular,Bottle,9,55.94,Insurance,503.46
+433,2025-03-04,Amlodipine 5mg,Diabetes,Bottle,1,176.76,Insurance,176.76
+546,2025-03-04,Amlodipine 5mg,Antibiotics,Capsule,4,79.41,Card,317.64
+645,2025-03-04,Amoxicillin 500mg,Allergy,Vial,3,96.34,Cash,289.02
+695,2025-03-04,Pantoprazole 40mg,Cardiovascular,Tab,8,223.64,UPI,1789.12
+821,2025-03-04,Omeprazole 20mg,Antibiotics,Strip,6,46.67,UPI,280.02
+996,2025-03-04,Levothyroxine 50mcg,Antibiotics,Vial,13,56.38,Cash,732.94
+1061,2025-03-04,Atorvastatin 10mg,Cardiovascular,Strip,15,59.18,UPI,887.7
+1091,2025-03-04,Ibuprofen 400mg,Pain Relief,Vial,12,122.78,Cash,1473.36
+1093,2025-03-04,Paracetamol 500mg,Thyroid,Vial,14,131.85,Insurance,1845.9
+1194,2025-03-04,Amoxicillin 500mg,Vitamins & Supplements,Vial,6,74.98,Card,449.88
+1233,2025-03-04,Amoxicillin 500mg,Gastrointestinal,Vial,11,249.43,Cash,2743.73
+1255,2025-03-04,Ibuprofen 400mg,Diabetes,Bottle,5,165.06,Cash,825.3
+1277,2025-03-04,Azithromycin 500mg,Allergy,Tab,1,45.26,Insurance,45.26
+1356,2025-03-04,Vitamin D3 1000IU,Allergy,Strip,3,178.39,Card,535.17
+1412,2025-03-04,Amoxicillin 500mg,Vitamins & Supplements,Strip,5,85.16,Cash,425.8
+1436,2025-03-04,Pantoprazole 40mg,Thyroid,Tab,5,216.12,Cash,1080.6
+1477,2025-03-04,Omeprazole 20mg,Thyroid,Tab,20,212.06,Card,4241.2
+1605,2025-03-04,Cetirizine 10mg,Pain Relief,Vial,14,21.15,Cash,296.1
+1656,2025-03-04,Amoxicillin 500mg,Pain Relief,Vial,2,203.77,Cash,407.54
+1730,2025-03-04,Atorvastatin 10mg,Cardiovascular,Tab,6,102.56,Insurance,615.36
+1939,2025-03-04,Omeprazole 20mg,Vitamins & Supplements,Vial,13,19.77,UPI,257.01
+1994,2025-03-04,Cetirizine 10mg,Vitamins & Supplements,Tab,2,210.84,Insurance,421.68
+140,2025-03-05,Vitamin D3 1000IU,Gastrointestinal,Tab,19,157.81,UPI,2998.39
+170,2025-03-05,Paracetamol 500mg,Allergy,Capsule,21,69.66,Card,1462.86
+293,2025-03-05,Amlodipine 5mg,Pain Relief,Bottle,7,115.8,Insurance,810.6
+351,2025-03-05,Pantoprazole 40mg,Cardiovascular,Vial,17,118.09,Card,2007.53
+429,2025-03-05,Cetirizine 10mg,Thyroid,Strip,15,111.42,Card,1671.3
+544,2025-03-05,Atorvastatin 10mg,Cardiovascular,Bottle,2,194.84,Insurance,389.68
+594,2025-03-05,Amoxicillin 500mg,Thyroid,Bottle,19,223.57,Insurance,4247.83
+609,2025-03-05,Metformin 500mg,Pain Relief,Strip,18,41.41,UPI,745.38
+615,2025-03-05,Metformin 500mg,Diabetes,Vial,22,54.36,Card,1195.92
+631,2025-03-05,Amoxicillin 500mg,Cardiovascular,Capsule,20,96.96,UPI,1939.2
+643,2025-03-05,Atorvastatin 10mg,Gastrointestinal,Strip,24,177.16,Insurance,4251.84
+760,2025-03-05,Azithromycin 500mg,Gastrointestinal,Vial,12,196.63,UPI,2359.56
+781,2025-03-05,Omeprazole 20mg,Allergy,Bottle,7,125.84,Insurance,880.88
+806,2025-03-05,Amlodipine 5mg,Antibiotics,Vial,21,46.03,Card,966.63
+934,2025-03-05,Azithromycin 500mg,Gastrointestinal,Strip,10,153.11,Card,1531.1
+944,2025-03-05,Atorvastatin 10mg,Antibiotics,Vial,23,31.92,Card,734.16
+974,2025-03-05,Metformin 500mg,Allergy,Vial,10,248.3,Cash,2483.0
+976,2025-03-05,Paracetamol 500mg,Pain Relief,Tab,24,231.67,Cash,5560.08
+1018,2025-03-05,Pantoprazole 40mg,Diabetes,Strip,7,175.61,UPI,1229.27
+1059,2025-03-05,Amoxicillin 500mg,Thyroid,Vial,12,159.82,Card,1917.84
+1070,2025-03-05,Omeprazole 20mg,Gastrointestinal,Vial,17,65.79,Cash,1118.43
+1107,2025-03-05,Levothyroxine 50mcg,Pain Relief,Capsule,17,210.76,Card,3582.92
+1115,2025-03-05,Atorvastatin 10mg,Cardiovascular,Vial,15,215.66,Cash,3234.9
+1273,2025-03-05,Pantoprazole 40mg,Thyroid,Vial,13,211.9,Insurance,2754.7
+1300,2025-03-05,Omeprazole 20mg,Antibiotics,Capsule,12,185.65,Card,2227.8
+1323,2025-03-05,Paracetamol 500mg,Cardiovascular,Tab,2,188.81,Insurance,377.62
+1351,2025-03-05,Ibuprofen 400mg,Thyroid,Vial,5,117.74,Card,588.7
+1416,2025-03-05,Omeprazole 20mg,Allergy,Tab,5,163.18,Cash,815.9
+1433,2025-03-05,Cetirizine 10mg,Antibiotics,Capsule,7,234.48,UPI,1641.36
+1449,2025-03-05,Cetirizine 10mg,Diabetes,Vial,1,71.22,Cash,71.22
+1478,2025-03-05,Azithromycin 500mg,Diabetes,Vial,16,125.7,Insurance,2011.2
+1682,2025-03-05,Atorvastatin 10mg,Cardiovascular,Tab,15,223.65,Card,3354.75
+1692,2025-03-05,Levothyroxine 50mcg,Diabetes,Strip,5,229.24,Card,1146.2
+1806,2025-03-05,Vitamin D3 1000IU,Antibiotics,Capsule,8,204.34,Insurance,1634.72
+1984,2025-03-05,Azithromycin 500mg,Gastrointestinal,Tab,7,221.76,Cash,1552.32
+84,2025-03-06,Amoxicillin 500mg,Thyroid,Strip,2,48.84,Card,97.68
+211,2025-03-06,Levothyroxine 50mcg,Cardiovascular,Tab,12,121.3,UPI,1455.6
+234,2025-03-06,Paracetamol 500mg,Vitamins & Supplements,Vial,7,106.73,Cash,747.11
+282,2025-03-06,Omeprazole 20mg,Pain Relief,Capsule,2,178.9,Card,357.8
+296,2025-03-06,Atorvastatin 10mg,Antibiotics,Capsule,23,50.2,Cash,1154.6
+305,2025-03-06,Amoxicillin 500mg,Allergy,Capsule,17,32.12,UPI,546.04
+443,2025-03-06,Azithromycin 500mg,Vitamins & Supplements,Tab,6,140.82,Insurance,844.92
+532,2025-03-06,Metformin 500mg,Thyroid,Capsule,7,211.2,Insurance,1478.4
+547,2025-03-06,Amoxicillin 500mg,Vitamins & Supplements,Capsule,18,203.27,UPI,3658.86
+823,2025-03-06,Ibuprofen 400mg,Thyroid,Capsule,3,129.09,Card,387.27
+858,2025-03-06,Omeprazole 20mg,Allergy,Tab,16,17.66,Cash,282.56
+931,2025-03-06,Ibuprofen 400mg,Thyroid,Strip,21,143.64,Insurance,3016.44
+971,2025-03-06,Azithromycin 500mg,Thyroid,Bottle,13,59.27,Card,770.51
+1072,2025-03-06,Paracetamol 500mg,Pain Relief,Tab,2,116.44,Card,232.88
+1113,2025-03-06,Pantoprazole 40mg,Cardiovascular,Capsule,18,151.9,Insurance,2734.2
+1214,2025-03-06,Pantoprazole 40mg,Cardiovascular,Strip,21,111.84,Card,2348.64
+1222,2025-03-06,Amlodipine 5mg,Vitamins & Supplements,Tab,18,173.86,Cash,3129.48
+1229,2025-03-06,Cetirizine 10mg,Pain Relief,Capsule,20,119.42,Insurance,2388.4
+1230,2025-03-06,Metformin 500mg,Pain Relief,Vial,8,236.84,Insurance,1894.72
+1250,2025-03-06,Levothyroxine 50mcg,Diabetes,Capsule,16,84.52,Card,1352.32
+1257,2025-03-06,Pantoprazole 40mg,Vitamins & Supplements,Capsule,21,232.68,UPI,4886.28
+1274,2025-03-06,Omeprazole 20mg,Diabetes,Vial,7,222.45,Cash,1557.15
+1296,2025-03-06,Atorvastatin 10mg,Diabetes,Vial,22,40.89,UPI,899.58
+1387,2025-03-06,Pantoprazole 40mg,Cardiovascular,Bottle,18,18.23,UPI,328.14
+1388,2025-03-06,Omeprazole 20mg,Pain Relief,Strip,9,231.53,Cash,2083.77
+1455,2025-03-06,Metformin 500mg,Vitamins & Supplements,Strip,16,152.86,UPI,2445.76
+1547,2025-03-06,Cetirizine 10mg,Vitamins & Supplements,Vial,6,205.61,Insurance,1233.66
+1739,2025-03-06,Azithromycin 500mg,Vitamins & Supplements,Strip,15,73.18,UPI,1097.7
+1761,2025-03-06,Paracetamol 500mg,Diabetes,Capsule,18,174.6,Card,3142.8
+1872,2025-03-06,Metformin 500mg,Gastrointestinal,Capsule,6,91.2,Card,547.2
+53,2025-03-07,Amoxicillin 500mg,Diabetes,Vial,23,44.52,Cash,1023.96
+72,2025-03-07,Azithromycin 500mg,Allergy,Vial,24,130.34,UPI,3128.16
+125,2025-03-07,Omeprazole 20mg,Antibiotics,Vial,19,78.1,Card,1483.9
+146,2025-03-07,Paracetamol 500mg,Pain Relief,Vial,12,146.51,Insurance,1758.12
+201,2025-03-07,Paracetamol 500mg,Vitamins & Supplements,Strip,8,157.85,Insurance,1262.8
+319,2025-03-07,Metformin 500mg,Gastrointestinal,Capsule,16,76.34,Insurance,1221.44
+338,2025-03-07,Amoxicillin 500mg,Gastrointestinal,Capsule,24,104.88,UPI,2517.12
+401,2025-03-07,Atorvastatin 10mg,Thyroid,Capsule,4,156.43,Cash,625.72
+502,2025-03-07,Vitamin D3 1000IU,Thyroid,Strip,5,206.42,Cash,1032.1
+694,2025-03-07,Pantoprazole 40mg,Allergy,Tab,1,123.93,Card,123.93
+750,2025-03-07,Metformin 500mg,Gastrointestinal,Capsule,18,64.83,Insurance,1166.94
+796,2025-03-07,Metformin 500mg,Vitamins & Supplements,Bottle,7,89.84,Insurance,628.88
+818,2025-03-07,Metformin 500mg,Gastrointestinal,Bottle,7,108.48,Cash,759.36
+1162,2025-03-07,Atorvastatin 10mg,Allergy,Vial,9,240.39,UPI,2163.51
+1390,2025-03-07,Metformin 500mg,Allergy,Capsule,23,119.76,Card,2754.48
+1531,2025-03-07,Amoxicillin 500mg,Antibiotics,Strip,21,79.68,Insurance,1673.28
+1545,2025-03-07,Vitamin D3 1000IU,Pain Relief,Vial,17,87.75,Card,1491.75
+1560,2025-03-07,Ibuprofen 400mg,Antibiotics,Vial,17,117.52,Card,1997.84
+1571,2025-03-07,Amlodipine 5mg,Allergy,Strip,18,91.17,Card,1641.06
+1625,2025-03-07,Omeprazole 20mg,Diabetes,Tab,21,90.92,Cash,1909.32
+1666,2025-03-07,Paracetamol 500mg,Allergy,Capsule,3,17.51,Card,52.53
+1668,2025-03-07,Metformin 500mg,Allergy,Bottle,3,208.09,UPI,624.27
+1769,2025-03-07,Vitamin D3 1000IU,Cardiovascular,Vial,21,137.24,UPI,2882.04
+1888,2025-03-07,Pantoprazole 40mg,Thyroid,Tab,24,106.83,Insurance,2563.92
+1895,2025-03-07,Levothyroxine 50mcg,Diabetes,Strip,22,39.29,UPI,864.38
+1899,2025-03-07,Vitamin D3 1000IU,Gastrointestinal,Tab,23,64.39,Cash,1480.97
+6,2025-03-08,Atorvastatin 10mg,Allergy,Capsule,2,163.55,Cash,327.1
+74,2025-03-08,Azithromycin 500mg,Pain Relief,Capsule,12,160.2,Insurance,1922.4
+100,2025-03-08,Amlodipine 5mg,Antibiotics,Vial,19,177.41,UPI,3370.79
+130,2025-03-08,Pantoprazole 40mg,Pain Relief,Vial,12,30.46,UPI,365.52
+135,2025-03-08,Pantoprazole 40mg,Diabetes,Strip,18,224.46,Insurance,4040.28
+148,2025-03-08,Paracetamol 500mg,Allergy,Bottle,13,96.98,Card,1260.74
+235,2025-03-08,Azithromycin 500mg,Gastrointestinal,Tab,24,228.63,UPI,5487.12
+372,2025-03-08,Cetirizine 10mg,Pain Relief,Vial,5,112.91,Card,564.55
+400,2025-03-08,Vitamin D3 1000IU,Cardiovascular,Vial,19,155.57,UPI,2955.83
+419,2025-03-08,Metformin 500mg,Pain Relief,Bottle,14,47.5,Cash,665.0
+508,2025-03-08,Pantoprazole 40mg,Cardiovascular,Vial,17,50.79,Insurance,863.43
+539,2025-03-08,Vitamin D3 1000IU,Gastrointestinal,Vial,17,128.17,Card,2178.89
+686,2025-03-08,Levothyroxine 50mcg,Cardiovascular,Vial,13,199.48,Card,2593.24
+811,2025-03-08,Omeprazole 20mg,Gastrointestinal,Tab,4,96.37,Cash,385.48
+843,2025-03-08,Ibuprofen 400mg,Allergy,Tab,16,230.04,Cash,3680.64
+897,2025-03-08,Pantoprazole 40mg,Cardiovascular,Vial,4,246.01,Insurance,984.04
+903,2025-03-08,Ibuprofen 400mg,Gastrointestinal,Vial,7,91.79,Card,642.53
+908,2025-03-08,Metformin 500mg,Vitamins & Supplements,Vial,6,119.73,Insurance,718.38
+1004,2025-03-08,Amoxicillin 500mg,Thyroid,Tab,18,186.94,Card,3364.92
+1090,2025-03-08,Amlodipine 5mg,Pain Relief,Capsule,4,224.76,Card,899.04
+1141,2025-03-08,Cetirizine 10mg,Pain Relief,Tab,4,243.31,UPI,973.24
+1206,2025-03-08,Ibuprofen 400mg,Cardiovascular,Strip,12,210.58,Cash,2526.96
+1268,2025-03-08,Cetirizine 10mg,Cardiovascular,Capsule,11,41.48,Insurance,456.28
+1341,2025-03-08,Levothyroxine 50mcg,Gastrointestinal,Strip,3,22.88,Card,68.64
+1363,2025-03-08,Pantoprazole 40mg,Vitamins & Supplements,Vial,16,148.25,Card,2372.0
+1392,2025-03-08,Metformin 500mg,Pain Relief,Bottle,1,223.99,Card,223.99
+1432,2025-03-08,Amoxicillin 500mg,Antibiotics,Capsule,2,156.84,UPI,313.68
+1456,2025-03-08,Paracetamol 500mg,Gastrointestinal,Capsule,19,161.73,Cash,3072.87
+1481,2025-03-08,Amoxicillin 500mg,Diabetes,Tab,12,186.55,UPI,2238.6
+1607,2025-03-08,Atorvastatin 10mg,Gastrointestinal,Capsule,4,156.97,UPI,627.88
+1627,2025-03-08,Atorvastatin 10mg,Cardiovascular,Bottle,11,84.95,Insurance,934.45
+1635,2025-03-08,Cetirizine 10mg,Thyroid,Tab,12,162.44,Cash,1949.28
+1645,2025-03-08,Metformin 500mg,Gastrointestinal,Capsule,20,29.68,Insurance,593.6
+1864,2025-03-08,Paracetamol 500mg,Antibiotics,Tab,2,54.54,Cash,109.08
+1873,2025-03-08,Azithromycin 500mg,Vitamins & Supplements,Vial,12,41.09,UPI,493.08
+1903,2025-03-08,Vitamin D3 1000IU,Thyroid,Bottle,14,23.16,Cash,324.24
+55,2025-03-09,Paracetamol 500mg,Gastrointestinal,Tab,17,223.19,Insurance,3794.23
+64,2025-03-09,Cetirizine 10mg,Antibiotics,Capsule,21,39.18,Insurance,822.78
+126,2025-03-09,Atorvastatin 10mg,Vitamins & Supplements,Vial,23,130.71,UPI,3006.33
+147,2025-03-09,Azithromycin 500mg,Gastrointestinal,Bottle,18,80.65,Insurance,1451.7
+176,2025-03-09,Paracetamol 500mg,Pain Relief,Bottle,7,132.43,Insurance,927.01
+237,2025-03-09,Atorvastatin 10mg,Cardiovascular,Vial,8,195.74,Cash,1565.92
+302,2025-03-09,Paracetamol 500mg,Diabetes,Tab,7,106.19,Insurance,743.33
+356,2025-03-09,Atorvastatin 10mg,Gastrointestinal,Capsule,13,180.76,Insurance,2349.88
+486,2025-03-09,Atorvastatin 10mg,Pain Relief,Bottle,17,87.82,Insurance,1492.94
+575,2025-03-09,Paracetamol 500mg,Gastrointestinal,Strip,7,26.6,Card,186.2
+710,2025-03-09,Omeprazole 20mg,Cardiovascular,Capsule,2,18.15,Cash,36.3
+749,2025-03-09,Paracetamol 500mg,Diabetes,Tab,7,185.14,Card,1295.98
+790,2025-03-09,Azithromycin 500mg,Thyroid,Bottle,15,169.07,Insurance,2536.05
+801,2025-03-09,Atorvastatin 10mg,Cardiovascular,Capsule,11,218.17,Card,2399.87
+920,2025-03-09,Pantoprazole 40mg,Antibiotics,Strip,8,26.86,Card,214.88
+990,2025-03-09,Metformin 500mg,Gastrointestinal,Tab,15,166.75,UPI,2501.25
+1126,2025-03-09,Vitamin D3 1000IU,Pain Relief,Strip,16,206.09,Card,3297.44
+1240,2025-03-09,Pantoprazole 40mg,Pain Relief,Tab,18,56.37,Cash,1014.66
+1311,2025-03-09,Metformin 500mg,Antibiotics,Bottle,21,90.73,Card,1905.33
+1313,2025-03-09,Amoxicillin 500mg,Vitamins & Supplements,Capsule,10,246.79,Card,2467.9
+1331,2025-03-09,Levothyroxine 50mcg,Pain Relief,Bottle,16,48.26,Insurance,772.16
+1487,2025-03-09,Amlodipine 5mg,Thyroid,Tab,24,22.83,Insurance,547.92
+1515,2025-03-09,Amoxicillin 500mg,Diabetes,Vial,3,18.63,UPI,55.89
+1517,2025-03-09,Amlodipine 5mg,Thyroid,Vial,23,67.7,UPI,1557.1
+1696,2025-03-09,Levothyroxine 50mcg,Antibiotics,Strip,9,58.05,Insurance,522.45
+1719,2025-03-09,Pantoprazole 40mg,Cardiovascular,Bottle,15,238.59,Card,3578.85
+1725,2025-03-09,Azithromycin 500mg,Gastrointestinal,Strip,17,139.66,Insurance,2374.22
+1822,2025-03-09,Omeprazole 20mg,Thyroid,Strip,13,67.6,UPI,878.8
+1826,2025-03-09,Paracetamol 500mg,Diabetes,Strip,12,63.11,Cash,757.32
+1827,2025-03-09,Atorvastatin 10mg,Allergy,Tab,19,93.68,Insurance,1779.92
+1900,2025-03-09,Amoxicillin 500mg,Gastrointestinal,Tab,14,131.96,Card,1847.44
+94,2025-03-10,Cetirizine 10mg,Diabetes,Capsule,15,156.14,UPI,2342.1
+629,2025-03-10,Amlodipine 5mg,Pain Relief,Bottle,24,215.84,UPI,5180.16
+636,2025-03-10,Amlodipine 5mg,Diabetes,Bottle,9,122.07,Cash,1098.63
+671,2025-03-10,Vitamin D3 1000IU,Allergy,Tab,2,75.96,UPI,151.92
+689,2025-03-10,Pantoprazole 40mg,Diabetes,Strip,13,120.18,Cash,1562.34
+708,2025-03-10,Metformin 500mg,Thyroid,Tab,10,232.26,Insurance,2322.6
+791,2025-03-10,Amlodipine 5mg,Vitamins & Supplements,Bottle,16,71.23,Card,1139.68
+831,2025-03-10,Vitamin D3 1000IU,Diabetes,Bottle,2,192.99,Cash,385.98
+894,2025-03-10,Atorvastatin 10mg,Vitamins & Supplements,Bottle,10,107.81,Insurance,1078.1
+938,2025-03-10,Cetirizine 10mg,Vitamins & Supplements,Tab,3,242.06,Insurance,726.18
+984,2025-03-10,Atorvastatin 10mg,Vitamins & Supplements,Bottle,15,45.12,Cash,676.8
+985,2025-03-10,Vitamin D3 1000IU,Cardiovascular,Vial,16,43.89,Insurance,702.24
+1062,2025-03-10,Amlodipine 5mg,Diabetes,Strip,7,168.49,UPI,1179.43
+1065,2025-03-10,Levothyroxine 50mcg,Thyroid,Tab,17,138.88,Insurance,2360.96
+1181,2025-03-10,Atorvastatin 10mg,Thyroid,Vial,2,196.37,UPI,392.74
+1195,2025-03-10,Ibuprofen 400mg,Vitamins & Supplements,Capsule,22,173.78,Card,3823.16
+1299,2025-03-10,Ibuprofen 400mg,Antibiotics,Tab,7,214.74,Insurance,1503.18
+1302,2025-03-10,Atorvastatin 10mg,Pain Relief,Capsule,14,85.27,Cash,1193.78
+1415,2025-03-10,Metformin 500mg,Pain Relief,Capsule,11,191.14,UPI,2102.54
+1418,2025-03-10,Amlodipine 5mg,Cardiovascular,Bottle,17,117.78,Card,2002.26
+1452,2025-03-10,Azithromycin 500mg,Thyroid,Bottle,13,128.08,Cash,1665.04
+1518,2025-03-10,Ibuprofen 400mg,Allergy,Strip,21,106.33,Card,2232.93
+1613,2025-03-10,Ibuprofen 400mg,Cardiovascular,Strip,18,23.43,Insurance,421.74
+1614,2025-03-10,Atorvastatin 10mg,Diabetes,Vial,14,229.99,Cash,3219.86
+1667,2025-03-10,Amlodipine 5mg,Vitamins & Supplements,Capsule,9,197.49,Card,1777.41
+1707,2025-03-10,Paracetamol 500mg,Pain Relief,Capsule,11,207.77,UPI,2285.47
+1770,2025-03-10,Cetirizine 10mg,Diabetes,Capsule,8,148.28,Insurance,1186.24
+1855,2025-03-10,Cetirizine 10mg,Pain Relief,Vial,11,39.94,UPI,439.34
+1886,2025-03-10,Atorvastatin 10mg,Vitamins & Supplements,Bottle,2,171.93,Cash,343.86
+1979,2025-03-10,Metformin 500mg,Gastrointestinal,Bottle,7,150.31,UPI,1052.17
+12,2025-03-11,Atorvastatin 10mg,Cardiovascular,Vial,8,157.5,Insurance,1260.0
+13,2025-03-11,Omeprazole 20mg,Vitamins & Supplements,Capsule,19,174.2,Cash,3309.8
+132,2025-03-11,Ibuprofen 400mg,Allergy,Capsule,2,70.98,Cash,141.96
+218,2025-03-11,Cetirizine 10mg,Thyroid,Vial,5,232.51,Cash,1162.55
+287,2025-03-11,Omeprazole 20mg,Thyroid,Bottle,16,59.55,UPI,952.8
+298,2025-03-11,Omeprazole 20mg,Thyroid,Strip,4,186.41,Cash,745.64
+328,2025-03-11,Amlodipine 5mg,Cardiovascular,Vial,22,63.83,Insurance,1404.26
+370,2025-03-11,Amlodipine 5mg,Diabetes,Tab,2,15.96,Insurance,31.92
+700,2025-03-11,Omeprazole 20mg,Antibiotics,Capsule,3,18.57,Insurance,55.71
+786,2025-03-11,Cetirizine 10mg,Vitamins & Supplements,Tab,5,224.43,UPI,1122.15
+869,2025-03-11,Vitamin D3 1000IU,Gastrointestinal,Tab,2,146.97,Insurance,293.94
+892,2025-03-11,Levothyroxine 50mcg,Gastrointestinal,Strip,9,233.41,Cash,2100.69
+954,2025-03-11,Ibuprofen 400mg,Thyroid,Vial,1,172.1,Card,172.1
+1032,2025-03-11,Metformin 500mg,Vitamins & Supplements,Strip,16,153.48,Card,2455.68
+1079,2025-03-11,Atorvastatin 10mg,Thyroid,Vial,7,229.28,Card,1604.96
+1087,2025-03-11,Levothyroxine 50mcg,Thyroid,Bottle,5,54.53,Insurance,272.65
+1235,2025-03-11,Azithromycin 500mg,Gastrointestinal,Strip,8,205.45,Insurance,1643.6
+1254,2025-03-11,Amlodipine 5mg,Vitamins & Supplements,Bottle,8,24.18,Card,193.44
+1267,2025-03-11,Omeprazole 20mg,Cardiovascular,Bottle,1,110.44,UPI,110.44
+1290,2025-03-11,Amlodipine 5mg,Pain Relief,Vial,8,19.71,Cash,157.68
+1314,2025-03-11,Vitamin D3 1000IU,Thyroid,Strip,21,135.46,Card,2844.66
+1330,2025-03-11,Atorvastatin 10mg,Vitamins & Supplements,Capsule,23,188.51,Insurance,4335.73
+1342,2025-03-11,Paracetamol 500mg,Antibiotics,Bottle,11,146.69,Card,1613.59
+1451,2025-03-11,Pantoprazole 40mg,Vitamins & Supplements,Strip,5,159.55,Card,797.75
+1495,2025-03-11,Metformin 500mg,Vitamins & Supplements,Bottle,18,149.18,Cash,2685.24
+1528,2025-03-11,Metformin 500mg,Diabetes,Strip,14,128.22,Cash,1795.08
+1684,2025-03-11,Metformin 500mg,Allergy,Capsule,16,189.87,Insurance,3037.92
+1738,2025-03-11,Paracetamol 500mg,Pain Relief,Capsule,8,41.66,Card,333.28
+1790,2025-03-11,Ibuprofen 400mg,Thyroid,Strip,4,172.97,Insurance,691.88
+1792,2025-03-11,Vitamin D3 1000IU,Diabetes,Vial,18,225.48,UPI,4058.64
+31,2025-03-12,Amoxicillin 500mg,Pain Relief,Vial,16,185.91,UPI,2974.56
+149,2025-03-12,Amlodipine 5mg,Diabetes,Tab,5,231.94,Cash,1159.7
+256,2025-03-12,Pantoprazole 40mg,Thyroid,Capsule,4,153.69,Insurance,614.76
+350,2025-03-12,Omeprazole 20mg,Diabetes,Tab,15,132.08,Cash,1981.2
+406,2025-03-12,Amoxicillin 500mg,Diabetes,Vial,24,137.23,UPI,3293.52
+512,2025-03-12,Omeprazole 20mg,Diabetes,Capsule,23,94.03,UPI,2162.69
+576,2025-03-12,Ibuprofen 400mg,Gastrointestinal,Vial,12,148.79,Insurance,1785.48
+599,2025-03-12,Omeprazole 20mg,Antibiotics,Tab,6,134.6,UPI,807.6
+616,2025-03-12,Cetirizine 10mg,Gastrointestinal,Capsule,10,104.07,Card,1040.7
+657,2025-03-12,Metformin 500mg,Gastrointestinal,Tab,14,32.23,Cash,451.22
+666,2025-03-12,Vitamin D3 1000IU,Antibiotics,Vial,17,187.18,Card,3182.06
+676,2025-03-12,Ibuprofen 400mg,Antibiotics,Capsule,11,249.25,UPI,2741.75
+725,2025-03-12,Pantoprazole 40mg,Cardiovascular,Vial,7,153.68,Card,1075.76
+745,2025-03-12,Paracetamol 500mg,Thyroid,Tab,22,129.22,Insurance,2842.84
+748,2025-03-12,Amoxicillin 500mg,Gastrointestinal,Bottle,5,242.82,UPI,1214.1
+762,2025-03-12,Azithromycin 500mg,Diabetes,Capsule,23,199.31,Card,4584.13
+789,2025-03-12,Ibuprofen 400mg,Thyroid,Capsule,21,86.96,UPI,1826.16
+893,2025-03-12,Omeprazole 20mg,Diabetes,Tab,15,162.68,Cash,2440.2
+899,2025-03-12,Paracetamol 500mg,Antibiotics,Vial,13,199.63,UPI,2595.19
+1014,2025-03-12,Metformin 500mg,Pain Relief,Strip,16,76.81,Cash,1228.96
+1117,2025-03-12,Amlodipine 5mg,Diabetes,Bottle,24,142.88,Insurance,3429.12
+1283,2025-03-12,Ibuprofen 400mg,Pain Relief,Tab,14,65.03,Cash,910.42
+1333,2025-03-12,Azithromycin 500mg,Allergy,Capsule,19,151.86,Card,2885.34
+1437,2025-03-12,Cetirizine 10mg,Cardiovascular,Capsule,20,175.02,Cash,3500.4
+1462,2025-03-12,Levothyroxine 50mcg,Vitamins & Supplements,Bottle,7,183.09,Card,1281.63
+1473,2025-03-12,Pantoprazole 40mg,Allergy,Vial,1,139.13,Insurance,139.13
+1690,2025-03-12,Paracetamol 500mg,Cardiovascular,Bottle,23,41.51,Card,954.73
+1752,2025-03-12,Vitamin D3 1000IU,Pain Relief,Capsule,23,19.24,UPI,442.52
+1765,2025-03-12,Amoxicillin 500mg,Allergy,Strip,8,40.35,Insurance,322.8
+1847,2025-03-12,Amlodipine 5mg,Antibiotics,Strip,9,124.88,Cash,1123.92
+1860,2025-03-12,Azithromycin 500mg,Gastrointestinal,Tab,15,204.01,Card,3060.15
+1877,2025-03-12,Levothyroxine 50mcg,Cardiovascular,Vial,1,38.91,Cash,38.91
+182,2025-03-13,Amoxicillin 500mg,Allergy,Vial,21,94.05,UPI,1975.05
+199,2025-03-13,Amoxicillin 500mg,Thyroid,Bottle,16,222.13,Cash,3554.08
+230,2025-03-13,Atorvastatin 10mg,Vitamins & Supplements,Tab,6,56.65,Card,339.9
+499,2025-03-13,Omeprazole 20mg,Pain Relief,Vial,19,102.02,UPI,1938.38
+558,2025-03-13,Metformin 500mg,Allergy,Vial,4,38.24,UPI,152.96
+675,2025-03-13,Atorvastatin 10mg,Allergy,Tab,15,230.49,Insurance,3457.35
+728,2025-03-13,Vitamin D3 1000IU,Antibiotics,Vial,13,23.92,Insurance,310.96
+740,2025-03-13,Pantoprazole 40mg,Antibiotics,Strip,8,90.56,Insurance,724.48
+798,2025-03-13,Paracetamol 500mg,Pain Relief,Bottle,3,82.61,UPI,247.83
+837,2025-03-13,Metformin 500mg,Allergy,Tab,4,124.39,UPI,497.56
+848,2025-03-13,Omeprazole 20mg,Gastrointestinal,Tab,14,113.78,Insurance,1592.92
+924,2025-03-13,Omeprazole 20mg,Pain Relief,Vial,7,208.84,Insurance,1461.88
+928,2025-03-13,Omeprazole 20mg,Pain Relief,Vial,14,145.38,Card,2035.32
+962,2025-03-13,Levothyroxine 50mcg,Cardiovascular,Strip,15,109.63,Card,1644.45
+995,2025-03-13,Metformin 500mg,Thyroid,Vial,3,174.52,Card,523.56
+1075,2025-03-13,Metformin 500mg,Cardiovascular,Strip,14,137.31,Cash,1922.34
+1191,2025-03-13,Cetirizine 10mg,Thyroid,Bottle,2,132.64,Card,265.28
+1292,2025-03-13,Amoxicillin 500mg,Diabetes,Vial,17,148.78,Insurance,2529.26
+1305,2025-03-13,Cetirizine 10mg,Pain Relief,Strip,23,22.39,Cash,514.97
+1422,2025-03-13,Metformin 500mg,Pain Relief,Bottle,7,165.04,Cash,1155.28
+1464,2025-03-13,Metformin 500mg,Antibiotics,Bottle,15,215.86,Insurance,3237.9
+1574,2025-03-13,Levothyroxine 50mcg,Allergy,Bottle,16,119.6,Cash,1913.6
+1943,2025-03-13,Paracetamol 500mg,Diabetes,Tab,14,44.3,UPI,620.2
+1958,2025-03-13,Omeprazole 20mg,Cardiovascular,Vial,7,28.92,Insurance,202.44
+1959,2025-03-13,Atorvastatin 10mg,Cardiovascular,Capsule,21,39.77,Insurance,835.17
+61,2025-03-14,Azithromycin 500mg,Antibiotics,Vial,10,47.27,Insurance,472.7
+77,2025-03-14,Pantoprazole 40mg,Vitamins & Supplements,Bottle,10,239.29,Cash,2392.9
+96,2025-03-14,Atorvastatin 10mg,Vitamins & Supplements,Tab,5,184.49,Card,922.45
+101,2025-03-14,Ibuprofen 400mg,Antibiotics,Tab,18,222.55,Insurance,4005.9
+167,2025-03-14,Amoxicillin 500mg,Gastrointestinal,Tab,20,33.8,Insurance,676.0
+173,2025-03-14,Paracetamol 500mg,Antibiotics,Capsule,15,66.8,Insurance,1002.0
+395,2025-03-14,Cetirizine 10mg,Diabetes,Strip,5,56.26,UPI,281.3
+511,2025-03-14,Ibuprofen 400mg,Thyroid,Vial,3,187.22,Card,561.66
+607,2025-03-14,Amlodipine 5mg,Thyroid,Tab,14,214.85,Card,3007.9
+752,2025-03-14,Paracetamol 500mg,Diabetes,Bottle,22,176.77,Cash,3888.94
+778,2025-03-14,Ibuprofen 400mg,Vitamins & Supplements,Capsule,20,188.02,Card,3760.4
+881,2025-03-14,Levothyroxine 50mcg,Antibiotics,Vial,21,20.28,Card,425.88
+989,2025-03-14,Omeprazole 20mg,Cardiovascular,Vial,1,145.82,Insurance,145.82
+1030,2025-03-14,Cetirizine 10mg,Vitamins & Supplements,Capsule,4,33.82,UPI,135.28
+1122,2025-03-14,Amoxicillin 500mg,Cardiovascular,Bottle,18,34.05,Cash,612.9
+1149,2025-03-14,Metformin 500mg,Pain Relief,Tab,2,58.69,Insurance,117.38
+1153,2025-03-14,Levothyroxine 50mcg,Allergy,Strip,5,195.87,Insurance,979.35
+1158,2025-03-14,Omeprazole 20mg,Antibiotics,Bottle,3,199.22,UPI,597.66
+1287,2025-03-14,Metformin 500mg,Diabetes,Strip,24,128.63,Card,3087.12
+1327,2025-03-14,Vitamin D3 1000IU,Cardiovascular,Capsule,10,160.89,UPI,1608.9
+1345,2025-03-14,Paracetamol 500mg,Diabetes,Bottle,1,94.95,Cash,94.95
+1354,2025-03-14,Cetirizine 10mg,Pain Relief,Capsule,16,28.01,Cash,448.16
+1366,2025-03-14,Metformin 500mg,Antibiotics,Strip,10,114.07,Insurance,1140.7
+1380,2025-03-14,Vitamin D3 1000IU,Pain Relief,Strip,3,173.44,UPI,520.32
+1491,2025-03-14,Pantoprazole 40mg,Pain Relief,Strip,9,73.77,Cash,663.93
+1593,2025-03-14,Levothyroxine 50mcg,Cardiovascular,Vial,13,199.41,Cash,2592.33
+1650,2025-03-14,Levothyroxine 50mcg,Antibiotics,Bottle,18,173.12,UPI,3116.16
+1661,2025-03-14,Metformin 500mg,Vitamins & Supplements,Tab,23,94.07,UPI,2163.61
+1718,2025-03-14,Ibuprofen 400mg,Gastrointestinal,Capsule,2,233.79,Card,467.58
+1896,2025-03-14,Metformin 500mg,Antibiotics,Bottle,20,57.46,UPI,1149.2
+1919,2025-03-14,Amoxicillin 500mg,Thyroid,Tab,15,57.13,UPI,856.95
+1990,2025-03-14,Metformin 500mg,Diabetes,Strip,16,241.14,Insurance,3858.24
+4,2025-03-15,Amlodipine 5mg,Gastrointestinal,Vial,5,75.37,Card,376.85
+43,2025-03-15,Metformin 500mg,Antibiotics,Vial,7,240.65,UPI,1684.55
+99,2025-03-15,Amoxicillin 500mg,Vitamins & Supplements,Vial,3,245.75,Insurance,737.25
+121,2025-03-15,Cetirizine 10mg,Gastrointestinal,Tab,10,99.55,Insurance,995.5
+177,2025-03-15,Omeprazole 20mg,Vitamins & Supplements,Bottle,8,29.42,Card,235.36
+178,2025-03-15,Pantoprazole 40mg,Vitamins & Supplements,Vial,3,182.92,UPI,548.76
+195,2025-03-15,Pantoprazole 40mg,Cardiovascular,Bottle,7,82.02,Insurance,574.14
+244,2025-03-15,Paracetamol 500mg,Thyroid,Vial,15,126.56,UPI,1898.4
+515,2025-03-15,Levothyroxine 50mcg,Pain Relief,Vial,15,127.4,Card,1911.0
+533,2025-03-15,Amlodipine 5mg,Diabetes,Tab,22,192.63,Card,4237.86
+882,2025-03-15,Ibuprofen 400mg,Vitamins & Supplements,Capsule,8,155.97,Insurance,1247.76
+1027,2025-03-15,Paracetamol 500mg,Gastrointestinal,Strip,3,20.69,Card,62.07
+1043,2025-03-15,Vitamin D3 1000IU,Pain Relief,Bottle,21,133.54,Cash,2804.34
+1052,2025-03-15,Azithromycin 500mg,Pain Relief,Strip,16,136.29,Insurance,2180.64
+1145,2025-03-15,Pantoprazole 40mg,Gastrointestinal,Tab,20,175.14,Card,3502.8
+1176,2025-03-15,Cetirizine 10mg,Vitamins & Supplements,Vial,22,61.0,Insurance,1342.0
+1256,2025-03-15,Cetirizine 10mg,Gastrointestinal,Bottle,10,26.89,Cash,268.9
+1266,2025-03-15,Cetirizine 10mg,Diabetes,Capsule,23,49.21,Insurance,1131.83
+1315,2025-03-15,Paracetamol 500mg,Antibiotics,Vial,23,234.55,UPI,5394.65
+1372,2025-03-15,Vitamin D3 1000IU,Thyroid,Strip,19,105.51,Card,2004.69
+1395,2025-03-15,Pantoprazole 40mg,Pain Relief,Bottle,6,172.38,Card,1034.28
+1430,2025-03-15,Pantoprazole 40mg,Pain Relief,Vial,9,76.95,Insurance,692.55
+1512,2025-03-15,Atorvastatin 10mg,Vitamins & Supplements,Bottle,5,92.26,UPI,461.3
+1878,2025-03-15,Paracetamol 500mg,Allergy,Strip,11,26.55,Insurance,292.05
+1897,2025-03-15,Metformin 500mg,Allergy,Bottle,18,45.56,Insurance,820.08
+1936,2025-03-15,Levothyroxine 50mcg,Cardiovascular,Bottle,6,239.69,Insurance,1438.14
+42,2025-03-16,Omeprazole 20mg,Allergy,Bottle,23,152.02,UPI,3496.46
+107,2025-03-16,Amlodipine 5mg,Gastrointestinal,Capsule,12,76.43,Card,917.16
+300,2025-03-16,Atorvastatin 10mg,Pain Relief,Tab,9,99.37,Card,894.33
+306,2025-03-16,Atorvastatin 10mg,Diabetes,Tab,24,234.17,Cash,5620.08
+340,2025-03-16,Amlodipine 5mg,Cardiovascular,Strip,12,20.84,Cash,250.08
+361,2025-03-16,Atorvastatin 10mg,Diabetes,Strip,20,223.88,Card,4477.6
+389,2025-03-16,Ibuprofen 400mg,Diabetes,Capsule,14,185.36,Insurance,2595.04
+510,2025-03-16,Metformin 500mg,Antibiotics,Capsule,11,115.46,Insurance,1270.06
+557,2025-03-16,Metformin 500mg,Pain Relief,Tab,14,139.83,Card,1957.62
+592,2025-03-16,Levothyroxine 50mcg,Diabetes,Capsule,7,36.88,UPI,258.16
+601,2025-03-16,Amoxicillin 500mg,Antibiotics,Vial,6,242.71,UPI,1456.26
+617,2025-03-16,Ibuprofen 400mg,Antibiotics,Vial,19,98.09,UPI,1863.71
+646,2025-03-16,Cetirizine 10mg,Cardiovascular,Tab,4,211.43,Card,845.72
+648,2025-03-16,Vitamin D3 1000IU,Pain Relief,Bottle,8,173.83,Insurance,1390.64
+758,2025-03-16,Levothyroxine 50mcg,Antibiotics,Vial,10,179.74,Insurance,1797.4
+770,2025-03-16,Omeprazole 20mg,Vitamins & Supplements,Bottle,13,229.22,Insurance,2979.86
+866,2025-03-16,Omeprazole 20mg,Gastrointestinal,Tab,23,143.4,Insurance,3298.2
+889,2025-03-16,Omeprazole 20mg,Vitamins & Supplements,Capsule,14,90.78,Insurance,1270.92
+896,2025-03-16,Vitamin D3 1000IU,Pain Relief,Capsule,16,245.8,Insurance,3932.8
+1085,2025-03-16,Azithromycin 500mg,Pain Relief,Vial,9,212.96,Card,1916.64
+1089,2025-03-16,Ibuprofen 400mg,Diabetes,Tab,16,60.85,Card,973.6
+1588,2025-03-16,Amoxicillin 500mg,Pain Relief,Vial,1,170.92,UPI,170.92
+1655,2025-03-16,Amoxicillin 500mg,Diabetes,Tab,24,85.61,Cash,2054.64
+1861,2025-03-16,Azithromycin 500mg,Diabetes,Capsule,2,53.33,UPI,106.66
+1871,2025-03-16,Metformin 500mg,Allergy,Bottle,15,138.79,Card,2081.85
+1887,2025-03-16,Paracetamol 500mg,Gastrointestinal,Vial,9,24.54,Card,220.86
+1946,2025-03-16,Ibuprofen 400mg,Allergy,Tab,9,248.39,Cash,2235.51
+1974,2025-03-16,Ibuprofen 400mg,Pain Relief,Bottle,11,108.62,Cash,1194.82
+78,2025-03-17,Azithromycin 500mg,Cardiovascular,Vial,14,220.43,Cash,3086.02
+134,2025-03-17,Pantoprazole 40mg,Thyroid,Strip,8,119.27,Insurance,954.16
+264,2025-03-17,Vitamin D3 1000IU,Pain Relief,Strip,21,243.58,Cash,5115.18
+290,2025-03-17,Levothyroxine 50mcg,Thyroid,Capsule,14,61.53,Cash,861.42
+403,2025-03-17,Vitamin D3 1000IU,Allergy,Bottle,1,243.54,Cash,243.54
+436,2025-03-17,Pantoprazole 40mg,Pain Relief,Capsule,10,249.58,Insurance,2495.8
+483,2025-03-17,Azithromycin 500mg,Thyroid,Strip,21,135.9,Card,2853.9
+564,2025-03-17,Paracetamol 500mg,Pain Relief,Capsule,14,144.12,Cash,2017.68
+684,2025-03-17,Pantoprazole 40mg,Antibiotics,Tab,7,33.41,Cash,233.87
+734,2025-03-17,Metformin 500mg,Allergy,Strip,6,87.76,Insurance,526.56
+794,2025-03-17,Omeprazole 20mg,Pain Relief,Tab,22,152.32,Cash,3351.04
+817,2025-03-17,Amoxicillin 500mg,Vitamins & Supplements,Tab,3,122.18,UPI,366.54
+919,2025-03-17,Amoxicillin 500mg,Cardiovascular,Vial,11,169.87,Insurance,1868.57
+973,2025-03-17,Ibuprofen 400mg,Diabetes,Bottle,24,33.97,Card,815.28
+987,2025-03-17,Vitamin D3 1000IU,Vitamins & Supplements,Bottle,2,173.75,Card,347.5
+1023,2025-03-17,Cetirizine 10mg,Thyroid,Capsule,4,151.25,Card,605.0
+1058,2025-03-17,Pantoprazole 40mg,Diabetes,Bottle,4,42.3,Insurance,169.2
+1064,2025-03-17,Atorvastatin 10mg,Cardiovascular,Capsule,21,145.26,Insurance,3050.46
+1066,2025-03-17,Metformin 500mg,Thyroid,Bottle,16,187.54,UPI,3000.64
+1137,2025-03-17,Levothyroxine 50mcg,Gastrointestinal,Bottle,20,218.76,UPI,4375.2
+1184,2025-03-17,Omeprazole 20mg,Pain Relief,Capsule,14,240.91,UPI,3372.74
+1190,2025-03-17,Amoxicillin 500mg,Gastrointestinal,Vial,11,149.58,Card,1645.38
+1312,2025-03-17,Paracetamol 500mg,Pain Relief,Strip,9,243.96,Cash,2195.64
+1375,2025-03-17,Omeprazole 20mg,Thyroid,Vial,23,147.51,Card,3392.73
+1536,2025-03-17,Levothyroxine 50mcg,Thyroid,Strip,23,245.93,Insurance,5656.39
+1561,2025-03-17,Ibuprofen 400mg,Allergy,Capsule,16,243.41,Card,3894.56
+1706,2025-03-17,Vitamin D3 1000IU,Diabetes,Tab,17,70.95,Insurance,1206.15
+1714,2025-03-17,Omeprazole 20mg,Pain Relief,Capsule,4,81.39,Insurance,325.56
+1717,2025-03-17,Ibuprofen 400mg,Gastrointestinal,Vial,2,140.23,Insurance,280.46
+1747,2025-03-17,Azithromycin 500mg,Vitamins & Supplements,Vial,12,61.41,Insurance,736.92
+1772,2025-03-17,Atorvastatin 10mg,Vitamins & Supplements,Strip,4,126.69,Card,506.76
+1817,2025-03-17,Azithromycin 500mg,Vitamins & Supplements,Strip,16,46.52,Card,744.32
+1829,2025-03-17,Pantoprazole 40mg,Allergy,Strip,23,19.64,Insurance,451.72
+1854,2025-03-17,Cetirizine 10mg,Thyroid,Tab,6,101.24,Card,607.44
+1867,2025-03-17,Amlodipine 5mg,Vitamins & Supplements,Bottle,8,193.94,Card,1551.52
+1889,2025-03-17,Metformin 500mg,Antibiotics,Tab,23,200.85,Insurance,4619.55
+1918,2025-03-17,Metformin 500mg,Cardiovascular,Strip,2,158.07,Card,316.14
+57,2025-03-18,Ibuprofen 400mg,Gastrointestinal,Vial,18,187.78,Card,3380.04
+90,2025-03-18,Cetirizine 10mg,Pain Relief,Strip,1,26.65,UPI,26.65
+109,2025-03-18,Paracetamol 500mg,Cardiovascular,Capsule,10,185.68,UPI,1856.8
+325,2025-03-18,Metformin 500mg,Antibiotics,Vial,12,109.21,UPI,1310.52
+383,2025-03-18,Azithromycin 500mg,Allergy,Bottle,19,215.56,Cash,4095.64
+385,2025-03-18,Ibuprofen 400mg,Antibiotics,Tab,8,222.32,UPI,1778.56
+463,2025-03-18,Amlodipine 5mg,Pain Relief,Capsule,17,190.71,Insurance,3242.07
+717,2025-03-18,Pantoprazole 40mg,Cardiovascular,Tab,2,220.49,Insurance,440.98
+787,2025-03-18,Paracetamol 500mg,Allergy,Strip,23,133.83,Card,3078.09
+877,2025-03-18,Levothyroxine 50mcg,Diabetes,Bottle,1,53.68,Cash,53.68
+932,2025-03-18,Azithromycin 500mg,Gastrointestinal,Bottle,1,30.1,Cash,30.1
+950,2025-03-18,Levothyroxine 50mcg,Cardiovascular,Capsule,7,118.83,UPI,831.81
+1041,2025-03-18,Ibuprofen 400mg,Allergy,Strip,20,50.38,Cash,1007.6
+1108,2025-03-18,Pantoprazole 40mg,Pain Relief,Capsule,1,179.07,UPI,179.07
+1171,2025-03-18,Paracetamol 500mg,Cardiovascular,Capsule,3,211.44,Cash,634.32
+1199,2025-03-18,Omeprazole 20mg,Vitamins & Supplements,Vial,3,208.06,UPI,624.18
+1361,2025-03-18,Vitamin D3 1000IU,Allergy,Capsule,14,56.69,Cash,793.66
+1466,2025-03-18,Paracetamol 500mg,Thyroid,Bottle,3,58.29,UPI,174.87
+1532,2025-03-18,Levothyroxine 50mcg,Pain Relief,Vial,7,32.67,UPI,228.69
+1591,2025-03-18,Omeprazole 20mg,Diabetes,Bottle,5,33.56,UPI,167.8
+1665,2025-03-18,Atorvastatin 10mg,Cardiovascular,Vial,10,65.19,Cash,651.9
+1678,2025-03-18,Cetirizine 10mg,Diabetes,Strip,7,140.37,UPI,982.59
+1740,2025-03-18,Paracetamol 500mg,Pain Relief,Capsule,15,204.73,UPI,3070.95
+1875,2025-03-18,Levothyroxine 50mcg,Allergy,Strip,13,74.51,Insurance,968.63
+1908,2025-03-18,Ibuprofen 400mg,Thyroid,Capsule,7,206.68,Cash,1446.76
+1914,2025-03-18,Atorvastatin 10mg,Allergy,Bottle,8,167.57,UPI,1340.56
+1944,2025-03-18,Azithromycin 500mg,Gastrointestinal,Vial,8,152.76,Cash,1222.08
+1960,2025-03-18,Cetirizine 10mg,Allergy,Vial,14,58.39,Cash,817.46
+1995,2025-03-18,Metformin 500mg,Thyroid,Tab,13,96.79,Card,1258.27
+10,2025-03-19,Cetirizine 10mg,Vitamins & Supplements,Vial,2,159.63,Card,319.26
+276,2025-03-19,Levothyroxine 50mcg,Cardiovascular,Vial,15,158.28,Cash,2374.2
+313,2025-03-19,Vitamin D3 1000IU,Diabetes,Vial,19,210.2,UPI,3993.8
+316,2025-03-19,Metformin 500mg,Gastrointestinal,Strip,23,137.94,Cash,3172.62
+359,2025-03-19,Amoxicillin 500mg,Pain Relief,Tab,4,153.96,Insurance,615.84
+432,2025-03-19,Pantoprazole 40mg,Pain Relief,Bottle,1,40.04,Card,40.04
+563,2025-03-19,Amoxicillin 500mg,Gastrointestinal,Tab,11,221.29,Insurance,2434.19
+566,2025-03-19,Amlodipine 5mg,Diabetes,Vial,23,104.83,Cash,2411.09
+638,2025-03-19,Omeprazole 20mg,Thyroid,Strip,19,207.9,Insurance,3950.1
+742,2025-03-19,Metformin 500mg,Vitamins & Supplements,Bottle,17,249.1,Insurance,4234.7
+747,2025-03-19,Atorvastatin 10mg,Antibiotics,Capsule,15,139.09,Cash,2086.35
+755,2025-03-19,Ibuprofen 400mg,Diabetes,Strip,19,88.09,Cash,1673.71
+810,2025-03-19,Ibuprofen 400mg,Vitamins & Supplements,Bottle,2,207.19,Cash,414.38
+826,2025-03-19,Vitamin D3 1000IU,Thyroid,Tab,18,56.31,UPI,1013.58
+833,2025-03-19,Azithromycin 500mg,Vitamins & Supplements,Strip,6,205.3,Card,1231.8
+874,2025-03-19,Azithromycin 500mg,Antibiotics,Capsule,11,101.44,Cash,1115.84
+986,2025-03-19,Vitamin D3 1000IU,Thyroid,Vial,15,160.6,Insurance,2409.0
+1105,2025-03-19,Atorvastatin 10mg,Vitamins & Supplements,Bottle,10,219.09,Insurance,2190.9
+1210,2025-03-19,Azithromycin 500mg,Vitamins & Supplements,Strip,11,238.58,Cash,2624.38
+1278,2025-03-19,Vitamin D3 1000IU,Gastrointestinal,Tab,17,145.9,Cash,2480.3
+1352,2025-03-19,Pantoprazole 40mg,Thyroid,Bottle,13,80.68,Cash,1048.84
+1580,2025-03-19,Azithromycin 500mg,Cardiovascular,Strip,2,147.37,Insurance,294.74
+1590,2025-03-19,Atorvastatin 10mg,Cardiovascular,Bottle,1,55.28,Card,55.28
+1615,2025-03-19,Atorvastatin 10mg,Pain Relief,Tab,18,97.72,Cash,1758.96
+1672,2025-03-19,Pantoprazole 40mg,Allergy,Bottle,3,201.57,Insurance,604.71
+1674,2025-03-19,Omeprazole 20mg,Diabetes,Vial,7,214.99,UPI,1504.93
+1813,2025-03-19,Amlodipine 5mg,Gastrointestinal,Strip,2,169.95,Cash,339.9
+1848,2025-03-19,Levothyroxine 50mcg,Gastrointestinal,Strip,18,220.61,Insurance,3970.98
+1863,2025-03-19,Cetirizine 10mg,Thyroid,Bottle,10,95.34,Cash,953.4
+68,2025-03-20,Amlodipine 5mg,Cardiovascular,Strip,7,130.83,UPI,915.81
+216,2025-03-20,Amlodipine 5mg,Gastrointestinal,Bottle,24,29.1,Card,698.4
+309,2025-03-20,Paracetamol 500mg,Vitamins & Supplements,Tab,15,80.6,Cash,1209.0
+317,2025-03-20,Amoxicillin 500mg,Thyroid,Tab,24,220.5,Cash,5292.0
+363,2025-03-20,Atorvastatin 10mg,Gastrointestinal,Tab,19,23.26,Insurance,441.94
+376,2025-03-20,Amoxicillin 500mg,Diabetes,Vial,9,56.8,Insurance,511.2
+398,2025-03-20,Vitamin D3 1000IU,Gastrointestinal,Bottle,6,124.32,Cash,745.92
+506,2025-03-20,Cetirizine 10mg,Pain Relief,Strip,12,89.01,Card,1068.12
+655,2025-03-20,Levothyroxine 50mcg,Thyroid,Strip,13,23.56,UPI,306.28
+736,2025-03-20,Azithromycin 500mg,Vitamins & Supplements,Vial,22,212.01,Insurance,4664.22
+841,2025-03-20,Amlodipine 5mg,Gastrointestinal,Strip,15,220.62,Insurance,3309.3
+875,2025-03-20,Cetirizine 10mg,Allergy,Tab,8,48.56,Card,388.48
+923,2025-03-20,Azithromycin 500mg,Pain Relief,Tab,10,138.96,Insurance,1389.6
+1068,2025-03-20,Amlodipine 5mg,Gastrointestinal,Strip,9,223.65,Cash,2012.85
+1192,2025-03-20,Vitamin D3 1000IU,Thyroid,Tab,5,216.06,Cash,1080.3
+1252,2025-03-20,Metformin 500mg,Thyroid,Tab,7,212.54,Insurance,1487.78
+1279,2025-03-20,Paracetamol 500mg,Thyroid,Tab,6,225.08,Card,1350.48
+1281,2025-03-20,Metformin 500mg,Cardiovascular,Strip,17,25.87,Insurance,439.79
+1308,2025-03-20,Vitamin D3 1000IU,Vitamins & Supplements,Vial,8,112.56,UPI,900.48
+1450,2025-03-20,Vitamin D3 1000IU,Gastrointestinal,Capsule,19,112.58,Cash,2139.02
+1562,2025-03-20,Levothyroxine 50mcg,Gastrointestinal,Strip,7,23.82,Cash,166.74
+1565,2025-03-20,Amlodipine 5mg,Vitamins & Supplements,Tab,16,163.86,Cash,2621.76
+1683,2025-03-20,Paracetamol 500mg,Diabetes,Vial,19,39.03,Insurance,741.57
+1691,2025-03-20,Omeprazole 20mg,Pain Relief,Bottle,13,180.88,UPI,2351.44
+1812,2025-03-20,Amoxicillin 500mg,Thyroid,Bottle,14,71.47,Cash,1000.58
+1983,2025-03-20,Levothyroxine 50mcg,Cardiovascular,Tab,1,17.92,UPI,17.92
+7,2025-03-21,Levothyroxine 50mcg,Antibiotics,Vial,12,133.33,Insurance,1599.96
+29,2025-03-21,Pantoprazole 40mg,Cardiovascular,Tab,12,115.3,Card,1383.6
+54,2025-03-21,Amoxicillin 500mg,Vitamins & Supplements,Strip,6,88.09,Cash,528.54
+106,2025-03-21,Amoxicillin 500mg,Pain Relief,Capsule,8,98.8,Insurance,790.4
+396,2025-03-21,Pantoprazole 40mg,Cardiovascular,Bottle,20,56.73,Cash,1134.6
+423,2025-03-21,Pantoprazole 40mg,Antibiotics,Strip,6,79.49,UPI,476.94
+458,2025-03-21,Amoxicillin 500mg,Thyroid,Bottle,21,155.44,UPI,3264.24
+621,2025-03-21,Paracetamol 500mg,Pain Relief,Tab,17,184.46,UPI,3135.82
+705,2025-03-21,Amlodipine 5mg,Gastrointestinal,Capsule,21,94.39,UPI,1982.19
+766,2025-03-21,Cetirizine 10mg,Gastrointestinal,Bottle,6,31.4,UPI,188.4
+865,2025-03-21,Atorvastatin 10mg,Diabetes,Bottle,16,216.74,Insurance,3467.84
+868,2025-03-21,Amoxicillin 500mg,Pain Relief,Capsule,21,95.65,Insurance,2008.65
+955,2025-03-21,Ibuprofen 400mg,Gastrointestinal,Vial,1,243.57,Cash,243.57
+968,2025-03-21,Azithromycin 500mg,Pain Relief,Vial,22,38.0,Card,836.0
+988,2025-03-21,Atorvastatin 10mg,Thyroid,Vial,11,197.67,Card,2174.37
+1029,2025-03-21,Levothyroxine 50mcg,Allergy,Strip,22,184.62,UPI,4061.64
+1106,2025-03-21,Ibuprofen 400mg,Allergy,Bottle,9,211.09,Insurance,1899.81
+1112,2025-03-21,Amlodipine 5mg,Thyroid,Bottle,9,19.71,Insurance,177.39
+1228,2025-03-21,Pantoprazole 40mg,Allergy,Bottle,19,157.96,Cash,3001.24
+1349,2025-03-21,Ibuprofen 400mg,Pain Relief,Capsule,9,36.62,Card,329.58
+1500,2025-03-21,Vitamin D3 1000IU,Allergy,Capsule,17,83.12,Cash,1413.04
+1513,2025-03-21,Pantoprazole 40mg,Vitamins & Supplements,Capsule,23,158.55,UPI,3646.65
+1558,2025-03-21,Amoxicillin 500mg,Gastrointestinal,Bottle,11,166.24,Insurance,1828.64
+1660,2025-03-21,Atorvastatin 10mg,Antibiotics,Strip,18,73.72,Insurance,1326.96
+1671,2025-03-21,Vitamin D3 1000IU,Antibiotics,Tab,12,103.88,Card,1246.56
+1741,2025-03-21,Amlodipine 5mg,Vitamins & Supplements,Tab,11,194.3,Insurance,2137.3
+1757,2025-03-21,Omeprazole 20mg,Thyroid,Tab,10,209.3,Insurance,2093.0
+1774,2025-03-21,Cetirizine 10mg,Antibiotics,Strip,1,46.38,Cash,46.38
+1789,2025-03-21,Azithromycin 500mg,Antibiotics,Strip,6,71.78,Card,430.68
+1866,2025-03-21,Paracetamol 500mg,Pain Relief,Strip,23,244.23,UPI,5617.29
+1892,2025-03-21,Cetirizine 10mg,Gastrointestinal,Capsule,7,63.0,Insurance,441.0
+20,2025-03-22,Metformin 500mg,Gastrointestinal,Capsule,21,55.81,Insurance,1172.01
+33,2025-03-22,Pantoprazole 40mg,Antibiotics,Strip,18,48.02,Insurance,864.36
+160,2025-03-22,Atorvastatin 10mg,Allergy,Capsule,9,162.42,Cash,1461.78
+204,2025-03-22,Metformin 500mg,Vitamins & Supplements,Bottle,10,59.63,UPI,596.3
+297,2025-03-22,Azithromycin 500mg,Cardiovascular,Capsule,22,30.41,Cash,669.02
+409,2025-03-22,Azithromycin 500mg,Thyroid,Capsule,17,82.5,Cash,1402.5
+411,2025-03-22,Pantoprazole 40mg,Cardiovascular,Bottle,12,204.57,Insurance,2454.84
+476,2025-03-22,Paracetamol 500mg,Cardiovascular,Bottle,2,39.93,UPI,79.86
+521,2025-03-22,Pantoprazole 40mg,Gastrointestinal,Bottle,19,32.65,Insurance,620.35
+525,2025-03-22,Amlodipine 5mg,Antibiotics,Tab,1,235.12,Card,235.12
+528,2025-03-22,Amoxicillin 500mg,Pain Relief,Bottle,13,128.47,Card,1670.11
+595,2025-03-22,Omeprazole 20mg,Gastrointestinal,Bottle,23,165.7,Card,3811.1
+604,2025-03-22,Ibuprofen 400mg,Allergy,Vial,2,114.13,Insurance,228.26
+739,2025-03-22,Vitamin D3 1000IU,Pain Relief,Tab,17,242.42,UPI,4121.14
+815,2025-03-22,Omeprazole 20mg,Pain Relief,Capsule,1,241.04,Cash,241.04
+958,2025-03-22,Amoxicillin 500mg,Allergy,Vial,21,90.37,Insurance,1897.77
+1111,2025-03-22,Omeprazole 20mg,Antibiotics,Bottle,18,87.49,Cash,1574.82
+1131,2025-03-22,Metformin 500mg,Pain Relief,Vial,18,177.94,Card,3202.92
+1148,2025-03-22,Amoxicillin 500mg,Pain Relief,Vial,12,146.95,Card,1763.4
+1186,2025-03-22,Azithromycin 500mg,Vitamins & Supplements,Tab,10,71.03,Cash,710.3
+1203,2025-03-22,Amlodipine 5mg,Cardiovascular,Capsule,11,83.78,UPI,921.58
+1227,2025-03-22,Azithromycin 500mg,Thyroid,Strip,9,208.79,Cash,1879.11
+1338,2025-03-22,Pantoprazole 40mg,Cardiovascular,Tab,20,77.19,Card,1543.8
+1413,2025-03-22,Paracetamol 500mg,Gastrointestinal,Tab,9,232.08,Insurance,2088.72
+1494,2025-03-22,Paracetamol 500mg,Diabetes,Vial,23,46.78,Cash,1075.94
+1554,2025-03-22,Atorvastatin 10mg,Diabetes,Bottle,10,158.12,Cash,1581.2
+1567,2025-03-22,Paracetamol 500mg,Cardiovascular,Capsule,12,162.71,Card,1952.52
+1703,2025-03-22,Ibuprofen 400mg,Antibiotics,Bottle,8,235.44,Insurance,1883.52
+1727,2025-03-22,Atorvastatin 10mg,Antibiotics,Vial,6,214.84,UPI,1289.04
+1756,2025-03-22,Azithromycin 500mg,Thyroid,Strip,22,88.5,Cash,1947.0
+1805,2025-03-22,Atorvastatin 10mg,Antibiotics,Bottle,11,19.58,Insurance,215.38
+1893,2025-03-22,Amlodipine 5mg,Gastrointestinal,Strip,15,73.09,Card,1096.35
+1941,2025-03-22,Amlodipine 5mg,Gastrointestinal,Tab,20,135.72,Cash,2714.4
+11,2025-03-23,Levothyroxine 50mcg,Cardiovascular,Capsule,6,60.28,Cash,361.68
+102,2025-03-23,Pantoprazole 40mg,Thyroid,Tab,22,237.83,UPI,5232.26
+154,2025-03-23,Omeprazole 20mg,Gastrointestinal,Bottle,7,215.85,UPI,1510.95
+192,2025-03-23,Omeprazole 20mg,Pain Relief,Strip,13,84.23,UPI,1094.99
+271,2025-03-23,Cetirizine 10mg,Antibiotics,Strip,14,144.09,Insurance,2017.26
+333,2025-03-23,Azithromycin 500mg,Diabetes,Capsule,23,81.71,Cash,1879.33
+460,2025-03-23,Cetirizine 10mg,Allergy,Capsule,17,203.04,UPI,3451.68
+477,2025-03-23,Cetirizine 10mg,Gastrointestinal,Capsule,4,172.55,UPI,690.2
+514,2025-03-23,Cetirizine 10mg,Allergy,Capsule,1,81.95,UPI,81.95
+520,2025-03-23,Atorvastatin 10mg,Antibiotics,Strip,22,17.3,UPI,380.6
+574,2025-03-23,Paracetamol 500mg,Diabetes,Capsule,1,119.74,Insurance,119.74
+627,2025-03-23,Levothyroxine 50mcg,Thyroid,Strip,10,204.14,UPI,2041.4
+683,2025-03-23,Vitamin D3 1000IU,Allergy,Tab,20,234.2,Card,4684.0
+722,2025-03-23,Amlodipine 5mg,Allergy,Capsule,18,123.12,UPI,2216.16
+729,2025-03-23,Amoxicillin 500mg,Antibiotics,Capsule,11,248.73,UPI,2736.03
+769,2025-03-23,Pantoprazole 40mg,Gastrointestinal,Bottle,2,191.8,Cash,383.6
+783,2025-03-23,Metformin 500mg,Pain Relief,Strip,15,25.9,Cash,388.5
+890,2025-03-23,Ibuprofen 400mg,Allergy,Tab,18,118.45,Card,2132.1
+980,2025-03-23,Amlodipine 5mg,Cardiovascular,Vial,16,134.63,Card,2154.08
+1026,2025-03-23,Ibuprofen 400mg,Diabetes,Vial,24,225.29,UPI,5406.96
+1083,2025-03-23,Amlodipine 5mg,Diabetes,Vial,2,239.58,Insurance,479.16
+1152,2025-03-23,Amlodipine 5mg,Cardiovascular,Tab,22,240.98,Cash,5301.56
+1165,2025-03-23,Amlodipine 5mg,Diabetes,Vial,14,185.0,UPI,2590.0
+1301,2025-03-23,Amlodipine 5mg,Allergy,Bottle,3,212.83,Cash,638.49
+1371,2025-03-23,Azithromycin 500mg,Vitamins & Supplements,Bottle,17,240.5,Cash,4088.5
+1457,2025-03-23,Paracetamol 500mg,Antibiotics,Bottle,3,168.52,Insurance,505.56
+1496,2025-03-23,Cetirizine 10mg,Pain Relief,Bottle,13,110.85,Cash,1441.05
+1505,2025-03-23,Omeprazole 20mg,Antibiotics,Vial,10,57.99,Insurance,579.9
+1576,2025-03-23,Vitamin D3 1000IU,Allergy,Capsule,9,97.57,Card,878.13
+1620,2025-03-23,Atorvastatin 10mg,Pain Relief,Bottle,20,159.64,Cash,3192.8
+1633,2025-03-23,Pantoprazole 40mg,Cardiovascular,Bottle,23,146.57,Insurance,3371.11
+1670,2025-03-23,Ibuprofen 400mg,Pain Relief,Vial,12,158.56,Insurance,1902.72
+1688,2025-03-23,Amoxicillin 500mg,Gastrointestinal,Vial,12,182.08,Cash,2184.96
+1712,2025-03-23,Omeprazole 20mg,Gastrointestinal,Strip,3,31.26,UPI,93.78
+1736,2025-03-23,Vitamin D3 1000IU,Pain Relief,Bottle,6,111.17,Cash,667.02
+1753,2025-03-23,Atorvastatin 10mg,Diabetes,Tab,21,128.44,Insurance,2697.24
+1868,2025-03-23,Cetirizine 10mg,Gastrointestinal,Bottle,5,114.5,Cash,572.5
+1890,2025-03-23,Atorvastatin 10mg,Allergy,Capsule,3,203.71,Card,611.13
+1906,2025-03-23,Amoxicillin 500mg,Vitamins & Supplements,Bottle,16,157.13,Insurance,2514.08
+1933,2025-03-23,Ibuprofen 400mg,Diabetes,Capsule,21,137.41,Card,2885.61
+14,2025-03-24,Metformin 500mg,Diabetes,Bottle,11,138.56,Card,1524.16
+18,2025-03-24,Amoxicillin 500mg,Diabetes,Vial,8,27.62,Cash,220.96
+23,2025-03-24,Levothyroxine 50mcg,Thyroid,Tab,21,224.63,Cash,4717.23
+112,2025-03-24,Ibuprofen 400mg,Allergy,Tab,17,202.17,Insurance,3436.89
+127,2025-03-24,Metformin 500mg,Allergy,Capsule,22,211.63,Card,4655.86
+131,2025-03-24,Azithromycin 500mg,Vitamins & Supplements,Tab,24,180.91,UPI,4341.84
+155,2025-03-24,Ibuprofen 400mg,Antibiotics,Bottle,24,163.18,Insurance,3916.32
+243,2025-03-24,Azithromycin 500mg,Antibiotics,Strip,6,137.23,Insurance,823.38
+249,2025-03-24,Vitamin D3 1000IU,Vitamins & Supplements,Strip,10,60.91,Cash,609.1
+292,2025-03-24,Ibuprofen 400mg,Cardiovascular,Capsule,22,111.05,Cash,2443.1
+364,2025-03-24,Azithromycin 500mg,Gastrointestinal,Bottle,13,150.14,UPI,1951.82
+368,2025-03-24,Metformin 500mg,Pain Relief,Strip,21,216.57,Card,4547.97
+448,2025-03-24,Azithromycin 500mg,Allergy,Vial,12,147.74,UPI,1772.88
+472,2025-03-24,Pantoprazole 40mg,Thyroid,Vial,20,90.95,Cash,1819.0
+498,2025-03-24,Atorvastatin 10mg,Antibiotics,Strip,4,162.85,UPI,651.4
+647,2025-03-24,Atorvastatin 10mg,Vitamins & Supplements,Bottle,5,38.8,Card,194.0
+656,2025-03-24,Cetirizine 10mg,Thyroid,Bottle,4,227.1,Card,908.4
+711,2025-03-24,Cetirizine 10mg,Cardiovascular,Bottle,3,19.57,Insurance,58.71
+721,2025-03-24,Pantoprazole 40mg,Diabetes,Bottle,2,110.6,Card,221.2
+900,2025-03-24,Pantoprazole 40mg,Diabetes,Vial,22,91.56,Insurance,2014.32
+1051,2025-03-24,Amlodipine 5mg,Gastrointestinal,Bottle,18,98.61,Card,1774.98
+1069,2025-03-24,Levothyroxine 50mcg,Diabetes,Tab,14,180.2,UPI,2522.8
+1154,2025-03-24,Atorvastatin 10mg,Thyroid,Bottle,13,129.75,Insurance,1686.75
+1238,2025-03-24,Omeprazole 20mg,Pain Relief,Vial,8,187.69,UPI,1501.52
+1248,2025-03-24,Azithromycin 500mg,Vitamins & Supplements,Capsule,1,204.35,Insurance,204.35
+1316,2025-03-24,Levothyroxine 50mcg,Allergy,Capsule,9,137.84,UPI,1240.56
+1427,2025-03-24,Amlodipine 5mg,Allergy,Vial,23,132.57,Insurance,3049.11
+1543,2025-03-24,Atorvastatin 10mg,Allergy,Vial,1,127.48,Card,127.48
+1549,2025-03-24,Metformin 500mg,Diabetes,Capsule,24,204.33,UPI,4903.92
+1632,2025-03-24,Amlodipine 5mg,Gastrointestinal,Tab,4,158.02,UPI,632.08
+1649,2025-03-24,Atorvastatin 10mg,Allergy,Strip,22,28.27,Insurance,621.94
+1705,2025-03-24,Levothyroxine 50mcg,Gastrointestinal,Strip,17,17.31,UPI,294.27
+1803,2025-03-24,Metformin 500mg,Pain Relief,Bottle,19,235.37,Card,4472.03
+1862,2025-03-24,Amlodipine 5mg,Cardiovascular,Vial,1,73.56,Card,73.56
+1921,2025-03-24,Pantoprazole 40mg,Antibiotics,Tab,17,20.91,Insurance,355.47
+35,2025-03-25,Paracetamol 500mg,Diabetes,Vial,22,146.94,UPI,3232.68
+59,2025-03-25,Omeprazole 20mg,Antibiotics,Tab,24,78.31,Cash,1879.44
+114,2025-03-25,Atorvastatin 10mg,Cardiovascular,Vial,2,167.74,Insurance,335.48
+124,2025-03-25,Levothyroxine 50mcg,Cardiovascular,Capsule,5,41.41,UPI,207.05
+222,2025-03-25,Omeprazole 20mg,Allergy,Strip,13,220.34,Insurance,2864.42
+331,2025-03-25,Levothyroxine 50mcg,Allergy,Strip,18,112.59,UPI,2026.62
+379,2025-03-25,Ibuprofen 400mg,Allergy,Bottle,5,48.57,Cash,242.85
+381,2025-03-25,Cetirizine 10mg,Diabetes,Strip,10,200.64,UPI,2006.4
+464,2025-03-25,Atorvastatin 10mg,Antibiotics,Capsule,2,70.01,UPI,140.02
+497,2025-03-25,Amlodipine 5mg,Gastrointestinal,Capsule,9,248.14,Cash,2233.26
+523,2025-03-25,Cetirizine 10mg,Allergy,Capsule,12,215.8,UPI,2589.6
+587,2025-03-25,Azithromycin 500mg,Vitamins & Supplements,Capsule,10,182.06,Cash,1820.6
+704,2025-03-25,Atorvastatin 10mg,Vitamins & Supplements,Capsule,7,120.76,Cash,845.32
+730,2025-03-25,Amlodipine 5mg,Pain Relief,Tab,6,128.27,Cash,769.62
+738,2025-03-25,Ibuprofen 400mg,Diabetes,Strip,15,79.73,Cash,1195.95
+763,2025-03-25,Amoxicillin 500mg,Vitamins & Supplements,Capsule,1,152.22,UPI,152.22
+819,2025-03-25,Atorvastatin 10mg,Thyroid,Strip,1,91.31,UPI,91.31
+853,2025-03-25,Atorvastatin 10mg,Cardiovascular,Bottle,8,215.75,UPI,1726.0
+936,2025-03-25,Amoxicillin 500mg,Gastrointestinal,Bottle,20,168.5,Cash,3370.0
+957,2025-03-25,Ibuprofen 400mg,Diabetes,Capsule,1,43.18,Cash,43.18
+1095,2025-03-25,Vitamin D3 1000IU,Cardiovascular,Capsule,12,83.32,Card,999.84
+1177,2025-03-25,Amlodipine 5mg,Diabetes,Bottle,9,209.28,Cash,1883.52
+1189,2025-03-25,Amoxicillin 500mg,Thyroid,Vial,24,39.74,Card,953.76
+1193,2025-03-25,Levothyroxine 50mcg,Diabetes,Tab,7,139.71,Insurance,977.97
+1357,2025-03-25,Paracetamol 500mg,Vitamins & Supplements,Vial,22,48.4,Cash,1064.8
+1360,2025-03-25,Cetirizine 10mg,Gastrointestinal,Tab,23,110.73,Insurance,2546.79
+1374,2025-03-25,Azithromycin 500mg,Vitamins & Supplements,Capsule,24,220.53,Insurance,5292.72
+1467,2025-03-25,Paracetamol 500mg,Cardiovascular,Vial,21,117.66,Cash,2470.86
+1526,2025-03-25,Metformin 500mg,Antibiotics,Capsule,11,105.19,Cash,1157.09
+1544,2025-03-25,Azithromycin 500mg,Cardiovascular,Capsule,22,25.5,Insurance,561.0
+1723,2025-03-25,Vitamin D3 1000IU,Pain Relief,Bottle,14,224.85,Cash,3147.9
+1749,2025-03-25,Azithromycin 500mg,Antibiotics,Capsule,11,175.92,Insurance,1935.12
+1831,2025-03-25,Amlodipine 5mg,Vitamins & Supplements,Bottle,16,178.37,Insurance,2853.92
+1835,2025-03-25,Paracetamol 500mg,Thyroid,Capsule,19,193.07,Insurance,3668.33
+1874,2025-03-25,Metformin 500mg,Cardiovascular,Bottle,8,119.05,Insurance,952.4
+1876,2025-03-25,Ibuprofen 400mg,Pain Relief,Bottle,19,228.67,Insurance,4344.73
+1942,2025-03-25,Amoxicillin 500mg,Pain Relief,Bottle,15,71.46,UPI,1071.9
+1981,2025-03-25,Levothyroxine 50mcg,Thyroid,Vial,11,44.36,Insurance,487.96
+1997,2025-03-25,Cetirizine 10mg,Cardiovascular,Capsule,23,125.56,Card,2887.88
+65,2025-03-26,Amoxicillin 500mg,Allergy,Tab,24,186.58,UPI,4477.92
+91,2025-03-26,Pantoprazole 40mg,Gastrointestinal,Tab,21,37.25,Cash,782.25
+113,2025-03-26,Amlodipine 5mg,Vitamins & Supplements,Bottle,11,143.56,UPI,1579.16
+171,2025-03-26,Atorvastatin 10mg,Pain Relief,Capsule,14,42.14,Card,589.96
+179,2025-03-26,Amlodipine 5mg,Antibiotics,Tab,15,161.5,UPI,2422.5
+280,2025-03-26,Amoxicillin 500mg,Pain Relief,Vial,20,68.28,UPI,1365.6
+314,2025-03-26,Pantoprazole 40mg,Allergy,Vial,11,149.26,Insurance,1641.86
+341,2025-03-26,Amlodipine 5mg,Cardiovascular,Strip,23,15.92,UPI,366.16
+482,2025-03-26,Paracetamol 500mg,Pain Relief,Bottle,18,190.13,UPI,3422.34
+494,2025-03-26,Paracetamol 500mg,Vitamins & Supplements,Strip,12,40.2,Cash,482.4
+570,2025-03-26,Levothyroxine 50mcg,Allergy,Bottle,23,168.71,Cash,3880.33
+572,2025-03-26,Azithromycin 500mg,Gastrointestinal,Vial,15,52.35,UPI,785.25
+600,2025-03-26,Amoxicillin 500mg,Allergy,Vial,18,89.98,Card,1619.64
+618,2025-03-26,Atorvastatin 10mg,Vitamins & Supplements,Bottle,3,46.13,Insurance,138.39
+619,2025-03-26,Azithromycin 500mg,Cardiovascular,Vial,12,172.99,Card,2075.88
+685,2025-03-26,Azithromycin 500mg,Vitamins & Supplements,Capsule,7,176.73,Cash,1237.11
+688,2025-03-26,Atorvastatin 10mg,Allergy,Capsule,21,46.84,Cash,983.64
+690,2025-03-26,Metformin 500mg,Pain Relief,Tab,12,209.92,UPI,2519.04
+832,2025-03-26,Cetirizine 10mg,Pain Relief,Bottle,2,193.02,Cash,386.04
+907,2025-03-26,Ibuprofen 400mg,Gastrointestinal,Capsule,16,120.27,Cash,1924.32
+956,2025-03-26,Cetirizine 10mg,Gastrointestinal,Vial,17,157.6,Cash,2679.2
+1006,2025-03-26,Cetirizine 10mg,Cardiovascular,Vial,7,216.08,Card,1512.56
+1118,2025-03-26,Amlodipine 5mg,Pain Relief,Capsule,10,16.88,Insurance,168.8
+1123,2025-03-26,Ibuprofen 400mg,Gastrointestinal,Capsule,17,183.37,Cash,3117.29
+1127,2025-03-26,Azithromycin 500mg,Antibiotics,Capsule,11,240.09,UPI,2640.99
+1138,2025-03-26,Amlodipine 5mg,Vitamins & Supplements,Vial,16,238.88,Insurance,3822.08
+1150,2025-03-26,Azithromycin 500mg,Vitamins & Supplements,Vial,12,67.73,Insurance,812.76
+1157,2025-03-26,Amoxicillin 500mg,Allergy,Tab,1,190.86,Insurance,190.86
+1187,2025-03-26,Omeprazole 20mg,Thyroid,Capsule,12,236.33,Cash,2835.96
+1216,2025-03-26,Paracetamol 500mg,Thyroid,Tab,8,234.15,UPI,1873.2
+1269,2025-03-26,Omeprazole 20mg,Cardiovascular,Tab,18,150.57,Cash,2710.26
+1275,2025-03-26,Vitamin D3 1000IU,Gastrointestinal,Bottle,1,231.68,Insurance,231.68
+1286,2025-03-26,Pantoprazole 40mg,Antibiotics,Capsule,10,43.17,Card,431.7
+1355,2025-03-26,Cetirizine 10mg,Vitamins & Supplements,Vial,24,48.98,Insurance,1175.52
+1446,2025-03-26,Azithromycin 500mg,Cardiovascular,Capsule,9,73.19,Card,658.71
+1459,2025-03-26,Amoxicillin 500mg,Diabetes,Capsule,5,163.29,Insurance,816.45
+1463,2025-03-26,Azithromycin 500mg,Thyroid,Vial,13,145.83,Card,1895.79
+1501,2025-03-26,Omeprazole 20mg,Pain Relief,Strip,5,18.41,Insurance,92.05
+1522,2025-03-26,Pantoprazole 40mg,Gastrointestinal,Tab,1,135.46,Cash,135.46
+1527,2025-03-26,Vitamin D3 1000IU,Cardiovascular,Vial,17,237.07,Card,4030.19
+1555,2025-03-26,Vitamin D3 1000IU,Gastrointestinal,Bottle,10,195.71,UPI,1957.1
+1731,2025-03-26,Ibuprofen 400mg,Antibiotics,Bottle,18,69.13,UPI,1244.34
+1773,2025-03-26,Paracetamol 500mg,Vitamins & Supplements,Strip,5,200.79,Cash,1003.95
+1787,2025-03-26,Omeprazole 20mg,Thyroid,Capsule,21,198.6,Card,4170.6
+1823,2025-03-26,Omeprazole 20mg,Thyroid,Bottle,10,95.0,Insurance,950.0
+1880,2025-03-26,Atorvastatin 10mg,Gastrointestinal,Strip,1,92.1,UPI,92.1
+1883,2025-03-26,Amlodipine 5mg,Thyroid,Vial,17,121.52,UPI,2065.84
+1891,2025-03-26,Pantoprazole 40mg,Antibiotics,Tab,18,183.29,Card,3299.22
+1931,2025-03-26,Metformin 500mg,Pain Relief,Bottle,13,199.37,UPI,2591.81
+37,2025-03-27,Ibuprofen 400mg,Thyroid,Vial,12,119.26,UPI,1431.12
+161,2025-03-27,Atorvastatin 10mg,Diabetes,Strip,15,125.85,Cash,1887.75
+175,2025-03-27,Omeprazole 20mg,Diabetes,Tab,24,218.97,Cash,5255.28
+227,2025-03-27,Levothyroxine 50mcg,Pain Relief,Strip,14,82.44,UPI,1154.16
+236,2025-03-27,Amlodipine 5mg,Gastrointestinal,Capsule,9,21.84,UPI,196.56
+420,2025-03-27,Pantoprazole 40mg,Antibiotics,Vial,23,115.14,Card,2648.22
+421,2025-03-27,Ibuprofen 400mg,Gastrointestinal,Bottle,20,144.8,Card,2896.0
+479,2025-03-27,Amlodipine 5mg,Vitamins & Supplements,Capsule,17,152.62,Cash,2594.54
+654,2025-03-27,Levothyroxine 50mcg,Pain Relief,Capsule,8,19.95,Cash,159.6
+803,2025-03-27,Atorvastatin 10mg,Diabetes,Tab,6,118.05,UPI,708.3
+830,2025-03-27,Pantoprazole 40mg,Cardiovascular,Strip,9,41.57,Card,374.13
+917,2025-03-27,Amoxicillin 500mg,Allergy,Capsule,19,194.45,UPI,3694.55
+960,2025-03-27,Azithromycin 500mg,Antibiotics,Capsule,13,69.65,Card,905.45
+1044,2025-03-27,Omeprazole 20mg,Gastrointestinal,Vial,4,152.49,Card,609.96
+1099,2025-03-27,Vitamin D3 1000IU,Gastrointestinal,Tab,10,249.13,UPI,2491.3
+1125,2025-03-27,Vitamin D3 1000IU,Pain Relief,Vial,7,221.26,Cash,1548.82
+1402,2025-03-27,Vitamin D3 1000IU,Thyroid,Capsule,20,235.02,Insurance,4700.4
+1409,2025-03-27,Azithromycin 500mg,Antibiotics,Tab,14,94.61,Card,1324.54
+1440,2025-03-27,Ibuprofen 400mg,Cardiovascular,Bottle,20,203.16,Insurance,4063.2
+1448,2025-03-27,Amoxicillin 500mg,Pain Relief,Bottle,1,213.43,Cash,213.43
+1533,2025-03-27,Ibuprofen 400mg,Gastrointestinal,Vial,24,181.33,Card,4351.92
+1535,2025-03-27,Ibuprofen 400mg,Diabetes,Capsule,18,225.68,UPI,4062.24
+1758,2025-03-27,Azithromycin 500mg,Pain Relief,Capsule,3,154.81,Insurance,464.43
+1762,2025-03-27,Atorvastatin 10mg,Thyroid,Capsule,14,246.46,UPI,3450.44
+40,2025-03-28,Cetirizine 10mg,Vitamins & Supplements,Capsule,20,143.96,Cash,2879.2
+69,2025-03-28,Ibuprofen 400mg,Diabetes,Bottle,24,57.51,Insurance,1380.24
+145,2025-03-28,Levothyroxine 50mcg,Gastrointestinal,Vial,11,82.39,Insurance,906.29
+205,2025-03-28,Metformin 500mg,Gastrointestinal,Vial,12,207.41,Card,2488.92
+212,2025-03-28,Levothyroxine 50mcg,Cardiovascular,Vial,5,54.81,UPI,274.05
+213,2025-03-28,Ibuprofen 400mg,Cardiovascular,Tab,22,164.65,UPI,3622.3
+221,2025-03-28,Vitamin D3 1000IU,Thyroid,Capsule,2,229.46,Insurance,458.92
+269,2025-03-28,Omeprazole 20mg,Antibiotics,Tab,2,117.96,Card,235.92
+329,2025-03-28,Levothyroxine 50mcg,Antibiotics,Vial,17,202.75,Insurance,3446.75
+426,2025-03-28,Ibuprofen 400mg,Diabetes,Tab,24,236.19,UPI,5668.56
+438,2025-03-28,Amoxicillin 500mg,Gastrointestinal,Bottle,3,49.79,Card,149.37
+516,2025-03-28,Cetirizine 10mg,Allergy,Tab,9,57.45,Cash,517.05
+567,2025-03-28,Amlodipine 5mg,Diabetes,Vial,16,81.22,Cash,1299.52
+608,2025-03-28,Omeprazole 20mg,Cardiovascular,Strip,6,112.37,Card,674.22
+652,2025-03-28,Amoxicillin 500mg,Pain Relief,Capsule,24,157.57,Card,3781.68
+751,2025-03-28,Cetirizine 10mg,Diabetes,Tab,6,39.7,Card,238.2
+839,2025-03-28,Paracetamol 500mg,Antibiotics,Strip,21,187.56,Card,3938.76
+842,2025-03-28,Vitamin D3 1000IU,Diabetes,Bottle,6,34.44,Card,206.64
+849,2025-03-28,Cetirizine 10mg,Allergy,Tab,21,236.73,UPI,4971.33
+901,2025-03-28,Omeprazole 20mg,Pain Relief,Strip,5,207.0,UPI,1035.0
+905,2025-03-28,Pantoprazole 40mg,Gastrointestinal,Tab,9,33.72,Insurance,303.48
+912,2025-03-28,Ibuprofen 400mg,Antibiotics,Strip,21,49.65,Insurance,1042.65
+913,2025-03-28,Amoxicillin 500mg,Pain Relief,Capsule,1,21.99,UPI,21.99
+925,2025-03-28,Paracetamol 500mg,Gastrointestinal,Vial,10,216.3,UPI,2163.0
+972,2025-03-28,Atorvastatin 10mg,Cardiovascular,Vial,1,28.22,Card,28.22
+1002,2025-03-28,Cetirizine 10mg,Cardiovascular,Tab,9,106.67,Insurance,960.03
+1109,2025-03-28,Cetirizine 10mg,Cardiovascular,Strip,4,83.48,Cash,333.92
+1151,2025-03-28,Azithromycin 500mg,Antibiotics,Bottle,5,131.05,Insurance,655.25
+1180,2025-03-28,Metformin 500mg,Pain Relief,Vial,15,220.6,Cash,3309.0
+1253,2025-03-28,Omeprazole 20mg,Pain Relief,Bottle,12,126.13,Insurance,1513.56
+1484,2025-03-28,Omeprazole 20mg,Thyroid,Strip,10,212.98,Card,2129.8
+1556,2025-03-28,Omeprazole 20mg,Thyroid,Bottle,24,119.99,Card,2879.76
+1568,2025-03-28,Atorvastatin 10mg,Allergy,Strip,3,37.33,UPI,111.99
+1599,2025-03-28,Paracetamol 500mg,Pain Relief,Bottle,22,194.38,Card,4276.36
+1622,2025-03-28,Cetirizine 10mg,Cardiovascular,Strip,10,120.1,Insurance,1201.0
+1643,2025-03-28,Levothyroxine 50mcg,Cardiovascular,Capsule,12,38.96,Card,467.52
+1775,2025-03-28,Azithromycin 500mg,Pain Relief,Vial,17,87.99,Card,1495.83
+3,2025-03-29,Azithromycin 500mg,Vitamins & Supplements,Bottle,18,162.91,Insurance,2932.38
+89,2025-03-29,Levothyroxine 50mcg,Pain Relief,Tab,8,156.92,Card,1255.36
+120,2025-03-29,Azithromycin 500mg,Thyroid,Strip,4,163.02,Card,652.08
+197,2025-03-29,Pantoprazole 40mg,Vitamins & Supplements,Tab,13,15.38,Cash,199.94
+307,2025-03-29,Paracetamol 500mg,Cardiovascular,Strip,8,107.72,Insurance,861.76
+382,2025-03-29,Amlodipine 5mg,Allergy,Tab,6,165.23,Card,991.38
+440,2025-03-29,Cetirizine 10mg,Vitamins & Supplements,Strip,8,151.25,UPI,1210.0
+449,2025-03-29,Vitamin D3 1000IU,Allergy,Vial,13,57.22,UPI,743.86
+491,2025-03-29,Atorvastatin 10mg,Pain Relief,Capsule,4,105.73,UPI,422.92
+596,2025-03-29,Vitamin D3 1000IU,Vitamins & Supplements,Strip,7,112.21,Cash,785.47
+606,2025-03-29,Paracetamol 500mg,Allergy,Tab,15,227.16,Insurance,3407.4
+674,2025-03-29,Levothyroxine 50mcg,Antibiotics,Tab,22,217.91,Insurance,4794.02
+687,2025-03-29,Metformin 500mg,Thyroid,Strip,9,201.89,Insurance,1817.01
+701,2025-03-29,Metformin 500mg,Vitamins & Supplements,Tab,24,81.68,Card,1960.32
+784,2025-03-29,Vitamin D3 1000IU,Thyroid,Strip,21,161.63,Card,3394.23
+807,2025-03-29,Omeprazole 20mg,Diabetes,Strip,7,192.71,UPI,1348.97
+927,2025-03-29,Paracetamol 500mg,Pain Relief,Bottle,9,238.21,Card,2143.89
+1060,2025-03-29,Pantoprazole 40mg,Vitamins & Supplements,Tab,7,119.31,Card,835.17
+1100,2025-03-29,Levothyroxine 50mcg,Diabetes,Vial,10,213.7,Insurance,2137.0
+1340,2025-03-29,Ibuprofen 400mg,Diabetes,Tab,5,38.5,Card,192.5
+1397,2025-03-29,Pantoprazole 40mg,Diabetes,Strip,12,156.63,UPI,1879.56
+1404,2025-03-29,Levothyroxine 50mcg,Pain Relief,Tab,12,245.91,Insurance,2950.92
+1431,2025-03-29,Cetirizine 10mg,Pain Relief,Vial,3,239.34,Insurance,718.02
+1434,2025-03-29,Ibuprofen 400mg,Allergy,Bottle,5,62.8,UPI,314.0
+1490,2025-03-29,Levothyroxine 50mcg,Antibiotics,Bottle,12,166.75,Cash,2001.0
+1552,2025-03-29,Amoxicillin 500mg,Pain Relief,Tab,20,116.57,Card,2331.4
+1583,2025-03-29,Metformin 500mg,Gastrointestinal,Capsule,6,49.1,Insurance,294.6
+1586,2025-03-29,Cetirizine 10mg,Allergy,Capsule,6,248.09,Cash,1488.54
+1608,2025-03-29,Azithromycin 500mg,Pain Relief,Strip,16,234.92,Cash,3758.72
+1626,2025-03-29,Ibuprofen 400mg,Pain Relief,Capsule,3,212.16,Cash,636.48
+1676,2025-03-29,Ibuprofen 400mg,Cardiovascular,Vial,24,78.23,Cash,1877.52
+1733,2025-03-29,Amlodipine 5mg,Cardiovascular,Tab,5,46.61,Insurance,233.05
+1788,2025-03-29,Atorvastatin 10mg,Thyroid,Tab,18,100.99,UPI,1817.82
+1907,2025-03-29,Cetirizine 10mg,Pain Relief,Strip,8,127.83,Insurance,1022.64
+1940,2025-03-29,Ibuprofen 400mg,Diabetes,Vial,1,127.66,Insurance,127.66
+1968,2025-03-29,Cetirizine 10mg,Gastrointestinal,Capsule,12,227.35,UPI,2728.2
+1970,2025-03-29,Pantoprazole 40mg,Allergy,Strip,3,56.62,Insurance,169.86
+25,2025-03-30,Vitamin D3 1000IU,Thyroid,Vial,16,134.46,Card,2151.36
+190,2025-03-30,Levothyroxine 50mcg,Diabetes,Capsule,21,89.56,Cash,1880.76
+217,2025-03-30,Atorvastatin 10mg,Vitamins & Supplements,Tab,3,103.41,UPI,310.23
+335,2025-03-30,Azithromycin 500mg,Antibiotics,Capsule,12,184.1,Cash,2209.2
+413,2025-03-30,Amoxicillin 500mg,Pain Relief,Bottle,6,156.8,Cash,940.8
+424,2025-03-30,Omeprazole 20mg,Thyroid,Tab,22,109.01,Card,2398.22
+439,2025-03-30,Metformin 500mg,Allergy,Capsule,9,38.19,Card,343.71
+551,2025-03-30,Amlodipine 5mg,Allergy,Strip,14,28.68,UPI,401.52
+562,2025-03-30,Amoxicillin 500mg,Vitamins & Supplements,Bottle,2,214.87,Cash,429.74
+612,2025-03-30,Paracetamol 500mg,Antibiotics,Vial,3,166.02,UPI,498.06
+625,2025-03-30,Omeprazole 20mg,Cardiovascular,Strip,2,221.19,UPI,442.38
+733,2025-03-30,Atorvastatin 10mg,Allergy,Tab,6,25.15,Insurance,150.9
+940,2025-03-30,Vitamin D3 1000IU,Vitamins & Supplements,Vial,6,163.15,Insurance,978.9
+1019,2025-03-30,Amoxicillin 500mg,Diabetes,Bottle,4,175.71,UPI,702.84
+1020,2025-03-30,Cetirizine 10mg,Gastrointestinal,Vial,20,132.93,Cash,2658.6
+1042,2025-03-30,Azithromycin 500mg,Cardiovascular,Vial,5,125.22,Cash,626.1
+1054,2025-03-30,Paracetamol 500mg,Vitamins & Supplements,Bottle,18,176.66,UPI,3179.88
+1134,2025-03-30,Cetirizine 10mg,Diabetes,Tab,13,64.99,UPI,844.87
+1234,2025-03-30,Azithromycin 500mg,Vitamins & Supplements,Tab,15,223.43,UPI,3351.45
+1236,2025-03-30,Vitamin D3 1000IU,Vitamins & Supplements,Tab,19,102.96,Insurance,1956.24
+1260,2025-03-30,Vitamin D3 1000IU,Cardiovascular,Capsule,5,173.95,UPI,869.75
+1320,2025-03-30,Azithromycin 500mg,Diabetes,Vial,13,55.52,UPI,721.76
+1347,2025-03-30,Ibuprofen 400mg,Vitamins & Supplements,Vial,12,127.69,Card,1532.28
+1400,2025-03-30,Atorvastatin 10mg,Thyroid,Tab,17,34.02,Cash,578.34
+1575,2025-03-30,Cetirizine 10mg,Allergy,Capsule,17,41.59,Card,707.03
+1582,2025-03-30,Levothyroxine 50mcg,Gastrointestinal,Strip,21,64.24,Card,1349.04
+1587,2025-03-30,Cetirizine 10mg,Thyroid,Capsule,7,200.59,Insurance,1404.13
+1602,2025-03-30,Vitamin D3 1000IU,Cardiovascular,Capsule,24,245.75,UPI,5898.0
+1695,2025-03-30,Levothyroxine 50mcg,Vitamins & Supplements,Strip,8,99.22,UPI,793.76
+1708,2025-03-30,Azithromycin 500mg,Antibiotics,Capsule,2,64.19,Insurance,128.38
+1844,2025-03-30,Omeprazole 20mg,Allergy,Capsule,22,196.19,Cash,4316.18
+1910,2025-03-30,Amlodipine 5mg,Vitamins & Supplements,Vial,3,206.64,Insurance,619.92
+1955,2025-03-30,Metformin 500mg,Antibiotics,Vial,11,104.63,Card,1150.93
+1980,2025-03-30,Amlodipine 5mg,Gastrointestinal,Capsule,22,53.45,Card,1175.9
+1986,2025-03-30,Vitamin D3 1000IU,Thyroid,Strip,7,186.84,Insurance,1307.88
+1992,2025-03-30,Amlodipine 5mg,Thyroid,Vial,9,130.08,Insurance,1170.72
+97,2025-03-31,Cetirizine 10mg,Cardiovascular,Bottle,2,69.14,UPI,138.28
+334,2025-03-31,Omeprazole 20mg,Allergy,Capsule,17,128.34,UPI,2181.78
+453,2025-03-31,Paracetamol 500mg,Vitamins & Supplements,Tab,23,204.77,Cash,4709.71
+466,2025-03-31,Vitamin D3 1000IU,Antibiotics,Strip,19,136.64,UPI,2596.16
+635,2025-03-31,Pantoprazole 40mg,Pain Relief,Tab,10,110.06,UPI,1100.6
+677,2025-03-31,Amlodipine 5mg,Thyroid,Tab,23,51.12,Cash,1175.76
+753,2025-03-31,Omeprazole 20mg,Diabetes,Capsule,21,52.24,UPI,1097.04
+779,2025-03-31,Vitamin D3 1000IU,Cardiovascular,Tab,24,196.95,Insurance,4726.8
+825,2025-03-31,Metformin 500mg,Antibiotics,Strip,2,125.77,Insurance,251.54
+883,2025-03-31,Vitamin D3 1000IU,Pain Relief,Tab,19,178.42,UPI,3389.98
+975,2025-03-31,Atorvastatin 10mg,Diabetes,Capsule,3,199.14,Insurance,597.42
+1003,2025-03-31,Metformin 500mg,Gastrointestinal,Bottle,10,60.72,Card,607.2
+1086,2025-03-31,Metformin 500mg,Vitamins & Supplements,Strip,19,193.74,UPI,3681.06
+1237,2025-03-31,Vitamin D3 1000IU,Allergy,Vial,23,69.36,Cash,1595.28
+1244,2025-03-31,Paracetamol 500mg,Diabetes,Strip,1,212.55,UPI,212.55
+1249,2025-03-31,Vitamin D3 1000IU,Pain Relief,Capsule,15,156.59,UPI,2348.85
+1321,2025-03-31,Atorvastatin 10mg,Antibiotics,Bottle,2,151.21,Insurance,302.42
+1423,2025-03-31,Cetirizine 10mg,Vitamins & Supplements,Capsule,14,82.4,UPI,1153.6
+1441,2025-03-31,Ibuprofen 400mg,Cardiovascular,Tab,6,121.66,Cash,729.96
+1485,2025-03-31,Atorvastatin 10mg,Vitamins & Supplements,Vial,7,68.69,UPI,480.83
+1662,2025-03-31,Omeprazole 20mg,Diabetes,Strip,18,153.45,Insurance,2762.1
+1760,2025-03-31,Metformin 500mg,Pain Relief,Strip,10,247.5,Cash,2475.0
+1865,2025-03-31,Azithromycin 500mg,Allergy,Bottle,12,151.69,Insurance,1820.28
+1909,2025-03-31,Atorvastatin 10mg,Gastrointestinal,Tab,11,29.74,UPI,327.14
+1920,2025-03-31,Azithromycin 500mg,Pain Relief,Bottle,12,68.05,Card,816.6
+184,2025-04-01,Vitamin D3 1000IU,Thyroid,Tab,1,245.13,UPI,245.13
+188,2025-04-01,Atorvastatin 10mg,Antibiotics,Strip,5,189.75,Insurance,948.75
+200,2025-04-01,Vitamin D3 1000IU,Pain Relief,Capsule,4,154.51,UPI,618.04
+247,2025-04-01,Levothyroxine 50mcg,Diabetes,Vial,22,226.41,UPI,4981.02
+248,2025-04-01,Amoxicillin 500mg,Vitamins & Supplements,Tab,19,198.75,Insurance,3776.25
+273,2025-04-01,Amoxicillin 500mg,Thyroid,Strip,9,237.75,Cash,2139.75
+281,2025-04-01,Amoxicillin 500mg,Gastrointestinal,Capsule,5,156.47,UPI,782.35
+283,2025-04-01,Levothyroxine 50mcg,Cardiovascular,Strip,10,36.27,Insurance,362.7
+318,2025-04-01,Omeprazole 20mg,Antibiotics,Strip,17,25.21,UPI,428.57
+353,2025-04-01,Pantoprazole 40mg,Diabetes,Vial,5,45.66,Cash,228.3
+459,2025-04-01,Ibuprofen 400mg,Thyroid,Capsule,13,205.22,Insurance,2667.86
+474,2025-04-01,Atorvastatin 10mg,Antibiotics,Tab,17,100.38,Card,1706.46
+519,2025-04-01,Ibuprofen 400mg,Gastrointestinal,Strip,3,22.0,Insurance,66.0
+549,2025-04-01,Paracetamol 500mg,Diabetes,Vial,9,227.28,Insurance,2045.52
+584,2025-04-01,Omeprazole 20mg,Antibiotics,Bottle,7,83.24,Card,582.68
+640,2025-04-01,Cetirizine 10mg,Vitamins & Supplements,Bottle,24,170.42,Cash,4090.08
+653,2025-04-01,Atorvastatin 10mg,Cardiovascular,Capsule,12,181.64,UPI,2179.68
+720,2025-04-01,Azithromycin 500mg,Thyroid,Bottle,20,75.59,Cash,1511.8
+723,2025-04-01,Amlodipine 5mg,Pain Relief,Tab,16,84.95,Insurance,1359.2
+862,2025-04-01,Metformin 500mg,Thyroid,Capsule,15,142.08,Card,2131.2
+895,2025-04-01,Cetirizine 10mg,Vitamins & Supplements,Capsule,22,74.7,Card,1643.4
+951,2025-04-01,Amoxicillin 500mg,Cardiovascular,Tab,24,196.11,Cash,4706.64
+1000,2025-04-01,Cetirizine 10mg,Pain Relief,Tab,2,78.36,Card,156.72
+1097,2025-04-01,Amlodipine 5mg,Vitamins & Supplements,Bottle,5,240.77,Card,1203.85
+1101,2025-04-01,Vitamin D3 1000IU,Pain Relief,Bottle,11,158.58,Insurance,1744.38
+1367,2025-04-01,Amoxicillin 500mg,Gastrointestinal,Capsule,9,181.27,Cash,1631.43
+1573,2025-04-01,Atorvastatin 10mg,Pain Relief,Bottle,4,23.78,Cash,95.12
+1581,2025-04-01,Atorvastatin 10mg,Pain Relief,Capsule,9,167.24,Card,1505.16
+1612,2025-04-01,Omeprazole 20mg,Vitamins & Supplements,Bottle,20,19.45,UPI,389.0
+1623,2025-04-01,Amlodipine 5mg,Thyroid,Strip,22,87.79,Card,1931.38
+1648,2025-04-01,Cetirizine 10mg,Diabetes,Bottle,4,173.39,Card,693.56
+1651,2025-04-01,Levothyroxine 50mcg,Diabetes,Vial,6,213.11,Cash,1278.66
+1713,2025-04-01,Metformin 500mg,Thyroid,Vial,12,92.83,Card,1113.96
+1885,2025-04-01,Cetirizine 10mg,Cardiovascular,Strip,10,99.58,Insurance,995.8
+1961,2025-04-01,Omeprazole 20mg,Thyroid,Capsule,7,95.16,UPI,666.12
+1962,2025-04-01,Levothyroxine 50mcg,Cardiovascular,Vial,24,142.73,Cash,3425.52
+30,2025-04-02,Levothyroxine 50mcg,Allergy,Capsule,14,167.45,Card,2344.3
+138,2025-04-02,Metformin 500mg,Antibiotics,Tab,22,138.21,UPI,3040.62
+151,2025-04-02,Atorvastatin 10mg,Cardiovascular,Bottle,12,220.42,Insurance,2645.04
+224,2025-04-02,Azithromycin 500mg,Pain Relief,Capsule,10,117.85,Cash,1178.5
+239,2025-04-02,Atorvastatin 10mg,Gastrointestinal,Vial,19,119.89,Cash,2277.91
+274,2025-04-02,Amlodipine 5mg,Cardiovascular,Bottle,13,31.29,UPI,406.77
+301,2025-04-02,Vitamin D3 1000IU,Antibiotics,Strip,4,204.96,UPI,819.84
+322,2025-04-02,Amoxicillin 500mg,Vitamins & Supplements,Vial,15,19.15,Cash,287.25
+367,2025-04-02,Ibuprofen 400mg,Vitamins & Supplements,Bottle,12,144.18,Insurance,1730.16
+392,2025-04-02,Metformin 500mg,Thyroid,Vial,17,153.03,UPI,2601.51
+394,2025-04-02,Paracetamol 500mg,Diabetes,Bottle,17,241.28,UPI,4101.76
+404,2025-04-02,Atorvastatin 10mg,Cardiovascular,Vial,13,142.85,Insurance,1857.05
+425,2025-04-02,Atorvastatin 10mg,Diabetes,Strip,5,197.91,Card,989.55
+428,2025-04-02,Amlodipine 5mg,Cardiovascular,Capsule,18,147.61,Cash,2656.98
+456,2025-04-02,Azithromycin 500mg,Pain Relief,Capsule,6,140.84,UPI,845.04
+461,2025-04-02,Cetirizine 10mg,Vitamins & Supplements,Capsule,23,234.05,Card,5383.15
+485,2025-04-02,Vitamin D3 1000IU,Vitamins & Supplements,Capsule,7,211.8,Insurance,1482.6
+538,2025-04-02,Omeprazole 20mg,Gastrointestinal,Strip,7,139.41,UPI,975.87
+624,2025-04-02,Atorvastatin 10mg,Diabetes,Bottle,24,126.06,Card,3025.44
+661,2025-04-02,Atorvastatin 10mg,Thyroid,Vial,17,87.79,Cash,1492.43
+662,2025-04-02,Azithromycin 500mg,Vitamins & Supplements,Vial,4,216.81,Insurance,867.24
+669,2025-04-02,Ibuprofen 400mg,Gastrointestinal,Bottle,13,17.21,Card,223.73
+855,2025-04-02,Azithromycin 500mg,Gastrointestinal,Tab,15,39.33,UPI,589.95
+921,2025-04-02,Azithromycin 500mg,Vitamins & Supplements,Strip,23,39.57,Card,910.11
+947,2025-04-02,Amoxicillin 500mg,Gastrointestinal,Tab,22,127.8,Cash,2811.6
+963,2025-04-02,Amoxicillin 500mg,Antibiotics,Tab,3,63.84,Cash,191.52
+1050,2025-04-02,Paracetamol 500mg,Diabetes,Strip,18,116.94,Card,2104.92
+1225,2025-04-02,Amoxicillin 500mg,Allergy,Capsule,2,104.99,Cash,209.98
+1280,2025-04-02,Metformin 500mg,Antibiotics,Vial,2,243.97,UPI,487.94
+1295,2025-04-02,Atorvastatin 10mg,Allergy,Tab,14,59.62,Cash,834.68
+1370,2025-04-02,Amlodipine 5mg,Diabetes,Vial,10,57.22,Card,572.2
+1373,2025-04-02,Omeprazole 20mg,Gastrointestinal,Bottle,2,95.27,Insurance,190.54
+1376,2025-04-02,Atorvastatin 10mg,Diabetes,Vial,2,136.36,Card,272.72
+1398,2025-04-02,Azithromycin 500mg,Antibiotics,Tab,4,146.48,UPI,585.92
+1407,2025-04-02,Pantoprazole 40mg,Vitamins & Supplements,Strip,2,212.49,Insurance,424.98
+1411,2025-04-02,Vitamin D3 1000IU,Allergy,Vial,23,216.61,Card,4982.03
+1419,2025-04-02,Levothyroxine 50mcg,Allergy,Capsule,2,234.17,Cash,468.34
+1468,2025-04-02,Amoxicillin 500mg,Antibiotics,Tab,20,107.21,Cash,2144.2
+1550,2025-04-02,Azithromycin 500mg,Antibiotics,Capsule,5,172.26,Card,861.3
+1619,2025-04-02,Atorvastatin 10mg,Cardiovascular,Strip,8,204.11,Card,1632.88
+1642,2025-04-02,Pantoprazole 40mg,Pain Relief,Bottle,11,247.9,Card,2726.9
+1669,2025-04-02,Metformin 500mg,Antibiotics,Strip,11,28.98,Insurance,318.78
+1808,2025-04-02,Atorvastatin 10mg,Gastrointestinal,Tab,23,246.87,Insurance,5678.01
+1945,2025-04-02,Atorvastatin 10mg,Thyroid,Bottle,10,194.6,Insurance,1946.0
+93,2025-04-03,Omeprazole 20mg,Gastrointestinal,Strip,18,132.3,Card,2381.4
+150,2025-04-03,Amoxicillin 500mg,Vitamins & Supplements,Bottle,22,63.56,UPI,1398.32
+295,2025-04-03,Paracetamol 500mg,Vitamins & Supplements,Vial,6,137.48,Insurance,824.88
+422,2025-04-03,Ibuprofen 400mg,Antibiotics,Capsule,20,155.74,Insurance,3114.8
+517,2025-04-03,Paracetamol 500mg,Cardiovascular,Capsule,15,129.12,Cash,1936.8
+583,2025-04-03,Amoxicillin 500mg,Diabetes,Tab,12,32.01,Insurance,384.12
+633,2025-04-03,Ibuprofen 400mg,Cardiovascular,Tab,19,52.51,Cash,997.69
+691,2025-04-03,Metformin 500mg,Pain Relief,Capsule,13,86.13,Insurance,1119.69
+964,2025-04-03,Amlodipine 5mg,Allergy,Tab,14,206.15,Cash,2886.1
+1001,2025-04-03,Omeprazole 20mg,Pain Relief,Strip,7,168.87,Card,1182.09
+1008,2025-04-03,Omeprazole 20mg,Gastrointestinal,Capsule,3,39.84,Card,119.52
+1037,2025-04-03,Vitamin D3 1000IU,Allergy,Vial,22,19.32,Card,425.04
+1040,2025-04-03,Amlodipine 5mg,Cardiovascular,Capsule,13,162.11,Card,2107.43
+1046,2025-04-03,Cetirizine 10mg,Cardiovascular,Tab,4,131.49,Insurance,525.96
+1071,2025-04-03,Amlodipine 5mg,Thyroid,Bottle,5,58.1,Insurance,290.5
+1120,2025-04-03,Azithromycin 500mg,Cardiovascular,Bottle,4,27.74,UPI,110.96
+1204,2025-04-03,Ibuprofen 400mg,Allergy,Strip,17,107.26,Card,1823.42
+1217,2025-04-03,Atorvastatin 10mg,Cardiovascular,Strip,20,129.7,UPI,2594.0
+1332,2025-04-03,Metformin 500mg,Diabetes,Capsule,17,222.38,Card,3780.46
+1534,2025-04-03,Cetirizine 10mg,Allergy,Bottle,13,128.51,Insurance,1670.63
+1617,2025-04-03,Levothyroxine 50mcg,Gastrointestinal,Capsule,9,19.32,Insurance,173.88
+1646,2025-04-03,Omeprazole 20mg,Antibiotics,Vial,15,207.95,Card,3119.25
+1697,2025-04-03,Amoxicillin 500mg,Thyroid,Vial,19,166.05,Card,3154.95
+1735,2025-04-03,Cetirizine 10mg,Pain Relief,Bottle,24,229.66,UPI,5511.84
+1746,2025-04-03,Ibuprofen 400mg,Gastrointestinal,Bottle,18,115.56,Card,2080.08
+1764,2025-04-03,Levothyroxine 50mcg,Vitamins & Supplements,Bottle,24,94.46,Card,2267.04
+1800,2025-04-03,Ibuprofen 400mg,Allergy,Vial,15,127.82,UPI,1917.3
+1821,2025-04-03,Omeprazole 20mg,Diabetes,Capsule,16,15.43,UPI,246.88
+1846,2025-04-03,Paracetamol 500mg,Allergy,Bottle,5,237.51,Card,1187.55
+1926,2025-04-03,Amoxicillin 500mg,Antibiotics,Bottle,22,227.28,UPI,5000.16
+1954,2025-04-03,Azithromycin 500mg,Diabetes,Capsule,17,233.52,Card,3969.84
+76,2025-04-04,Atorvastatin 10mg,Gastrointestinal,Vial,10,103.99,UPI,1039.9
+136,2025-04-04,Levothyroxine 50mcg,Pain Relief,Capsule,16,111.66,Cash,1786.56
+137,2025-04-04,Cetirizine 10mg,Thyroid,Tab,5,49.13,Cash,245.65
+157,2025-04-04,Pantoprazole 40mg,Diabetes,Capsule,16,64.21,UPI,1027.36
+162,2025-04-04,Cetirizine 10mg,Gastrointestinal,Tab,5,240.55,Cash,1202.75
+164,2025-04-04,Vitamin D3 1000IU,Vitamins & Supplements,Capsule,5,228.32,Cash,1141.6
+337,2025-04-04,Azithromycin 500mg,Antibiotics,Capsule,21,158.36,Cash,3325.56
+358,2025-04-04,Levothyroxine 50mcg,Pain Relief,Tab,14,125.12,Insurance,1751.68
+377,2025-04-04,Omeprazole 20mg,Antibiotics,Tab,13,223.81,Insurance,2909.53
+380,2025-04-04,Omeprazole 20mg,Thyroid,Bottle,10,194.6,Cash,1946.0
+388,2025-04-04,Ibuprofen 400mg,Allergy,Tab,7,249.94,Insurance,1749.58
+434,2025-04-04,Vitamin D3 1000IU,Gastrointestinal,Tab,13,76.05,Cash,988.65
+444,2025-04-04,Omeprazole 20mg,Vitamins & Supplements,Vial,13,200.27,Insurance,2603.51
+454,2025-04-04,Levothyroxine 50mcg,Gastrointestinal,Strip,16,134.54,Cash,2152.64
+495,2025-04-04,Amlodipine 5mg,Vitamins & Supplements,Bottle,4,134.42,Card,537.68
+553,2025-04-04,Cetirizine 10mg,Allergy,Tab,19,167.39,UPI,3180.41
+659,2025-04-04,Metformin 500mg,Vitamins & Supplements,Bottle,13,68.62,Card,892.06
+682,2025-04-04,Paracetamol 500mg,Thyroid,Vial,5,19.23,Insurance,96.15
+712,2025-04-04,Omeprazole 20mg,Allergy,Capsule,8,243.65,Cash,1949.2
+714,2025-04-04,Azithromycin 500mg,Vitamins & Supplements,Vial,13,204.32,Cash,2656.16
+731,2025-04-04,Ibuprofen 400mg,Antibiotics,Tab,23,192.66,Cash,4431.18
+761,2025-04-04,Azithromycin 500mg,Cardiovascular,Strip,18,130.59,Card,2350.62
+782,2025-04-04,Pantoprazole 40mg,Diabetes,Tab,10,149.33,Card,1493.3
+873,2025-04-04,Amoxicillin 500mg,Gastrointestinal,Strip,14,223.59,Card,3130.26
+930,2025-04-04,Ibuprofen 400mg,Antibiotics,Vial,9,241.04,UPI,2169.36
+966,2025-04-04,Metformin 500mg,Gastrointestinal,Capsule,11,170.47,Insurance,1875.17
+1143,2025-04-04,Amoxicillin 500mg,Thyroid,Bottle,14,201.21,Card,2816.94
+1174,2025-04-04,Amoxicillin 500mg,Vitamins & Supplements,Vial,9,130.7,Insurance,1176.3
+1319,2025-04-04,Levothyroxine 50mcg,Diabetes,Vial,2,233.43,UPI,466.86
+1334,2025-04-04,Pantoprazole 40mg,Allergy,Strip,3,44.81,UPI,134.43
+1335,2025-04-04,Cetirizine 10mg,Vitamins & Supplements,Tab,18,123.55,Insurance,2223.9
+1348,2025-04-04,Cetirizine 10mg,Antibiotics,Strip,13,18.73,Cash,243.49
+1524,2025-04-04,Ibuprofen 400mg,Allergy,Vial,17,131.13,Cash,2229.21
+1647,2025-04-04,Paracetamol 500mg,Gastrointestinal,Capsule,20,36.7,Cash,734.0
+1700,2025-04-04,Vitamin D3 1000IU,Pain Relief,Tab,21,43.82,Cash,920.22
+1798,2025-04-04,Vitamin D3 1000IU,Allergy,Tab,3,174.31,UPI,522.93
+1814,2025-04-04,Amoxicillin 500mg,Vitamins & Supplements,Capsule,10,228.79,Insurance,2287.9
+1837,2025-04-04,Paracetamol 500mg,Diabetes,Capsule,21,176.91,Insurance,3715.11
+1913,2025-04-04,Paracetamol 500mg,Diabetes,Capsule,6,223.14,Insurance,1338.84
+1922,2025-04-04,Amoxicillin 500mg,Antibiotics,Strip,1,184.89,Card,184.89
+1952,2025-04-04,Cetirizine 10mg,Allergy,Tab,10,217.16,Cash,2171.6
+1963,2025-04-04,Amoxicillin 500mg,Cardiovascular,Capsule,8,182.25,Cash,1458.0
+16,2025-04-05,Amlodipine 5mg,Pain Relief,Capsule,9,151.64,Card,1364.76
+79,2025-04-05,Amlodipine 5mg,Diabetes,Capsule,20,181.37,Card,3627.4
+95,2025-04-05,Atorvastatin 10mg,Gastrointestinal,Bottle,1,29.68,Insurance,29.68
+198,2025-04-05,Amoxicillin 500mg,Vitamins & Supplements,Strip,23,81.56,UPI,1875.88
+312,2025-04-05,Paracetamol 500mg,Vitamins & Supplements,Tab,16,24.79,Card,396.64
+373,2025-04-05,Metformin 500mg,Cardiovascular,Bottle,23,51.43,UPI,1182.89
+391,2025-04-05,Paracetamol 500mg,Gastrointestinal,Bottle,21,136.8,Card,2872.8
+504,2025-04-05,Amoxicillin 500mg,Allergy,Capsule,10,62.15,Card,621.5
+623,2025-04-05,Ibuprofen 400mg,Gastrointestinal,Strip,13,91.54,UPI,1190.02
+632,2025-04-05,Azithromycin 500mg,Antibiotics,Capsule,6,178.06,Insurance,1068.36
+703,2025-04-05,Paracetamol 500mg,Vitamins & Supplements,Capsule,11,163.94,Insurance,1803.34
+707,2025-04-05,Levothyroxine 50mcg,Thyroid,Tab,10,71.94,UPI,719.4
+716,2025-04-05,Azithromycin 500mg,Pain Relief,Capsule,13,231.47,Cash,3009.11
+744,2025-04-05,Cetirizine 10mg,Cardiovascular,Capsule,1,88.49,Insurance,88.49
+767,2025-04-05,Amoxicillin 500mg,Thyroid,Vial,3,127.49,Insurance,382.47
+822,2025-04-05,Paracetamol 500mg,Cardiovascular,Bottle,20,88.98,Card,1779.6
+872,2025-04-05,Amoxicillin 500mg,Gastrointestinal,Strip,6,81.9,UPI,491.4
+906,2025-04-05,Omeprazole 20mg,Allergy,Vial,8,26.41,Cash,211.28
+916,2025-04-05,Ibuprofen 400mg,Gastrointestinal,Capsule,13,116.42,UPI,1513.46
+1139,2025-04-05,Amoxicillin 500mg,Pain Relief,Vial,6,110.14,Cash,660.84
+1201,2025-04-05,Cetirizine 10mg,Pain Relief,Tab,21,163.25,UPI,3428.25
+1247,2025-04-05,Cetirizine 10mg,Thyroid,Bottle,19,222.01,Insurance,4218.19
+1291,2025-04-05,Amlodipine 5mg,Antibiotics,Bottle,10,224.26,Cash,2242.6
+1403,2025-04-05,Amlodipine 5mg,Diabetes,Strip,3,218.67,UPI,656.01
+1425,2025-04-05,Pantoprazole 40mg,Vitamins & Supplements,Capsule,19,108.91,UPI,2069.29
+1444,2025-04-05,Atorvastatin 10mg,Cardiovascular,Bottle,2,104.59,Cash,209.18
+1445,2025-04-05,Azithromycin 500mg,Thyroid,Tab,6,247.82,UPI,1486.92
+1475,2025-04-05,Cetirizine 10mg,Cardiovascular,Tab,24,63.76,Card,1530.24
+1503,2025-04-05,Amlodipine 5mg,Gastrointestinal,Vial,16,109.53,UPI,1752.48
+1675,2025-04-05,Cetirizine 10mg,Cardiovascular,Tab,14,197.64,Card,2766.96
+1743,2025-04-05,Azithromycin 500mg,Vitamins & Supplements,Tab,22,239.28,UPI,5264.16
+1785,2025-04-05,Amlodipine 5mg,Antibiotics,Bottle,7,41.89,Cash,293.23
+1793,2025-04-05,Omeprazole 20mg,Diabetes,Bottle,12,39.82,UPI,477.84
+1810,2025-04-05,Omeprazole 20mg,Cardiovascular,Strip,23,167.95,UPI,3862.85
+51,2025-04-06,Pantoprazole 40mg,Vitamins & Supplements,Bottle,12,63.23,Insurance,758.76
+156,2025-04-06,Metformin 500mg,Vitamins & Supplements,Tab,12,190.6,UPI,2287.2
+165,2025-04-06,Vitamin D3 1000IU,Cardiovascular,Tab,11,186.5,Card,2051.5
+191,2025-04-06,Paracetamol 500mg,Vitamins & Supplements,Bottle,16,128.67,Card,2058.72
+238,2025-04-06,Amoxicillin 500mg,Diabetes,Tab,5,226.95,Card,1134.75
+261,2025-04-06,Paracetamol 500mg,Vitamins & Supplements,Capsule,5,168.19,Cash,840.95
+272,2025-04-06,Cetirizine 10mg,Pain Relief,Capsule,4,233.5,Cash,934.0
+352,2025-04-06,Omeprazole 20mg,Vitamins & Supplements,Strip,18,66.29,Insurance,1193.22
+447,2025-04-06,Metformin 500mg,Antibiotics,Tab,20,208.7,Cash,4174.0
+537,2025-04-06,Atorvastatin 10mg,Cardiovascular,Vial,18,203.36,Card,3660.48
+571,2025-04-06,Amlodipine 5mg,Cardiovascular,Tab,4,135.22,Insurance,540.88
+603,2025-04-06,Metformin 500mg,Pain Relief,Vial,19,219.61,Cash,4172.59
+626,2025-04-06,Pantoprazole 40mg,Thyroid,Vial,4,24.47,UPI,97.88
+665,2025-04-06,Ibuprofen 400mg,Gastrointestinal,Bottle,3,32.93,Insurance,98.79
+709,2025-04-06,Omeprazole 20mg,Allergy,Vial,20,137.61,UPI,2752.2
+724,2025-04-06,Paracetamol 500mg,Cardiovascular,Capsule,12,22.74,Cash,272.88
+808,2025-04-06,Amlodipine 5mg,Allergy,Bottle,6,79.84,Card,479.04
+871,2025-04-06,Metformin 500mg,Allergy,Tab,6,194.69,Insurance,1168.14
+914,2025-04-06,Levothyroxine 50mcg,Antibiotics,Strip,9,31.86,Insurance,286.74
+981,2025-04-06,Paracetamol 500mg,Vitamins & Supplements,Tab,17,209.98,Cash,3569.66
+983,2025-04-06,Metformin 500mg,Pain Relief,Bottle,22,114.83,Cash,2526.26
+1028,2025-04-06,Atorvastatin 10mg,Gastrointestinal,Bottle,16,96.92,UPI,1550.72
+1179,2025-04-06,Metformin 500mg,Pain Relief,Vial,12,83.72,Card,1004.64
+1213,2025-04-06,Pantoprazole 40mg,Thyroid,Strip,18,85.04,Insurance,1530.72
+1223,2025-04-06,Ibuprofen 400mg,Vitamins & Supplements,Strip,11,180.83,Card,1989.13
+1246,2025-04-06,Amoxicillin 500mg,Diabetes,Vial,5,196.32,Insurance,981.6
+1289,2025-04-06,Vitamin D3 1000IU,Antibiotics,Bottle,9,198.07,Insurance,1782.63
+1310,2025-04-06,Paracetamol 500mg,Antibiotics,Vial,13,56.03,UPI,728.39
+1344,2025-04-06,Omeprazole 20mg,Vitamins & Supplements,Bottle,5,202.01,Cash,1010.05
+1350,2025-04-06,Pantoprazole 40mg,Pain Relief,Capsule,2,91.77,Insurance,183.54
+1408,2025-04-06,Levothyroxine 50mcg,Diabetes,Bottle,24,167.29,UPI,4014.96
+1480,2025-04-06,Pantoprazole 40mg,Antibiotics,Vial,20,70.59,Insurance,1411.8
+1499,2025-04-06,Vitamin D3 1000IU,Allergy,Bottle,4,111.21,Card,444.84
+1639,2025-04-06,Azithromycin 500mg,Thyroid,Bottle,5,187.83,Cash,939.15
+1658,2025-04-06,Amlodipine 5mg,Vitamins & Supplements,Bottle,11,184.89,UPI,2033.79
+1693,2025-04-06,Levothyroxine 50mcg,Pain Relief,Bottle,4,168.33,Card,673.32
+1737,2025-04-06,Amlodipine 5mg,Diabetes,Bottle,2,190.83,Cash,381.66
+1748,2025-04-06,Levothyroxine 50mcg,Thyroid,Bottle,12,162.26,UPI,1947.12
+1840,2025-04-06,Ibuprofen 400mg,Diabetes,Strip,1,15.67,Card,15.67
+1849,2025-04-06,Vitamin D3 1000IU,Thyroid,Strip,11,205.54,Cash,2260.94
+1869,2025-04-06,Ibuprofen 400mg,Vitamins & Supplements,Tab,22,16.06,Cash,353.32
+1928,2025-04-06,Omeprazole 20mg,Antibiotics,Tab,9,225.92,Cash,2033.28
+1996,2025-04-06,Vitamin D3 1000IU,Thyroid,Bottle,13,224.66,Cash,2920.58
+26,2025-04-07,Omeprazole 20mg,Allergy,Capsule,8,248.08,UPI,1984.64
+291,2025-04-07,Omeprazole 20mg,Pain Relief,Bottle,10,117.94,Cash,1179.4
+374,2025-04-07,Ibuprofen 400mg,Cardiovascular,Tab,10,171.15,Insurance,1711.5
+414,2025-04-07,Vitamin D3 1000IU,Allergy,Tab,1,204.59,UPI,204.59
+415,2025-04-07,Amoxicillin 500mg,Pain Relief,Tab,7,51.88,UPI,363.16
+795,2025-04-07,Azithromycin 500mg,Allergy,Vial,19,134.5,Card,2555.5
+809,2025-04-07,Amoxicillin 500mg,Allergy,Strip,14,227.67,Cash,3187.38
+856,2025-04-07,Cetirizine 10mg,Thyroid,Capsule,16,40.24,Insurance,643.84
+898,2025-04-07,Atorvastatin 10mg,Vitamins & Supplements,Tab,20,232.37,Cash,4647.4
+977,2025-04-07,Vitamin D3 1000IU,Vitamins & Supplements,Strip,4,60.84,Card,243.36
+1035,2025-04-07,Vitamin D3 1000IU,Allergy,Tab,5,205.96,UPI,1029.8
+1038,2025-04-07,Atorvastatin 10mg,Diabetes,Tab,24,177.07,Cash,4249.68
+1049,2025-04-07,Azithromycin 500mg,Diabetes,Bottle,21,36.04,Insurance,756.84
+1173,2025-04-07,Azithromycin 500mg,Thyroid,Capsule,23,122.2,Cash,2810.6
+1262,2025-04-07,Amlodipine 5mg,Allergy,Strip,15,186.44,Cash,2796.6
+1288,2025-04-07,Vitamin D3 1000IU,Gastrointestinal,Capsule,18,176.08,Cash,3169.44
+1317,2025-04-07,Atorvastatin 10mg,Thyroid,Tab,15,83.52,Card,1252.8
+1369,2025-04-07,Paracetamol 500mg,Vitamins & Supplements,Tab,16,204.53,Card,3272.48
+1405,2025-04-07,Vitamin D3 1000IU,Antibiotics,Strip,7,139.04,Insurance,973.28
+1421,2025-04-07,Amlodipine 5mg,Vitamins & Supplements,Tab,1,82.75,Cash,82.75
+1454,2025-04-07,Omeprazole 20mg,Thyroid,Tab,12,100.19,Insurance,1202.28
+1529,2025-04-07,Azithromycin 500mg,Thyroid,Vial,20,149.24,UPI,2984.8
+1603,2025-04-07,Amoxicillin 500mg,Thyroid,Capsule,10,226.01,Card,2260.1
+1694,2025-04-07,Metformin 500mg,Vitamins & Supplements,Bottle,14,196.84,UPI,2755.76
+1745,2025-04-07,Cetirizine 10mg,Gastrointestinal,Capsule,1,241.14,UPI,241.14
+1750,2025-04-07,Vitamin D3 1000IU,Allergy,Strip,8,44.48,Card,355.84
+1845,2025-04-07,Paracetamol 500mg,Cardiovascular,Capsule,3,117.28,Insurance,351.84
+1,2025-04-08,Azithromycin 500mg,Cardiovascular,Capsule,22,227.91,Insurance,5014.02
+8,2025-04-08,Pantoprazole 40mg,Allergy,Tab,17,29.13,Card,495.21
+56,2025-04-08,Amlodipine 5mg,Cardiovascular,Vial,19,197.11,UPI,3745.09
+142,2025-04-08,Atorvastatin 10mg,Gastrointestinal,Strip,8,212.66,Insurance,1701.28
+174,2025-04-08,Pantoprazole 40mg,Allergy,Bottle,10,232.44,Card,2324.4
+185,2025-04-08,Levothyroxine 50mcg,Diabetes,Strip,4,178.65,Cash,714.6
+193,2025-04-08,Ibuprofen 400mg,Diabetes,Capsule,13,75.8,Insurance,985.4
+223,2025-04-08,Ibuprofen 400mg,Gastrointestinal,Strip,7,132.93,Insurance,930.51
+233,2025-04-08,Ibuprofen 400mg,Vitamins & Supplements,Capsule,1,128.48,Card,128.48
+257,2025-04-08,Ibuprofen 400mg,Allergy,Bottle,23,114.34,Insurance,2629.82
+324,2025-04-08,Pantoprazole 40mg,Thyroid,Strip,16,139.45,Card,2231.2
+490,2025-04-08,Cetirizine 10mg,Diabetes,Strip,13,116.5,UPI,1514.5
+545,2025-04-08,Metformin 500mg,Allergy,Tab,7,98.72,Cash,691.04
+593,2025-04-08,Vitamin D3 1000IU,Allergy,Bottle,9,125.01,Card,1125.09
+622,2025-04-08,Paracetamol 500mg,Antibiotics,Tab,7,97.88,Insurance,685.16
+719,2025-04-08,Pantoprazole 40mg,Diabetes,Tab,9,17.11,Insurance,153.99
+772,2025-04-08,Azithromycin 500mg,Pain Relief,Tab,16,138.88,UPI,2222.08
+777,2025-04-08,Atorvastatin 10mg,Antibiotics,Vial,13,246.27,UPI,3201.51
+829,2025-04-08,Atorvastatin 10mg,Allergy,Vial,5,229.91,Insurance,1149.55
+834,2025-04-08,Metformin 500mg,Cardiovascular,Bottle,10,223.35,Insurance,2233.5
+845,2025-04-08,Atorvastatin 10mg,Gastrointestinal,Bottle,3,130.31,Cash,390.93
+1005,2025-04-08,Levothyroxine 50mcg,Allergy,Vial,23,51.22,Insurance,1178.06
+1034,2025-04-08,Pantoprazole 40mg,Cardiovascular,Vial,1,188.65,UPI,188.65
+1182,2025-04-08,Levothyroxine 50mcg,Vitamins & Supplements,Bottle,18,113.21,Insurance,2037.78
+1185,2025-04-08,Levothyroxine 50mcg,Gastrointestinal,Vial,5,122.86,Card,614.3
+1364,2025-04-08,Vitamin D3 1000IU,Antibiotics,Strip,22,233.16,Card,5129.52
+1385,2025-04-08,Amlodipine 5mg,Gastrointestinal,Tab,3,119.52,Insurance,358.56
+1401,2025-04-08,Azithromycin 500mg,Diabetes,Tab,8,150.64,Insurance,1205.12
+1610,2025-04-08,Omeprazole 20mg,Vitamins & Supplements,Bottle,13,34.83,Cash,452.79
+1724,2025-04-08,Metformin 500mg,Cardiovascular,Vial,12,120.27,Insurance,1443.24
+1796,2025-04-08,Ibuprofen 400mg,Pain Relief,Strip,6,219.43,Card,1316.58
+1836,2025-04-08,Azithromycin 500mg,Vitamins & Supplements,Bottle,19,151.86,Card,2885.34
+1912,2025-04-08,Paracetamol 500mg,Diabetes,Tab,14,46.43,Cash,650.02
+1917,2025-04-08,Azithromycin 500mg,Vitamins & Supplements,Tab,8,48.16,Insurance,385.28
+1935,2025-04-08,Omeprazole 20mg,Pain Relief,Tab,10,210.1,Card,2101.0
+1965,2025-04-08,Ibuprofen 400mg,Thyroid,Vial,24,173.04,UPI,4152.96
+1982,2025-04-08,Pantoprazole 40mg,Vitamins & Supplements,Bottle,24,21.27,UPI,510.48
+17,2025-04-09,Levothyroxine 50mcg,Pain Relief,Vial,2,237.73,UPI,475.46
+81,2025-04-09,Cetirizine 10mg,Pain Relief,Capsule,10,74.31,UPI,743.1
+105,2025-04-09,Amlodipine 5mg,Antibiotics,Bottle,24,215.21,UPI,5165.04
+159,2025-04-09,Amoxicillin 500mg,Cardiovascular,Vial,8,188.25,UPI,1506.0
+323,2025-04-09,Amoxicillin 500mg,Diabetes,Tab,4,136.5,Cash,546.0
+326,2025-04-09,Atorvastatin 10mg,Thyroid,Bottle,4,84.89,Card,339.56
+375,2025-04-09,Atorvastatin 10mg,Thyroid,Vial,10,181.57,Cash,1815.7
+470,2025-04-09,Ibuprofen 400mg,Vitamins & Supplements,Tab,10,215.44,Cash,2154.4
+484,2025-04-09,Omeprazole 20mg,Allergy,Bottle,22,92.78,Card,2041.16
+555,2025-04-09,Amoxicillin 500mg,Diabetes,Bottle,18,192.44,UPI,3463.92
+588,2025-04-09,Azithromycin 500mg,Cardiovascular,Bottle,15,243.74,Cash,3656.1
+670,2025-04-09,Amoxicillin 500mg,Cardiovascular,Strip,20,205.07,UPI,4101.4
+799,2025-04-09,Atorvastatin 10mg,Antibiotics,Vial,24,188.21,Card,4517.04
+999,2025-04-09,Metformin 500mg,Antibiotics,Capsule,18,70.04,UPI,1260.72
+1092,2025-04-09,Amlodipine 5mg,Allergy,Vial,7,174.09,Insurance,1218.63
+1207,2025-04-09,Metformin 500mg,Antibiotics,Strip,17,79.58,Cash,1352.86
+1245,2025-04-09,Azithromycin 500mg,Gastrointestinal,Bottle,19,214.2,UPI,4069.8
+1306,2025-04-09,Vitamin D3 1000IU,Allergy,Vial,16,185.73,Cash,2971.68
+1337,2025-04-09,Vitamin D3 1000IU,Vitamins & Supplements,Capsule,9,225.93,UPI,2033.37
+1362,2025-04-09,Omeprazole 20mg,Pain Relief,Capsule,3,40.76,Card,122.28
+1365,2025-04-09,Metformin 500mg,Pain Relief,Tab,15,27.87,Insurance,418.05
+1382,2025-04-09,Azithromycin 500mg,Allergy,Vial,16,204.38,Card,3270.08
+1383,2025-04-09,Vitamin D3 1000IU,Pain Relief,Strip,1,247.59,Card,247.59
+1453,2025-04-09,Metformin 500mg,Antibiotics,Tab,19,122.98,Insurance,2336.62
+1465,2025-04-09,Omeprazole 20mg,Diabetes,Vial,22,233.45,Insurance,5135.9
+1470,2025-04-09,Omeprazole 20mg,Diabetes,Vial,24,44.5,Insurance,1068.0
+1492,2025-04-09,Ibuprofen 400mg,Pain Relief,Capsule,8,211.59,Cash,1692.72
+1511,2025-04-09,Pantoprazole 40mg,Antibiotics,Vial,4,191.05,Insurance,764.2
+1569,2025-04-09,Paracetamol 500mg,Vitamins & Supplements,Bottle,17,37.31,Insurance,634.27
+1589,2025-04-09,Vitamin D3 1000IU,Gastrointestinal,Capsule,23,96.25,Cash,2213.75
+1720,2025-04-09,Ibuprofen 400mg,Thyroid,Tab,23,99.94,UPI,2298.62
+1763,2025-04-09,Ibuprofen 400mg,Pain Relief,Bottle,18,21.78,UPI,392.04
+1791,2025-04-09,Pantoprazole 40mg,Thyroid,Bottle,10,61.24,Card,612.4
+1797,2025-04-09,Omeprazole 20mg,Thyroid,Vial,5,44.66,Insurance,223.3
+1828,2025-04-09,Omeprazole 20mg,Vitamins & Supplements,Strip,7,92.62,Cash,648.34
+1833,2025-04-09,Atorvastatin 10mg,Cardiovascular,Vial,10,69.22,Cash,692.2
+1930,2025-04-09,Azithromycin 500mg,Thyroid,Bottle,17,117.68,Card,2000.56
+119,2025-04-10,Levothyroxine 50mcg,Cardiovascular,Bottle,8,185.98,Insurance,1487.84
+144,2025-04-10,Amoxicillin 500mg,Allergy,Capsule,2,169.72,Insurance,339.44
+231,2025-04-10,Omeprazole 20mg,Cardiovascular,Tab,4,178.35,Card,713.4
+250,2025-04-10,Metformin 500mg,Diabetes,Vial,12,35.39,UPI,424.68
+321,2025-04-10,Pantoprazole 40mg,Vitamins & Supplements,Strip,13,191.8,UPI,2493.4
+357,2025-04-10,Pantoprazole 40mg,Cardiovascular,Vial,18,72.26,Cash,1300.68
+390,2025-04-10,Omeprazole 20mg,Allergy,Strip,21,41.83,UPI,878.43
+446,2025-04-10,Amlodipine 5mg,Vitamins & Supplements,Capsule,20,240.11,Cash,4802.2
+693,2025-04-10,Paracetamol 500mg,Antibiotics,Bottle,10,79.11,Card,791.1
+732,2025-04-10,Vitamin D3 1000IU,Gastrointestinal,Tab,14,121.29,Insurance,1698.06
+746,2025-04-10,Ibuprofen 400mg,Gastrointestinal,Vial,18,171.06,Insurance,3079.08
+844,2025-04-10,Metformin 500mg,Pain Relief,Tab,17,83.94,Cash,1426.98
+879,2025-04-10,Azithromycin 500mg,Cardiovascular,Capsule,7,242.51,Insurance,1697.57
+915,2025-04-10,Amoxicillin 500mg,Antibiotics,Bottle,24,170.07,Insurance,4081.68
+965,2025-04-10,Azithromycin 500mg,Gastrointestinal,Capsule,23,189.57,Card,4360.11
+1116,2025-04-10,Paracetamol 500mg,Vitamins & Supplements,Capsule,6,47.94,UPI,287.64
+1197,2025-04-10,Amlodipine 5mg,Thyroid,Capsule,3,69.77,Card,209.31
+1212,2025-04-10,Amlodipine 5mg,Gastrointestinal,Vial,2,181.08,UPI,362.16
+1343,2025-04-10,Omeprazole 20mg,Diabetes,Strip,4,178.28,UPI,713.12
+1493,2025-04-10,Ibuprofen 400mg,Gastrointestinal,Capsule,18,135.39,Card,2437.02
+1523,2025-04-10,Vitamin D3 1000IU,Cardiovascular,Vial,21,147.59,UPI,3099.39
+1563,2025-04-10,Amoxicillin 500mg,Antibiotics,Bottle,16,89.26,Card,1428.16
+1744,2025-04-10,Levothyroxine 50mcg,Cardiovascular,Strip,24,229.0,Insurance,5496.0
+1881,2025-04-10,Ibuprofen 400mg,Antibiotics,Tab,8,170.19,Cash,1361.52
+39,2025-04-11,Omeprazole 20mg,Vitamins & Supplements,Capsule,7,118.49,Cash,829.43
+86,2025-04-11,Atorvastatin 10mg,Allergy,Bottle,8,161.26,UPI,1290.08
+141,2025-04-11,Amoxicillin 500mg,Cardiovascular,Strip,3,246.1,Cash,738.3
+180,2025-04-11,Levothyroxine 50mcg,Thyroid,Capsule,16,243.08,Insurance,3889.28
+207,2025-04-11,Vitamin D3 1000IU,Vitamins & Supplements,Bottle,5,169.16,Cash,845.8
+241,2025-04-11,Amlodipine 5mg,Cardiovascular,Bottle,11,236.95,Insurance,2606.45
+336,2025-04-11,Metformin 500mg,Antibiotics,Bottle,23,99.33,Insurance,2284.59
+465,2025-04-11,Amlodipine 5mg,Cardiovascular,Capsule,19,29.08,Cash,552.52
+480,2025-04-11,Levothyroxine 50mcg,Gastrointestinal,Capsule,5,153.97,UPI,769.85
+492,2025-04-11,Cetirizine 10mg,Gastrointestinal,Strip,6,177.11,Cash,1062.66
+531,2025-04-11,Azithromycin 500mg,Diabetes,Strip,15,127.11,Cash,1906.65
+561,2025-04-11,Pantoprazole 40mg,Vitamins & Supplements,Capsule,12,55.46,Insurance,665.52
+775,2025-04-11,Metformin 500mg,Vitamins & Supplements,Vial,21,230.67,Cash,4844.07
+800,2025-04-11,Amoxicillin 500mg,Vitamins & Supplements,Vial,20,31.47,Cash,629.4
+1056,2025-04-11,Atorvastatin 10mg,Diabetes,Strip,2,85.23,Insurance,170.46
+1110,2025-04-11,Cetirizine 10mg,Thyroid,Bottle,4,94.0,Cash,376.0
+1211,2025-04-11,Cetirizine 10mg,Pain Relief,Bottle,7,161.24,Cash,1128.68
+1359,2025-04-11,Pantoprazole 40mg,Antibiotics,Strip,11,27.85,Card,306.35
+1393,2025-04-11,Atorvastatin 10mg,Antibiotics,Strip,21,137.06,UPI,2878.26
+1482,2025-04-11,Ibuprofen 400mg,Pain Relief,Vial,13,45.96,UPI,597.48
+1685,2025-04-11,Azithromycin 500mg,Thyroid,Vial,22,204.36,Card,4495.92
+1742,2025-04-11,Vitamin D3 1000IU,Gastrointestinal,Strip,22,105.75,Insurance,2326.5
+1755,2025-04-11,Amoxicillin 500mg,Pain Relief,Bottle,11,188.97,UPI,2078.67
+1834,2025-04-11,Pantoprazole 40mg,Vitamins & Supplements,Capsule,4,97.42,UPI,389.68
+1916,2025-04-11,Ibuprofen 400mg,Allergy,Bottle,5,22.91,UPI,114.55
+1948,2025-04-11,Paracetamol 500mg,Antibiotics,Capsule,9,201.5,Cash,1813.5
+1953,2025-04-11,Paracetamol 500mg,Cardiovascular,Vial,17,237.26,Card,4033.42
+5,2025-04-12,Vitamin D3 1000IU,Antibiotics,Strip,19,203.19,Cash,3860.61
+196,2025-04-12,Metformin 500mg,Cardiovascular,Vial,8,145.18,Insurance,1161.44
+487,2025-04-12,Azithromycin 500mg,Allergy,Tab,7,134.26,Cash,939.82
+535,2025-04-12,Amoxicillin 500mg,Allergy,Vial,16,41.23,Insurance,659.68
+664,2025-04-12,Levothyroxine 50mcg,Pain Relief,Vial,17,109.43,UPI,1860.31
+672,2025-04-12,Cetirizine 10mg,Cardiovascular,Vial,20,164.49,Insurance,3289.8
+785,2025-04-12,Amlodipine 5mg,Allergy,Vial,6,162.13,Insurance,972.78
+1076,2025-04-12,Amlodipine 5mg,Cardiovascular,Capsule,14,217.29,UPI,3042.06
+1077,2025-04-12,Ibuprofen 400mg,Antibiotics,Vial,1,16.28,Insurance,16.28
+1135,2025-04-12,Vitamin D3 1000IU,Allergy,Capsule,10,156.84,Card,1568.4
+1167,2025-04-12,Ibuprofen 400mg,Pain Relief,Strip,19,213.8,Cash,4062.2
+1293,2025-04-12,Amoxicillin 500mg,Antibiotics,Capsule,23,205.8,Cash,4733.4
+1447,2025-04-12,Paracetamol 500mg,Pain Relief,Capsule,3,134.02,Cash,402.06
+1461,2025-04-12,Pantoprazole 40mg,Pain Relief,Tab,22,142.13,Cash,3126.86
+1472,2025-04-12,Paracetamol 500mg,Vitamins & Supplements,Tab,22,23.41,UPI,515.02
+1537,2025-04-12,Amlodipine 5mg,Cardiovascular,Bottle,14,108.79,Cash,1523.06
+1553,2025-04-12,Pantoprazole 40mg,Diabetes,Tab,4,174.74,Insurance,698.96
+1654,2025-04-12,Vitamin D3 1000IU,Pain Relief,Bottle,11,109.36,Cash,1202.96
+1728,2025-04-12,Metformin 500mg,Pain Relief,Tab,19,68.98,UPI,1310.62
+1781,2025-04-12,Amlodipine 5mg,Diabetes,Capsule,2,109.65,UPI,219.3
+1816,2025-04-12,Metformin 500mg,Gastrointestinal,Capsule,9,61.54,Card,553.86
+1820,2025-04-12,Metformin 500mg,Diabetes,Strip,9,84.26,Cash,758.34
+1832,2025-04-12,Ibuprofen 400mg,Antibiotics,Bottle,8,43.26,Insurance,346.08
+1929,2025-04-12,Azithromycin 500mg,Diabetes,Tab,1,120.08,Insurance,120.08
+24,2025-04-13,Amlodipine 5mg,Allergy,Vial,20,187.23,UPI,3744.6
+34,2025-04-13,Azithromycin 500mg,Gastrointestinal,Tab,21,119.09,UPI,2500.89
+46,2025-04-13,Ibuprofen 400mg,Diabetes,Capsule,6,20.54,Card,123.24
+73,2025-04-13,Ibuprofen 400mg,Pain Relief,Vial,20,32.75,Cash,655.0
+92,2025-04-13,Amoxicillin 500mg,Antibiotics,Bottle,2,22.72,Cash,45.44
+129,2025-04-13,Levothyroxine 50mcg,Gastrointestinal,Vial,1,80.08,Insurance,80.08
+158,2025-04-13,Azithromycin 500mg,Gastrointestinal,Tab,23,141.21,Card,3247.83
+214,2025-04-13,Paracetamol 500mg,Allergy,Strip,20,244.07,Insurance,4881.4
+215,2025-04-13,Atorvastatin 10mg,Cardiovascular,Vial,22,209.02,UPI,4598.44
+242,2025-04-13,Atorvastatin 10mg,Thyroid,Capsule,15,64.89,Cash,973.35
+279,2025-04-13,Cetirizine 10mg,Allergy,Bottle,12,174.26,UPI,2091.12
+437,2025-04-13,Atorvastatin 10mg,Thyroid,Strip,21,59.16,Insurance,1242.36
+542,2025-04-13,Amoxicillin 500mg,Thyroid,Tab,8,162.79,Cash,1302.32
+543,2025-04-13,Pantoprazole 40mg,Thyroid,Vial,22,194.27,Card,4273.94
+673,2025-04-13,Vitamin D3 1000IU,Allergy,Bottle,11,121.74,Insurance,1339.14
+793,2025-04-13,Levothyroxine 50mcg,Diabetes,Tab,9,207.81,UPI,1870.29
+827,2025-04-13,Amlodipine 5mg,Diabetes,Bottle,12,49.06,Card,588.72
+860,2025-04-13,Amoxicillin 500mg,Antibiotics,Capsule,3,243.75,Cash,731.25
+1017,2025-04-13,Cetirizine 10mg,Allergy,Vial,9,73.98,Card,665.82
+1188,2025-04-13,Atorvastatin 10mg,Diabetes,Capsule,10,156.88,Insurance,1568.8
+1209,2025-04-13,Atorvastatin 10mg,Diabetes,Tab,2,37.1,Cash,74.2
+1272,2025-04-13,Cetirizine 10mg,Vitamins & Supplements,Vial,16,223.3,Cash,3572.8
+1303,2025-04-13,Pantoprazole 40mg,Pain Relief,Strip,22,89.4,UPI,1966.8
+1325,2025-04-13,Omeprazole 20mg,Vitamins & Supplements,Vial,6,78.99,UPI,473.94
+1474,2025-04-13,Cetirizine 10mg,Vitamins & Supplements,Strip,8,170.54,UPI,1364.32
+1539,2025-04-13,Pantoprazole 40mg,Vitamins & Supplements,Capsule,7,110.87,Insurance,776.09
+1699,2025-04-13,Omeprazole 20mg,Antibiotics,Strip,5,217.12,Card,1085.6
+1704,2025-04-13,Ibuprofen 400mg,Vitamins & Supplements,Capsule,19,50.99,UPI,968.81
+1841,2025-04-13,Vitamin D3 1000IU,Thyroid,Bottle,16,233.76,Cash,3740.16
+1842,2025-04-13,Amlodipine 5mg,Pain Relief,Bottle,10,41.07,Insurance,410.7
+1850,2025-04-13,Atorvastatin 10mg,Cardiovascular,Capsule,16,245.53,Card,3928.48
+1923,2025-04-13,Ibuprofen 400mg,Antibiotics,Capsule,15,205.44,Cash,3081.6
+1934,2025-04-13,Vitamin D3 1000IU,Diabetes,Strip,5,211.55,Card,1057.75
+1949,2025-04-13,Metformin 500mg,Diabetes,Tab,3,159.87,Cash,479.61
+1972,2025-04-13,Atorvastatin 10mg,Allergy,Capsule,20,44.78,Cash,895.6
+1976,2025-04-13,Atorvastatin 10mg,Cardiovascular,Capsule,4,54.95,Insurance,219.8
+108,2025-04-14,Levothyroxine 50mcg,Diabetes,Bottle,21,237.45,Insurance,4986.45
+118,2025-04-14,Azithromycin 500mg,Allergy,Capsule,13,191.16,Cash,2485.08
+122,2025-04-14,Pantoprazole 40mg,Vitamins & Supplements,Tab,19,110.37,Insurance,2097.03
+194,2025-04-14,Levothyroxine 50mcg,Thyroid,Strip,17,21.09,Cash,358.53
+208,2025-04-14,Amoxicillin 500mg,Antibiotics,Capsule,16,95.17,Card,1522.72
+416,2025-04-14,Amoxicillin 500mg,Cardiovascular,Tab,21,18.53,Cash,389.13
+505,2025-04-14,Azithromycin 500mg,Thyroid,Strip,19,183.06,UPI,3478.14
+548,2025-04-14,Cetirizine 10mg,Allergy,Strip,6,103.64,UPI,621.84
+589,2025-04-14,Azithromycin 500mg,Diabetes,Capsule,12,200.78,Insurance,2409.36
+644,2025-04-14,Cetirizine 10mg,Cardiovascular,Strip,3,105.99,UPI,317.97
+699,2025-04-14,Vitamin D3 1000IU,Pain Relief,Bottle,3,123.13,Insurance,369.39
+773,2025-04-14,Paracetamol 500mg,Pain Relief,Strip,5,194.53,Cash,972.65
+813,2025-04-14,Pantoprazole 40mg,Gastrointestinal,Tab,15,98.75,Cash,1481.25
+820,2025-04-14,Amoxicillin 500mg,Antibiotics,Capsule,11,245.64,UPI,2702.04
+836,2025-04-14,Azithromycin 500mg,Vitamins & Supplements,Strip,12,67.77,Insurance,813.24
+861,2025-04-14,Amlodipine 5mg,Cardiovascular,Bottle,20,118.09,Insurance,2361.8
+863,2025-04-14,Paracetamol 500mg,Thyroid,Bottle,13,242.47,Card,3152.11
+943,2025-04-14,Atorvastatin 10mg,Allergy,Tab,18,172.44,Card,3103.92
+994,2025-04-14,Ibuprofen 400mg,Thyroid,Strip,5,32.86,Insurance,164.3
+1124,2025-04-14,Paracetamol 500mg,Diabetes,Tab,12,73.66,Insurance,883.92
+1156,2025-04-14,Azithromycin 500mg,Thyroid,Bottle,10,144.08,Card,1440.8
+1170,2025-04-14,Metformin 500mg,Gastrointestinal,Capsule,12,105.28,Card,1263.36
+1198,2025-04-14,Atorvastatin 10mg,Vitamins & Supplements,Capsule,13,149.8,Insurance,1947.4
+1221,2025-04-14,Vitamin D3 1000IU,Cardiovascular,Strip,21,184.22,UPI,3868.62
+1271,2025-04-14,Metformin 500mg,Cardiovascular,Strip,21,138.92,Cash,2917.32
+1358,2025-04-14,Cetirizine 10mg,Allergy,Bottle,4,165.35,Insurance,661.4
+1426,2025-04-14,Atorvastatin 10mg,Thyroid,Strip,11,215.32,Insurance,2368.52
+1438,2025-04-14,Amlodipine 5mg,Pain Relief,Tab,13,58.85,UPI,765.05
+1585,2025-04-14,Metformin 500mg,Antibiotics,Capsule,20,242.67,Insurance,4853.4
+1722,2025-04-14,Atorvastatin 10mg,Antibiotics,Tab,7,188.62,Cash,1320.34
+1734,2025-04-14,Omeprazole 20mg,Gastrointestinal,Vial,24,90.24,Insurance,2165.76
+1766,2025-04-14,Cetirizine 10mg,Vitamins & Supplements,Capsule,10,76.64,Cash,766.4
+1771,2025-04-14,Ibuprofen 400mg,Gastrointestinal,Bottle,4,146.87,Cash,587.48
+1819,2025-04-14,Amlodipine 5mg,Vitamins & Supplements,Strip,18,219.05,Insurance,3942.9
+1882,2025-04-14,Atorvastatin 10mg,Pain Relief,Strip,5,186.65,UPI,933.25
+1925,2025-04-14,Pantoprazole 40mg,Vitamins & Supplements,Tab,20,44.98,UPI,899.6
+1947,2025-04-14,Levothyroxine 50mcg,Gastrointestinal,Capsule,17,193.2,Cash,3284.4
+1989,2025-04-14,Amlodipine 5mg,Thyroid,Strip,10,117.53,Cash,1175.3
+384,2025-04-15,Levothyroxine 50mcg,Thyroid,Tab,21,188.28,Cash,3953.88
+412,2025-04-15,Cetirizine 10mg,Vitamins & Supplements,Bottle,10,26.72,Cash,267.2
+441,2025-04-15,Cetirizine 10mg,Pain Relief,Vial,3,162.55,UPI,487.65
+451,2025-04-15,Metformin 500mg,Antibiotics,Bottle,21,27.81,Card,584.01
+471,2025-04-15,Omeprazole 20mg,Pain Relief,Vial,10,106.09,Cash,1060.9
+509,2025-04-15,Paracetamol 500mg,Thyroid,Capsule,24,77.03,Card,1848.72
+613,2025-04-15,Atorvastatin 10mg,Allergy,Strip,3,214.71,UPI,644.13
+678,2025-04-15,Pantoprazole 40mg,Pain Relief,Bottle,3,217.8,Insurance,653.4
+797,2025-04-15,Vitamin D3 1000IU,Gastrointestinal,Vial,4,186.77,UPI,747.08
+929,2025-04-15,Vitamin D3 1000IU,Diabetes,Tab,2,95.14,Insurance,190.28
+991,2025-04-15,Amoxicillin 500mg,Allergy,Strip,19,18.18,Cash,345.42
+1119,2025-04-15,Azithromycin 500mg,Cardiovascular,Strip,15,37.35,Cash,560.25
+1166,2025-04-15,Cetirizine 10mg,Antibiotics,Strip,4,79.4,Insurance,317.6
+1460,2025-04-15,Atorvastatin 10mg,Antibiotics,Bottle,2,239.01,Card,478.02
+1498,2025-04-15,Pantoprazole 40mg,Pain Relief,Strip,15,222.25,UPI,3333.75
+1502,2025-04-15,Amlodipine 5mg,Diabetes,Strip,22,150.09,UPI,3301.98
+1616,2025-04-15,Azithromycin 500mg,Diabetes,Bottle,5,111.54,Cash,557.7
+1653,2025-04-15,Paracetamol 500mg,Diabetes,Bottle,19,137.7,Cash,2616.3
+1711,2025-04-15,Pantoprazole 40mg,Cardiovascular,Vial,14,183.13,UPI,2563.82
+1729,2025-04-15,Azithromycin 500mg,Vitamins & Supplements,Capsule,24,71.33,UPI,1711.92
+1777,2025-04-15,Vitamin D3 1000IU,Cardiovascular,Bottle,8,177.37,UPI,1418.96
+1966,2025-04-15,Metformin 500mg,Allergy,Bottle,22,180.5,Card,3971.0
+44,2025-04-16,Paracetamol 500mg,Vitamins & Supplements,Strip,9,170.18,Insurance,1531.62
+70,2025-04-16,Levothyroxine 50mcg,Allergy,Tab,1,187.67,Card,187.67
+75,2025-04-16,Amoxicillin 500mg,Gastrointestinal,Bottle,16,171.48,Insurance,2743.68
+110,2025-04-16,Omeprazole 20mg,Allergy,Strip,23,66.63,Insurance,1532.49
+166,2025-04-16,Vitamin D3 1000IU,Allergy,Bottle,10,187.83,Cash,1878.3
+427,2025-04-16,Amoxicillin 500mg,Pain Relief,Capsule,21,217.54,Card,4568.34
+475,2025-04-16,Azithromycin 500mg,Cardiovascular,Tab,15,106.72,Cash,1600.8
+552,2025-04-16,Omeprazole 20mg,Gastrointestinal,Vial,8,232.85,Card,1862.8
+582,2025-04-16,Amoxicillin 500mg,Allergy,Capsule,6,16.11,Insurance,96.66
+610,2025-04-16,Azithromycin 500mg,Thyroid,Vial,5,32.77,Card,163.85
+757,2025-04-16,Metformin 500mg,Diabetes,Tab,15,17.54,UPI,263.1
+788,2025-04-16,Vitamin D3 1000IU,Thyroid,Tab,2,33.13,Card,66.26
+864,2025-04-16,Cetirizine 10mg,Vitamins & Supplements,Bottle,24,74.97,Insurance,1799.28
+878,2025-04-16,Azithromycin 500mg,Thyroid,Vial,21,192.11,UPI,4034.31
+935,2025-04-16,Cetirizine 10mg,Allergy,Strip,10,225.51,Insurance,2255.1
+952,2025-04-16,Atorvastatin 10mg,Cardiovascular,Strip,16,77.04,Cash,1232.64
+1025,2025-04-16,Paracetamol 500mg,Cardiovascular,Tab,1,81.48,UPI,81.48
+1081,2025-04-16,Metformin 500mg,Antibiotics,Bottle,19,120.92,Card,2297.48
+1129,2025-04-16,Azithromycin 500mg,Pain Relief,Capsule,3,234.33,Card,702.99
+1132,2025-04-16,Amoxicillin 500mg,Gastrointestinal,Capsule,10,55.01,Card,550.1
+1146,2025-04-16,Paracetamol 500mg,Cardiovascular,Vial,5,74.6,Insurance,373.0
+1164,2025-04-16,Paracetamol 500mg,Thyroid,Tab,3,200.5,Card,601.5
+1168,2025-04-16,Pantoprazole 40mg,Diabetes,Bottle,13,115.46,UPI,1500.98
+1200,2025-04-16,Levothyroxine 50mcg,Antibiotics,Strip,24,21.71,UPI,521.04
+1202,2025-04-16,Paracetamol 500mg,Allergy,Capsule,6,97.15,Cash,582.9
+1205,2025-04-16,Omeprazole 20mg,Allergy,Bottle,10,95.38,Cash,953.8
+1284,2025-04-16,Amlodipine 5mg,Pain Relief,Vial,18,192.65,Cash,3467.7
+1377,2025-04-16,Atorvastatin 10mg,Allergy,Strip,6,185.84,Insurance,1115.04
+1396,2025-04-16,Omeprazole 20mg,Gastrointestinal,Bottle,23,240.92,UPI,5541.16
+1424,2025-04-16,Pantoprazole 40mg,Antibiotics,Bottle,5,84.0,Card,420.0
+1435,2025-04-16,Metformin 500mg,Gastrointestinal,Capsule,21,49.52,Cash,1039.92
+1458,2025-04-16,Amlodipine 5mg,Vitamins & Supplements,Strip,12,31.54,Insurance,378.48
+1469,2025-04-16,Omeprazole 20mg,Antibiotics,Capsule,5,110.23,Insurance,551.15
+1514,2025-04-16,Paracetamol 500mg,Allergy,Vial,16,219.75,Insurance,3516.0
+1595,2025-04-16,Levothyroxine 50mcg,Gastrointestinal,Bottle,15,229.73,Insurance,3445.95
+1638,2025-04-16,Amoxicillin 500mg,Cardiovascular,Bottle,5,180.75,Cash,903.75
+1644,2025-04-16,Azithromycin 500mg,Thyroid,Strip,2,110.09,Cash,220.18
+1681,2025-04-16,Vitamin D3 1000IU,Diabetes,Strip,11,236.41,Insurance,2600.51
+1802,2025-04-16,Metformin 500mg,Pain Relief,Bottle,20,184.66,UPI,3693.2
+1811,2025-04-16,Atorvastatin 10mg,Allergy,Vial,7,61.74,Insurance,432.18
+1859,2025-04-16,Omeprazole 20mg,Thyroid,Vial,9,233.25,Cash,2099.25
+1884,2025-04-16,Amlodipine 5mg,Cardiovascular,Vial,8,175.82,Insurance,1406.56
+1977,2025-04-16,Atorvastatin 10mg,Diabetes,Strip,20,93.8,UPI,1876.0
+98,2025-04-17,Paracetamol 500mg,Vitamins & Supplements,Strip,20,176.02,Cash,3520.4
+152,2025-04-17,Amlodipine 5mg,Thyroid,Vial,2,22.16,Insurance,44.32
+299,2025-04-17,Omeprazole 20mg,Cardiovascular,Vial,17,146.53,UPI,2491.01
+342,2025-04-17,Amoxicillin 500mg,Allergy,Vial,22,68.39,Cash,1504.58
+349,2025-04-17,Vitamin D3 1000IU,Thyroid,Vial,21,94.72,Insurance,1989.12
+360,2025-04-17,Omeprazole 20mg,Pain Relief,Bottle,4,223.41,Cash,893.64
+378,2025-04-17,Amoxicillin 500mg,Antibiotics,Strip,7,118.85,UPI,831.95
+397,2025-04-17,Amlodipine 5mg,Allergy,Tab,8,230.06,Cash,1840.48
+405,2025-04-17,Amlodipine 5mg,Cardiovascular,Strip,14,146.55,Insurance,2051.7
+431,2025-04-17,Ibuprofen 400mg,Thyroid,Capsule,19,44.36,Cash,842.84
+489,2025-04-17,Cetirizine 10mg,Pain Relief,Tab,8,215.94,Card,1727.52
+586,2025-04-17,Paracetamol 500mg,Pain Relief,Capsule,2,49.55,Card,99.1
+620,2025-04-17,Paracetamol 500mg,Diabetes,Strip,16,134.54,Card,2152.64
+715,2025-04-17,Pantoprazole 40mg,Pain Relief,Tab,7,28.69,Insurance,200.83
+737,2025-04-17,Amoxicillin 500mg,Thyroid,Tab,20,168.74,UPI,3374.8
+812,2025-04-17,Atorvastatin 10mg,Vitamins & Supplements,Tab,11,204.82,Cash,2253.02
+926,2025-04-17,Vitamin D3 1000IU,Antibiotics,Capsule,4,233.0,Card,932.0
+969,2025-04-17,Ibuprofen 400mg,Thyroid,Tab,12,150.4,Cash,1804.8
+1024,2025-04-17,Vitamin D3 1000IU,Cardiovascular,Bottle,13,160.45,Cash,2085.85
+1078,2025-04-17,Cetirizine 10mg,Antibiotics,Capsule,3,23.27,Cash,69.81
+1136,2025-04-17,Atorvastatin 10mg,Allergy,Tab,18,133.35,Insurance,2400.3
+1232,2025-04-17,Levothyroxine 50mcg,Diabetes,Bottle,5,214.79,Card,1073.95
+1476,2025-04-17,Amoxicillin 500mg,Gastrointestinal,Strip,18,227.87,Insurance,4101.66
+1664,2025-04-17,Vitamin D3 1000IU,Antibiotics,Bottle,22,190.11,Insurance,4182.42
+1673,2025-04-17,Azithromycin 500mg,Vitamins & Supplements,Vial,21,220.49,Insurance,4630.29
+1902,2025-04-17,Amoxicillin 500mg,Diabetes,Vial,2,226.85,UPI,453.7
+1998,2025-04-17,Amlodipine 5mg,Gastrointestinal,Bottle,23,139.03,UPI,3197.69
+36,2025-04-18,Pantoprazole 40mg,Thyroid,Bottle,21,214.53,Insurance,4505.13
+186,2025-04-18,Ibuprofen 400mg,Cardiovascular,Strip,11,172.91,Cash,1902.01
+252,2025-04-18,Atorvastatin 10mg,Antibiotics,Capsule,4,28.42,Cash,113.68
+253,2025-04-18,Cetirizine 10mg,Thyroid,Tab,18,173.11,Cash,3115.98
+260,2025-04-18,Metformin 500mg,Thyroid,Capsule,4,138.26,Insurance,553.04
+262,2025-04-18,Atorvastatin 10mg,Thyroid,Bottle,3,198.18,Insurance,594.54
+266,2025-04-18,Omeprazole 20mg,Cardiovascular,Tab,11,31.71,UPI,348.81
+346,2025-04-18,Metformin 500mg,Thyroid,Capsule,23,77.78,Cash,1788.94
+371,2025-04-18,Metformin 500mg,Cardiovascular,Tab,2,17.59,UPI,35.18
+435,2025-04-18,Metformin 500mg,Allergy,Strip,3,74.85,Cash,224.55
+450,2025-04-18,Amoxicillin 500mg,Allergy,Bottle,2,38.44,UPI,76.88
+529,2025-04-18,Azithromycin 500mg,Diabetes,Tab,1,169.95,Insurance,169.95
+611,2025-04-18,Cetirizine 10mg,Allergy,Capsule,18,150.61,Cash,2710.98
+651,2025-04-18,Omeprazole 20mg,Thyroid,Vial,3,54.19,Card,162.57
+713,2025-04-18,Atorvastatin 10mg,Vitamins & Supplements,Capsule,11,67.04,Insurance,737.44
+718,2025-04-18,Amlodipine 5mg,Allergy,Strip,6,149.21,Cash,895.26
+726,2025-04-18,Levothyroxine 50mcg,Pain Relief,Bottle,7,138.18,Insurance,967.26
+735,2025-04-18,Pantoprazole 40mg,Pain Relief,Vial,2,90.23,Card,180.46
+743,2025-04-18,Amoxicillin 500mg,Antibiotics,Bottle,20,59.93,Insurance,1198.6
+852,2025-04-18,Amlodipine 5mg,Antibiotics,Strip,12,31.75,UPI,381.0
+880,2025-04-18,Paracetamol 500mg,Vitamins & Supplements,Vial,6,198.19,Insurance,1189.14
+953,2025-04-18,Metformin 500mg,Antibiotics,Tab,20,16.27,Insurance,325.4
+961,2025-04-18,Amoxicillin 500mg,Allergy,Tab,9,157.81,Insurance,1420.29
+998,2025-04-18,Omeprazole 20mg,Vitamins & Supplements,Vial,11,180.91,UPI,1990.01
+1121,2025-04-18,Amoxicillin 500mg,Antibiotics,Strip,18,185.49,UPI,3338.82
+1142,2025-04-18,Atorvastatin 10mg,Allergy,Capsule,23,79.92,Card,1838.16
+1208,2025-04-18,Metformin 500mg,Thyroid,Capsule,4,187.29,Cash,749.16
+1259,2025-04-18,Vitamin D3 1000IU,Diabetes,Tab,17,59.53,Cash,1012.01
+1282,2025-04-18,Vitamin D3 1000IU,Antibiotics,Vial,6,98.61,Cash,591.66
+1322,2025-04-18,Omeprazole 20mg,Vitamins & Supplements,Bottle,19,145.55,UPI,2765.45
+1483,2025-04-18,Metformin 500mg,Cardiovascular,Strip,13,174.86,UPI,2273.18
+1551,2025-04-18,Amlodipine 5mg,Pain Relief,Strip,2,187.12,UPI,374.24
+1559,2025-04-18,Metformin 500mg,Pain Relief,Tab,16,40.4,Card,646.4
+1564,2025-04-18,Levothyroxine 50mcg,Cardiovascular,Capsule,3,88.82,Card,266.46
+1570,2025-04-18,Metformin 500mg,Vitamins & Supplements,Tab,21,186.12,UPI,3908.52
+1584,2025-04-18,Paracetamol 500mg,Cardiovascular,Tab,3,227.53,Cash,682.59
+1600,2025-04-18,Vitamin D3 1000IU,Antibiotics,Strip,7,152.82,Card,1069.74
+1794,2025-04-18,Amlodipine 5mg,Allergy,Vial,16,181.04,Cash,2896.64
+1853,2025-04-18,Metformin 500mg,Allergy,Vial,22,186.93,Insurance,4112.46
+1858,2025-04-18,Levothyroxine 50mcg,Gastrointestinal,Capsule,2,185.75,Cash,371.5
+1938,2025-04-18,Amoxicillin 500mg,Diabetes,Tab,19,63.83,UPI,1212.77
+1969,2025-04-18,Omeprazole 20mg,Allergy,Capsule,24,41.08,UPI,985.92
+1987,2025-04-18,Atorvastatin 10mg,Diabetes,Bottle,23,219.92,Cash,5058.16
+62,2025-04-19,Azithromycin 500mg,Gastrointestinal,Capsule,24,94.04,UPI,2256.96
+80,2025-04-19,Azithromycin 500mg,Allergy,Tab,10,182.71,Card,1827.1
+332,2025-04-19,Omeprazole 20mg,Thyroid,Bottle,18,81.63,Insurance,1469.34
+473,2025-04-19,Pantoprazole 40mg,Cardiovascular,Tab,9,234.76,Cash,2112.84
+496,2025-04-19,Atorvastatin 10mg,Allergy,Bottle,24,187.84,Insurance,4508.16
+559,2025-04-19,Pantoprazole 40mg,Gastrointestinal,Tab,7,205.86,Insurance,1441.02
+658,2025-04-19,Levothyroxine 50mcg,Diabetes,Strip,14,225.13,Insurance,3151.82
+681,2025-04-19,Amoxicillin 500mg,Thyroid,Vial,24,133.86,Card,3212.64
+698,2025-04-19,Vitamin D3 1000IU,Antibiotics,Capsule,13,109.93,Card,1429.09
+802,2025-04-19,Cetirizine 10mg,Cardiovascular,Vial,1,132.4,Insurance,132.4
+838,2025-04-19,Atorvastatin 10mg,Thyroid,Bottle,22,77.3,Card,1700.6
+911,2025-04-19,Cetirizine 10mg,Pain Relief,Capsule,14,43.97,UPI,615.58
+941,2025-04-19,Azithromycin 500mg,Gastrointestinal,Strip,21,83.84,Insurance,1760.64
+1013,2025-04-19,Amlodipine 5mg,Pain Relief,Capsule,5,85.11,Insurance,425.55
+1039,2025-04-19,Amoxicillin 500mg,Vitamins & Supplements,Capsule,11,85.83,Cash,944.13
+1102,2025-04-19,Ibuprofen 400mg,Pain Relief,Tab,17,24.43,Card,415.31
+1297,2025-04-19,Ibuprofen 400mg,Pain Relief,Tab,22,184.5,Cash,4059.0
+1326,2025-04-19,Vitamin D3 1000IU,Gastrointestinal,Strip,3,54.81,Card,164.43
+1557,2025-04-19,Atorvastatin 10mg,Gastrointestinal,Vial,21,126.11,Insurance,2648.31
+1596,2025-04-19,Cetirizine 10mg,Allergy,Bottle,15,221.78,Cash,3326.7
+1601,2025-04-19,Azithromycin 500mg,Antibiotics,Strip,14,76.39,Card,1069.46
+1624,2025-04-19,Amoxicillin 500mg,Vitamins & Supplements,Tab,19,128.46,UPI,2440.74
+1715,2025-04-19,Azithromycin 500mg,Gastrointestinal,Capsule,12,145.46,Card,1745.52
+1839,2025-04-19,Amlodipine 5mg,Antibiotics,Capsule,14,175.64,Insurance,2458.96
+1904,2025-04-19,Paracetamol 500mg,Thyroid,Bottle,22,90.17,Cash,1983.74
+1993,2025-04-19,Atorvastatin 10mg,Diabetes,Strip,9,194.2,Card,1747.8
+45,2025-04-20,Azithromycin 500mg,Diabetes,Tab,1,137.84,Cash,137.84
+52,2025-04-20,Ibuprofen 400mg,Antibiotics,Capsule,10,59.54,Insurance,595.4
+133,2025-04-20,Metformin 500mg,Antibiotics,Bottle,21,106.34,Cash,2233.14
+183,2025-04-20,Atorvastatin 10mg,Allergy,Tab,6,136.97,UPI,821.82
+203,2025-04-20,Azithromycin 500mg,Pain Relief,Tab,21,173.97,Card,3653.37
+240,2025-04-20,Levothyroxine 50mcg,Cardiovascular,Capsule,10,144.41,Cash,1444.1
+408,2025-04-20,Ibuprofen 400mg,Antibiotics,Strip,11,77.11,UPI,848.21
+417,2025-04-20,Vitamin D3 1000IU,Pain Relief,Strip,16,88.49,Insurance,1415.84
+513,2025-04-20,Cetirizine 10mg,Vitamins & Supplements,Strip,17,92.22,Cash,1567.74
+522,2025-04-20,Vitamin D3 1000IU,Gastrointestinal,Bottle,13,140.88,Cash,1831.44
+602,2025-04-20,Azithromycin 500mg,Diabetes,Bottle,13,234.27,UPI,3045.51
+663,2025-04-20,Vitamin D3 1000IU,Gastrointestinal,Strip,8,179.61,Card,1436.88
+680,2025-04-20,Amoxicillin 500mg,Gastrointestinal,Vial,12,153.84,Card,1846.08
+692,2025-04-20,Amlodipine 5mg,Vitamins & Supplements,Capsule,24,124.92,UPI,2998.08
+933,2025-04-20,Omeprazole 20mg,Pain Relief,Capsule,23,166.05,Cash,3819.15
+993,2025-04-20,Vitamin D3 1000IU,Gastrointestinal,Tab,11,246.45,UPI,2710.95
+1033,2025-04-20,Cetirizine 10mg,Diabetes,Tab,19,146.6,UPI,2785.4
+1045,2025-04-20,Pantoprazole 40mg,Gastrointestinal,Capsule,4,135.59,UPI,542.36
+1057,2025-04-20,Paracetamol 500mg,Pain Relief,Capsule,21,60.35,Insurance,1267.35
+1080,2025-04-20,Paracetamol 500mg,Vitamins & Supplements,Tab,15,197.2,Cash,2958.0
+1104,2025-04-20,Ibuprofen 400mg,Pain Relief,Tab,13,146.0,Card,1898.0
+1161,2025-04-20,Cetirizine 10mg,Vitamins & Supplements,Capsule,3,169.58,Cash,508.74
+1175,2025-04-20,Cetirizine 10mg,Gastrointestinal,Bottle,2,23.61,Card,47.22
+1243,2025-04-20,Atorvastatin 10mg,Allergy,Tab,9,229.89,Card,2069.01
+1263,2025-04-20,Omeprazole 20mg,Pain Relief,Vial,13,96.61,Insurance,1255.93
+1270,2025-04-20,Amlodipine 5mg,Diabetes,Strip,18,24.62,Cash,443.16
+1368,2025-04-20,Ibuprofen 400mg,Cardiovascular,Strip,11,123.73,UPI,1361.03
+1384,2025-04-20,Cetirizine 10mg,Pain Relief,Bottle,21,103.69,Card,2177.49
+1386,2025-04-20,Atorvastatin 10mg,Allergy,Bottle,22,25.91,UPI,570.02
+1391,2025-04-20,Ibuprofen 400mg,Vitamins & Supplements,Capsule,21,206.61,Insurance,4338.81
+1442,2025-04-20,Azithromycin 500mg,Thyroid,Strip,20,172.58,Card,3451.6
+1443,2025-04-20,Cetirizine 10mg,Allergy,Tab,18,89.81,UPI,1616.58
+1489,2025-04-20,Atorvastatin 10mg,Diabetes,Vial,15,42.82,Insurance,642.3
+1510,2025-04-20,Amlodipine 5mg,Gastrointestinal,Capsule,7,197.47,Card,1382.29
+1541,2025-04-20,Amlodipine 5mg,Thyroid,Vial,18,198.7,Insurance,3576.6
+1577,2025-04-20,Omeprazole 20mg,Vitamins & Supplements,Strip,6,249.58,UPI,1497.48
+1594,2025-04-20,Metformin 500mg,Thyroid,Strip,2,209.22,Cash,418.44
+1604,2025-04-20,Pantoprazole 40mg,Pain Relief,Tab,17,45.2,Insurance,768.4
+1641,2025-04-20,Amoxicillin 500mg,Gastrointestinal,Capsule,18,96.16,Cash,1730.88
+1716,2025-04-20,Ibuprofen 400mg,Thyroid,Tab,13,186.65,Cash,2426.45
+1783,2025-04-20,Amlodipine 5mg,Pain Relief,Bottle,8,144.52,UPI,1156.16
+1786,2025-04-20,Atorvastatin 10mg,Vitamins & Supplements,Tab,14,86.78,UPI,1214.92
+1843,2025-04-20,Paracetamol 500mg,Pain Relief,Tab,19,110.47,Card,2098.93
+1901,2025-04-20,Amoxicillin 500mg,Vitamins & Supplements,Strip,24,126.86,Insurance,3044.64
+2,2025-04-21,Paracetamol 500mg,Allergy,Bottle,4,142.28,Insurance,569.12
+48,2025-04-21,Pantoprazole 40mg,Thyroid,Vial,22,85.32,Insurance,1877.04
+187,2025-04-21,Vitamin D3 1000IU,Cardiovascular,Bottle,12,71.56,Insurance,858.72
+229,2025-04-21,Pantoprazole 40mg,Thyroid,Bottle,10,98.72,Card,987.2
+251,2025-04-21,Ibuprofen 400mg,Antibiotics,Capsule,22,157.28,Insurance,3460.16
+255,2025-04-21,Atorvastatin 10mg,Gastrointestinal,Strip,8,170.75,Card,1366.0
+294,2025-04-21,Azithromycin 500mg,Allergy,Capsule,17,152.61,Card,2594.37
+320,2025-04-21,Pantoprazole 40mg,Gastrointestinal,Strip,15,220.8,Card,3312.0
+344,2025-04-21,Vitamin D3 1000IU,Cardiovascular,Vial,20,215.05,Cash,4301.0
+369,2025-04-21,Vitamin D3 1000IU,Pain Relief,Strip,4,126.41,Insurance,505.64
+457,2025-04-21,Atorvastatin 10mg,Diabetes,Capsule,19,234.9,UPI,4463.1
+530,2025-04-21,Amoxicillin 500mg,Vitamins & Supplements,Strip,10,135.01,Cash,1350.1
+550,2025-04-21,Metformin 500mg,Allergy,Bottle,9,31.38,UPI,282.42
+556,2025-04-21,Paracetamol 500mg,Diabetes,Capsule,5,173.0,UPI,865.0
+614,2025-04-21,Pantoprazole 40mg,Vitamins & Supplements,Tab,22,83.74,UPI,1842.28
+634,2025-04-21,Cetirizine 10mg,Allergy,Strip,5,225.63,Insurance,1128.15
+754,2025-04-21,Cetirizine 10mg,Diabetes,Bottle,5,200.1,Insurance,1000.5
+764,2025-04-21,Ibuprofen 400mg,Diabetes,Vial,16,34.37,Card,549.92
+816,2025-04-21,Omeprazole 20mg,Vitamins & Supplements,Bottle,3,168.36,Cash,505.08
+1047,2025-04-21,Pantoprazole 40mg,Antibiotics,Bottle,4,93.19,Insurance,372.76
+1144,2025-04-21,Levothyroxine 50mcg,Cardiovascular,Strip,1,67.93,UPI,67.93
+1215,2025-04-21,Amlodipine 5mg,Diabetes,Bottle,4,67.59,Card,270.36
+1394,2025-04-21,Amlodipine 5mg,Allergy,Vial,10,147.78,Card,1477.8
+1399,2025-04-21,Omeprazole 20mg,Thyroid,Bottle,13,18.42,UPI,239.46
+1428,2025-04-21,Azithromycin 500mg,Pain Relief,Strip,2,174.54,UPI,349.08
+1519,2025-04-21,Amlodipine 5mg,Antibiotics,Capsule,14,112.76,Cash,1578.64
+1525,2025-04-21,Omeprazole 20mg,Antibiotics,Vial,23,186.99,Insurance,4300.77
+1546,2025-04-21,Cetirizine 10mg,Cardiovascular,Tab,19,83.69,Card,1590.11
+1657,2025-04-21,Ibuprofen 400mg,Diabetes,Bottle,8,78.92,Insurance,631.36
+1701,2025-04-21,Cetirizine 10mg,Gastrointestinal,Bottle,18,116.86,Cash,2103.48
+1815,2025-04-21,Levothyroxine 50mcg,Antibiotics,Vial,19,245.86,Card,4671.34
+1911,2025-04-21,Vitamin D3 1000IU,Antibiotics,Tab,17,131.27,UPI,2231.59
+1967,2025-04-21,Azithromycin 500mg,Antibiotics,Capsule,4,146.28,Insurance,585.12
+15,2025-04-22,Amlodipine 5mg,Vitamins & Supplements,Vial,12,183.75,UPI,2205.0
+21,2025-04-22,Vitamin D3 1000IU,Thyroid,Strip,4,177.19,UPI,708.76
+66,2025-04-22,Levothyroxine 50mcg,Gastrointestinal,Bottle,6,106.0,Cash,636.0
+111,2025-04-22,Amlodipine 5mg,Gastrointestinal,Bottle,20,120.53,Insurance,2410.6
+210,2025-04-22,Omeprazole 20mg,Vitamins & Supplements,Tab,9,144.19,UPI,1297.71
+278,2025-04-22,Amlodipine 5mg,Pain Relief,Vial,16,110.66,Insurance,1770.56
+442,2025-04-22,Omeprazole 20mg,Pain Relief,Tab,13,100.83,Cash,1310.79
+452,2025-04-22,Omeprazole 20mg,Cardiovascular,Strip,24,171.63,Cash,4119.12
+540,2025-04-22,Metformin 500mg,Antibiotics,Vial,18,174.93,Card,3148.74
+573,2025-04-22,Vitamin D3 1000IU,Antibiotics,Bottle,24,27.56,Cash,661.44
+577,2025-04-22,Cetirizine 10mg,Diabetes,Bottle,10,104.94,Cash,1049.4
+590,2025-04-22,Cetirizine 10mg,Pain Relief,Tab,17,72.09,Insurance,1225.53
+697,2025-04-22,Vitamin D3 1000IU,Pain Relief,Tab,16,145.64,Cash,2330.24
+759,2025-04-22,Pantoprazole 40mg,Diabetes,Bottle,16,41.62,UPI,665.92
+768,2025-04-22,Ibuprofen 400mg,Allergy,Tab,2,55.5,Insurance,111.0
+774,2025-04-22,Levothyroxine 50mcg,Thyroid,Capsule,23,16.19,UPI,372.37
+857,2025-04-22,Vitamin D3 1000IU,Antibiotics,Tab,1,38.77,Card,38.77
+885,2025-04-22,Pantoprazole 40mg,Pain Relief,Vial,21,28.16,Card,591.36
+902,2025-04-22,Amoxicillin 500mg,Antibiotics,Capsule,22,111.07,UPI,2443.54
+922,2025-04-22,Amoxicillin 500mg,Vitamins & Supplements,Tab,5,222.04,Insurance,1110.2
+979,2025-04-22,Metformin 500mg,Antibiotics,Vial,8,48.52,Cash,388.16
+982,2025-04-22,Cetirizine 10mg,Gastrointestinal,Vial,19,97.2,UPI,1846.8
+1073,2025-04-22,Paracetamol 500mg,Thyroid,Strip,20,207.13,Cash,4142.6
+1226,2025-04-22,Levothyroxine 50mcg,Thyroid,Vial,15,67.19,Insurance,1007.85
+1328,2025-04-22,Levothyroxine 50mcg,Diabetes,Capsule,24,183.96,Cash,4415.04
+1381,2025-04-22,Amlodipine 5mg,Gastrointestinal,Bottle,14,46.37,UPI,649.18
+1516,2025-04-22,Azithromycin 500mg,Antibiotics,Tab,18,117.4,Insurance,2113.2
+1521,2025-04-22,Paracetamol 500mg,Vitamins & Supplements,Capsule,17,37.05,Card,629.85
+1548,2025-04-22,Amlodipine 5mg,Diabetes,Tab,3,35.58,Cash,106.74
+1698,2025-04-22,Amlodipine 5mg,Cardiovascular,Vial,3,92.03,Cash,276.09
+1754,2025-04-22,Amlodipine 5mg,Allergy,Vial,2,92.79,Insurance,185.58
+1768,2025-04-22,Cetirizine 10mg,Pain Relief,Vial,13,22.6,Card,293.8
+1784,2025-04-22,Metformin 500mg,Thyroid,Bottle,7,181.54,Insurance,1270.78
+1825,2025-04-22,Amoxicillin 500mg,Cardiovascular,Tab,14,138.03,Card,1932.42
+1898,2025-04-22,Paracetamol 500mg,Antibiotics,Capsule,3,92.0,Insurance,276.0
+1971,2025-04-22,Atorvastatin 10mg,Pain Relief,Vial,13,115.74,Insurance,1504.62
+2000,2025-04-22,Paracetamol 500mg,Thyroid,Capsule,24,213.18,UPI,5116.32
+85,2025-04-23,Amlodipine 5mg,Diabetes,Strip,20,249.87,Card,4997.4
+88,2025-04-23,Amlodipine 5mg,Gastrointestinal,Strip,7,82.72,Insurance,579.04
+246,2025-04-23,Amlodipine 5mg,Gastrointestinal,Vial,19,207.37,Cash,3940.03
+270,2025-04-23,Omeprazole 20mg,Thyroid,Strip,9,207.18,Insurance,1864.62
+365,2025-04-23,Ibuprofen 400mg,Vitamins & Supplements,Capsule,12,199.85,Insurance,2398.2
+387,2025-04-23,Pantoprazole 40mg,Antibiotics,Strip,17,190.69,Card,3241.73
+418,2025-04-23,Omeprazole 20mg,Cardiovascular,Strip,24,153.21,Insurance,3677.04
+467,2025-04-23,Metformin 500mg,Gastrointestinal,Vial,24,44.24,Cash,1061.76
+488,2025-04-23,Levothyroxine 50mcg,Cardiovascular,Strip,4,109.29,Insurance,437.16
+534,2025-04-23,Levothyroxine 50mcg,Pain Relief,Vial,18,128.6,UPI,2314.8
+585,2025-04-23,Azithromycin 500mg,Vitamins & Supplements,Vial,18,222.33,Card,4001.94
+630,2025-04-23,Pantoprazole 40mg,Pain Relief,Vial,17,203.52,Card,3459.84
+828,2025-04-23,Omeprazole 20mg,Thyroid,Vial,10,74.87,Cash,748.7
+867,2025-04-23,Vitamin D3 1000IU,Vitamins & Supplements,Tab,11,148.83,Insurance,1637.13
+886,2025-04-23,Vitamin D3 1000IU,Gastrointestinal,Tab,24,127.83,Card,3067.92
+887,2025-04-23,Amoxicillin 500mg,Cardiovascular,Strip,20,140.81,Insurance,2816.2
+918,2025-04-23,Vitamin D3 1000IU,Allergy,Tab,17,248.26,Cash,4220.42
+948,2025-04-23,Atorvastatin 10mg,Allergy,Tab,5,109.56,UPI,547.8
+1009,2025-04-23,Cetirizine 10mg,Cardiovascular,Capsule,12,178.11,Cash,2137.32
+1010,2025-04-23,Pantoprazole 40mg,Diabetes,Strip,7,137.0,UPI,959.0
+1016,2025-04-23,Paracetamol 500mg,Pain Relief,Tab,2,100.25,UPI,200.5
+1088,2025-04-23,Paracetamol 500mg,Antibiotics,Tab,18,210.89,UPI,3796.02
+1258,2025-04-23,Vitamin D3 1000IU,Antibiotics,Bottle,5,240.98,Cash,1204.9
+1276,2025-04-23,Atorvastatin 10mg,Thyroid,Tab,16,39.56,Card,632.96
+1420,2025-04-23,Vitamin D3 1000IU,Gastrointestinal,Capsule,24,163.63,UPI,3927.12
+1488,2025-04-23,Omeprazole 20mg,Vitamins & Supplements,Tab,16,229.51,Card,3672.16
+1504,2025-04-23,Cetirizine 10mg,Pain Relief,Bottle,9,103.04,UPI,927.36
+1508,2025-04-23,Levothyroxine 50mcg,Gastrointestinal,Vial,17,84.97,Insurance,1444.49
+1542,2025-04-23,Atorvastatin 10mg,Allergy,Strip,9,193.36,UPI,1740.24
+1566,2025-04-23,Omeprazole 20mg,Gastrointestinal,Strip,8,39.86,Insurance,318.88
+1598,2025-04-23,Ibuprofen 400mg,Antibiotics,Capsule,14,72.36,Cash,1013.04
+1636,2025-04-23,Ibuprofen 400mg,Diabetes,Tab,15,75.99,Insurance,1139.85
+1659,2025-04-23,Amlodipine 5mg,Thyroid,Bottle,5,63.46,Insurance,317.3
+1726,2025-04-23,Levothyroxine 50mcg,Gastrointestinal,Strip,14,112.71,Card,1577.94
+1780,2025-04-23,Amoxicillin 500mg,Gastrointestinal,Strip,5,112.64,Insurance,563.2
+1799,2025-04-23,Azithromycin 500mg,Cardiovascular,Strip,12,149.43,Cash,1793.16
+1804,2025-04-23,Atorvastatin 10mg,Gastrointestinal,Tab,16,36.44,UPI,583.04
+1870,2025-04-23,Levothyroxine 50mcg,Thyroid,Strip,1,88.62,Cash,88.62
+47,2025-04-24,Vitamin D3 1000IU,Vitamins & Supplements,Capsule,6,112.23,UPI,673.38
+153,2025-04-24,Ibuprofen 400mg,Vitamins & Supplements,Tab,5,36.36,UPI,181.8
+172,2025-04-24,Omeprazole 20mg,Diabetes,Tab,18,91.63,Insurance,1649.34
+220,2025-04-24,Levothyroxine 50mcg,Pain Relief,Capsule,14,170.6,Card,2388.4
+284,2025-04-24,Azithromycin 500mg,Gastrointestinal,Tab,1,131.92,Card,131.92
+286,2025-04-24,Atorvastatin 10mg,Thyroid,Capsule,17,185.23,Cash,3148.91
+355,2025-04-24,Azithromycin 500mg,Cardiovascular,Bottle,19,51.18,Card,972.42
+410,2025-04-24,Vitamin D3 1000IU,Antibiotics,Tab,4,135.16,Card,540.64
+493,2025-04-24,Paracetamol 500mg,Allergy,Strip,5,156.57,Insurance,782.85
+554,2025-04-24,Omeprazole 20mg,Thyroid,Capsule,3,104.21,UPI,312.63
+569,2025-04-24,Atorvastatin 10mg,Gastrointestinal,Capsule,6,217.54,Insurance,1305.24
+597,2025-04-24,Omeprazole 20mg,Pain Relief,Capsule,23,83.81,Card,1927.63
+649,2025-04-24,Levothyroxine 50mcg,Thyroid,Vial,16,73.45,UPI,1175.2
+727,2025-04-24,Cetirizine 10mg,Diabetes,Capsule,17,81.51,Insurance,1385.67
+945,2025-04-24,Atorvastatin 10mg,Vitamins & Supplements,Capsule,2,75.32,Card,150.64
+970,2025-04-24,Cetirizine 10mg,Vitamins & Supplements,Bottle,13,145.11,UPI,1886.43
+1055,2025-04-24,Amoxicillin 500mg,Vitamins & Supplements,Bottle,22,218.03,Insurance,4796.66
+1084,2025-04-24,Amlodipine 5mg,Pain Relief,Vial,19,196.44,Insurance,3732.36
+1178,2025-04-24,Amlodipine 5mg,Pain Relief,Capsule,12,210.23,Insurance,2522.76
+1231,2025-04-24,Levothyroxine 50mcg,Allergy,Tab,19,26.24,Insurance,498.56
+1239,2025-04-24,Pantoprazole 40mg,Diabetes,Strip,19,86.58,Cash,1645.02
+1241,2025-04-24,Pantoprazole 40mg,Gastrointestinal,Tab,10,199.83,Insurance,1998.3
+1318,2025-04-24,Levothyroxine 50mcg,Antibiotics,Bottle,20,77.72,UPI,1554.4
+1378,2025-04-24,Atorvastatin 10mg,Antibiotics,Vial,19,151.26,Card,2873.94
+1410,2025-04-24,Cetirizine 10mg,Vitamins & Supplements,Strip,22,125.44,Card,2759.68
+1509,2025-04-24,Azithromycin 500mg,Antibiotics,Vial,18,155.93,Insurance,2806.74
+1609,2025-04-24,Vitamin D3 1000IU,Diabetes,Capsule,24,69.99,Card,1679.76
+1621,2025-04-24,Azithromycin 500mg,Allergy,Strip,22,192.14,Insurance,4227.08
+1630,2025-04-24,Cetirizine 10mg,Gastrointestinal,Vial,16,176.41,Card,2822.56
+1663,2025-04-24,Azithromycin 500mg,Antibiotics,Tab,14,121.79,Card,1705.06
+1689,2025-04-24,Ibuprofen 400mg,Pain Relief,Strip,18,118.17,Card,2127.06
+1801,2025-04-24,Vitamin D3 1000IU,Allergy,Bottle,10,130.48,UPI,1304.8
+1857,2025-04-24,Pantoprazole 40mg,Antibiotics,Strip,12,244.98,Card,2939.76
+1932,2025-04-24,Atorvastatin 10mg,Thyroid,Strip,21,36.92,UPI,775.32
+1951,2025-04-24,Cetirizine 10mg,Vitamins & Supplements,Tab,12,165.39,Insurance,1984.68
+1957,2025-04-24,Azithromycin 500mg,Gastrointestinal,Tab,4,55.39,UPI,221.56
+263,2025-04-25,Vitamin D3 1000IU,Diabetes,Bottle,9,195.29,Cash,1757.61
+288,2025-04-25,Azithromycin 500mg,Gastrointestinal,Bottle,24,224.68,UPI,5392.32
+366,2025-04-25,Pantoprazole 40mg,Gastrointestinal,Tab,7,19.06,UPI,133.42
+399,2025-04-25,Cetirizine 10mg,Vitamins & Supplements,Vial,11,29.85,Insurance,328.35
+565,2025-04-25,Pantoprazole 40mg,Pain Relief,Bottle,22,169.2,Cash,3722.4
+642,2025-04-25,Azithromycin 500mg,Allergy,Bottle,4,101.65,UPI,406.6
+702,2025-04-25,Omeprazole 20mg,Gastrointestinal,Tab,5,117.6,Card,588.0
+854,2025-04-25,Paracetamol 500mg,Vitamins & Supplements,Capsule,5,198.68,Cash,993.4
+939,2025-04-25,Amoxicillin 500mg,Thyroid,Capsule,6,203.38,UPI,1220.28
+946,2025-04-25,Vitamin D3 1000IU,Vitamins & Supplements,Vial,12,182.77,UPI,2193.24
+1063,2025-04-25,Cetirizine 10mg,Allergy,Tab,22,49.89,Insurance,1097.58
+1094,2025-04-25,Cetirizine 10mg,Allergy,Tab,23,37.09,Cash,853.07
+1133,2025-04-25,Pantoprazole 40mg,Diabetes,Bottle,6,78.85,Cash,473.1
+1147,2025-04-25,Amlodipine 5mg,Thyroid,Bottle,8,222.68,Card,1781.44
+1160,2025-04-25,Vitamin D3 1000IU,Vitamins & Supplements,Strip,12,184.47,Insurance,2213.64
+1219,2025-04-25,Ibuprofen 400mg,Antibiotics,Tab,12,187.55,Insurance,2250.6
+1261,2025-04-25,Pantoprazole 40mg,Cardiovascular,Bottle,22,36.68,Insurance,806.96
+1298,2025-04-25,Paracetamol 500mg,Gastrointestinal,Capsule,6,51.76,Card,310.56
+1329,2025-04-25,Omeprazole 20mg,Allergy,Strip,6,148.84,Card,893.04
+1429,2025-04-25,Cetirizine 10mg,Vitamins & Supplements,Capsule,8,107.11,Card,856.88
+1479,2025-04-25,Amoxicillin 500mg,Vitamins & Supplements,Strip,18,111.62,Card,2009.16
+1579,2025-04-25,Ibuprofen 400mg,Antibiotics,Bottle,20,26.36,Card,527.2
+1652,2025-04-25,Ibuprofen 400mg,Diabetes,Bottle,23,108.72,Cash,2500.56
+1709,2025-04-25,Amlodipine 5mg,Gastrointestinal,Capsule,6,71.61,Card,429.66
+1807,2025-04-25,Omeprazole 20mg,Gastrointestinal,Strip,3,40.42,Cash,121.26
+1937,2025-04-25,Cetirizine 10mg,Vitamins & Supplements,Tab,24,179.09,UPI,4298.16
+1975,2025-04-25,Ibuprofen 400mg,Gastrointestinal,Capsule,23,81.88,Card,1883.24
+1991,2025-04-25,Amoxicillin 500mg,Pain Relief,Vial,8,211.02,UPI,1688.16
+49,2025-04-26,Paracetamol 500mg,Vitamins & Supplements,Vial,12,190.8,Card,2289.6
+104,2025-04-26,Amlodipine 5mg,Vitamins & Supplements,Tab,14,180.05,UPI,2520.7
+209,2025-04-26,Vitamin D3 1000IU,Allergy,Strip,1,190.67,Cash,190.67
+226,2025-04-26,Ibuprofen 400mg,Pain Relief,Capsule,16,183.97,Insurance,2943.52
+228,2025-04-26,Paracetamol 500mg,Thyroid,Tab,11,73.72,Cash,810.92
+330,2025-04-26,Ibuprofen 400mg,Antibiotics,Strip,22,203.71,Cash,4481.62
+343,2025-04-26,Atorvastatin 10mg,Antibiotics,Vial,21,110.51,UPI,2320.71
+503,2025-04-26,Amoxicillin 500mg,Cardiovascular,Bottle,18,69.97,Card,1259.46
+605,2025-04-26,Levothyroxine 50mcg,Cardiovascular,Strip,12,177.46,UPI,2129.52
+706,2025-04-26,Pantoprazole 40mg,Gastrointestinal,Vial,24,106.2,Card,2548.8
+771,2025-04-26,Metformin 500mg,Allergy,Bottle,9,145.22,Insurance,1306.98
+850,2025-04-26,Vitamin D3 1000IU,Thyroid,Vial,13,227.1,Cash,2952.3
+876,2025-04-26,Amoxicillin 500mg,Pain Relief,Tab,8,178.53,Cash,1428.24
+891,2025-04-26,Omeprazole 20mg,Allergy,Strip,16,210.8,Card,3372.8
+1022,2025-04-26,Amoxicillin 500mg,Antibiotics,Strip,21,212.71,UPI,4466.91
+1048,2025-04-26,Paracetamol 500mg,Antibiotics,Strip,20,31.73,Card,634.6
+1082,2025-04-26,Cetirizine 10mg,Cardiovascular,Tab,20,192.1,UPI,3842.0
+1128,2025-04-26,Azithromycin 500mg,Vitamins & Supplements,Tab,14,222.68,Cash,3117.52
+1130,2025-04-26,Pantoprazole 40mg,Gastrointestinal,Strip,19,216.8,UPI,4119.2
+1183,2025-04-26,Omeprazole 20mg,Gastrointestinal,Tab,13,190.88,Card,2481.44
+1224,2025-04-26,Pantoprazole 40mg,Antibiotics,Vial,8,129.97,Card,1039.76
+1264,2025-04-26,Ibuprofen 400mg,Gastrointestinal,Vial,1,175.05,UPI,175.05
+1406,2025-04-26,Amoxicillin 500mg,Antibiotics,Capsule,12,200.16,Insurance,2401.92
+1506,2025-04-26,Vitamin D3 1000IU,Thyroid,Bottle,24,116.06,Cash,2785.44
+1520,2025-04-26,Atorvastatin 10mg,Allergy,Strip,15,190.47,Card,2857.05
+1629,2025-04-26,Pantoprazole 40mg,Pain Relief,Vial,17,47.19,Cash,802.23
+1637,2025-04-26,Vitamin D3 1000IU,Allergy,Bottle,11,83.71,UPI,920.81
+1759,2025-04-26,Amlodipine 5mg,Gastrointestinal,Vial,20,201.56,Card,4031.2
+1767,2025-04-26,Cetirizine 10mg,Diabetes,Bottle,22,212.14,Card,4667.08
+1856,2025-04-26,Paracetamol 500mg,Antibiotics,Tab,8,176.83,Insurance,1414.64
+1973,2025-04-26,Amoxicillin 500mg,Thyroid,Strip,6,148.08,Cash,888.48
+1978,2025-04-26,Azithromycin 500mg,Diabetes,Vial,16,157.87,Insurance,2525.92
+9,2025-04-27,Cetirizine 10mg,Vitamins & Supplements,Tab,10,230.24,Insurance,2302.4
+32,2025-04-27,Azithromycin 500mg,Gastrointestinal,Bottle,22,163.93,UPI,3606.46
+63,2025-04-27,Vitamin D3 1000IU,Gastrointestinal,Vial,8,152.89,UPI,1223.12
+143,2025-04-27,Metformin 500mg,Thyroid,Bottle,12,23.45,Cash,281.4
+219,2025-04-27,Cetirizine 10mg,Cardiovascular,Strip,2,133.22,Insurance,266.44
+254,2025-04-27,Amlodipine 5mg,Diabetes,Strip,16,139.65,Card,2234.4
+468,2025-04-27,Levothyroxine 50mcg,Pain Relief,Bottle,7,241.12,UPI,1687.84
+501,2025-04-27,Levothyroxine 50mcg,Diabetes,Strip,14,220.12,Cash,3081.68
+524,2025-04-27,Amoxicillin 500mg,Cardiovascular,Bottle,20,16.15,UPI,323.0
+526,2025-04-27,Levothyroxine 50mcg,Thyroid,Vial,21,39.98,Insurance,839.58
+527,2025-04-27,Levothyroxine 50mcg,Pain Relief,Bottle,17,212.87,Insurance,3618.79
+568,2025-04-27,Paracetamol 500mg,Antibiotics,Strip,20,184.67,Card,3693.4
+579,2025-04-27,Azithromycin 500mg,Antibiotics,Bottle,12,86.83,Insurance,1041.96
+580,2025-04-27,Pantoprazole 40mg,Diabetes,Capsule,18,154.35,UPI,2778.3
+628,2025-04-27,Ibuprofen 400mg,Gastrointestinal,Strip,7,101.71,Insurance,711.97
+637,2025-04-27,Amoxicillin 500mg,Allergy,Capsule,13,180.85,UPI,2351.05
+639,2025-04-27,Atorvastatin 10mg,Thyroid,Bottle,21,70.54,Cash,1481.34
+696,2025-04-27,Amlodipine 5mg,Antibiotics,Capsule,22,121.95,Insurance,2682.9
+756,2025-04-27,Atorvastatin 10mg,Antibiotics,Bottle,10,91.82,Cash,918.2
+776,2025-04-27,Amlodipine 5mg,Gastrointestinal,Strip,7,61.4,UPI,429.8
+780,2025-04-27,Pantoprazole 40mg,Allergy,Bottle,13,169.21,Cash,2199.73
+792,2025-04-27,Paracetamol 500mg,Antibiotics,Bottle,19,80.92,Insurance,1537.48
+804,2025-04-27,Levothyroxine 50mcg,Diabetes,Vial,11,158.59,Cash,1744.49
+840,2025-04-27,Atorvastatin 10mg,Diabetes,Bottle,17,164.45,Insurance,2795.65
+859,2025-04-27,Omeprazole 20mg,Thyroid,Capsule,5,143.93,Insurance,719.65
+904,2025-04-27,Amlodipine 5mg,Allergy,Strip,23,190.04,Card,4370.92
+909,2025-04-27,Vitamin D3 1000IU,Antibiotics,Tab,16,225.48,Insurance,3607.68
+1007,2025-04-27,Omeprazole 20mg,Gastrointestinal,Capsule,7,135.95,UPI,951.65
+1103,2025-04-27,Metformin 500mg,Cardiovascular,Tab,5,226.84,Card,1134.2
+1172,2025-04-27,Atorvastatin 10mg,Allergy,Bottle,23,49.93,UPI,1148.39
+1486,2025-04-27,Amlodipine 5mg,Diabetes,Bottle,14,218.61,Card,3060.54
+1702,2025-04-27,Amlodipine 5mg,Antibiotics,Vial,1,108.23,Cash,108.23
+1732,2025-04-27,Vitamin D3 1000IU,Pain Relief,Capsule,24,146.84,Card,3524.16
+1751,2025-04-27,Levothyroxine 50mcg,Thyroid,Bottle,7,199.82,Insurance,1398.74
+1776,2025-04-27,Azithromycin 500mg,Gastrointestinal,Bottle,2,159.7,Cash,319.4
+1809,2025-04-27,Ibuprofen 400mg,Diabetes,Bottle,7,160.55,UPI,1123.85
+1894,2025-04-27,Azithromycin 500mg,Diabetes,Strip,21,249.08,Cash,5230.68
+38,2025-04-28,Amlodipine 5mg,Vitamins & Supplements,Vial,18,230.91,Card,4156.38
+139,2025-04-28,Amoxicillin 500mg,Vitamins & Supplements,Capsule,13,241.3,Card,3136.9
+202,2025-04-28,Ibuprofen 400mg,Antibiotics,Strip,16,109.79,Cash,1756.64
+245,2025-04-28,Cetirizine 10mg,Diabetes,Bottle,5,75.72,Insurance,378.6
+265,2025-04-28,Azithromycin 500mg,Diabetes,Tab,18,82.17,Card,1479.06
+289,2025-04-28,Amlodipine 5mg,Allergy,Strip,3,116.27,Card,348.81
+304,2025-04-28,Amlodipine 5mg,Thyroid,Tab,2,86.85,Card,173.7
+311,2025-04-28,Azithromycin 500mg,Thyroid,Strip,8,220.23,Cash,1761.84
+354,2025-04-28,Ibuprofen 400mg,Gastrointestinal,Tab,13,17.96,Insurance,233.48
+407,2025-04-28,Paracetamol 500mg,Antibiotics,Tab,1,158.52,UPI,158.52
+741,2025-04-28,Paracetamol 500mg,Diabetes,Tab,5,249.58,Card,1247.9
+765,2025-04-28,Metformin 500mg,Diabetes,Capsule,22,194.93,Cash,4288.46
+942,2025-04-28,Vitamin D3 1000IU,Vitamins & Supplements,Vial,2,102.78,UPI,205.56
+959,2025-04-28,Pantoprazole 40mg,Cardiovascular,Capsule,20,218.9,Cash,4378.0
+1012,2025-04-28,Pantoprazole 40mg,Diabetes,Strip,1,114.3,UPI,114.3
+1021,2025-04-28,Cetirizine 10mg,Pain Relief,Tab,18,197.82,Insurance,3560.76
+1159,2025-04-28,Vitamin D3 1000IU,Pain Relief,Strip,18,91.28,Insurance,1643.04
+1218,2025-04-28,Cetirizine 10mg,Vitamins & Supplements,Strip,14,163.16,Cash,2284.24
+1220,2025-04-28,Paracetamol 500mg,Thyroid,Bottle,22,102.21,Cash,2248.62
+1353,2025-04-28,Ibuprofen 400mg,Diabetes,Vial,16,151.74,Card,2427.84
+1417,2025-04-28,Amoxicillin 500mg,Cardiovascular,Bottle,3,191.16,UPI,573.48
+1538,2025-04-28,Atorvastatin 10mg,Gastrointestinal,Tab,1,112.63,Cash,112.63
+1540,2025-04-28,Amlodipine 5mg,Diabetes,Strip,8,91.27,Cash,730.16
+1578,2025-04-28,Omeprazole 20mg,Thyroid,Vial,24,223.88,Cash,5373.12
+1634,2025-04-28,Paracetamol 500mg,Gastrointestinal,Strip,19,240.86,Insurance,4576.34
+1710,2025-04-28,Amlodipine 5mg,Thyroid,Strip,22,45.53,Insurance,1001.66
+1795,2025-04-28,Cetirizine 10mg,Cardiovascular,Tab,7,132.39,Insurance,926.73
+1818,2025-04-28,Paracetamol 500mg,Vitamins & Supplements,Capsule,19,28.25,Card,536.75
+1851,2025-04-28,Paracetamol 500mg,Thyroid,Tab,2,232.74,Insurance,465.48
+1852,2025-04-28,Pantoprazole 40mg,Pain Relief,Bottle,12,226.06,Insurance,2712.72
+1879,2025-04-28,Amlodipine 5mg,Diabetes,Tab,20,16.25,Cash,325.0
+1905,2025-04-28,Vitamin D3 1000IU,Thyroid,Strip,11,155.21,Card,1707.31
+1915,2025-04-28,Pantoprazole 40mg,Antibiotics,Vial,22,53.43,Cash,1175.46
+1956,2025-04-28,Amlodipine 5mg,Cardiovascular,Vial,22,33.49,Card,736.78
+1964,2025-04-28,Vitamin D3 1000IU,Diabetes,Vial,1,64.57,Insurance,64.57
+28,2025-04-29,Ibuprofen 400mg,Pain Relief,Vial,10,210.8,Card,2108.0
+41,2025-04-29,Cetirizine 10mg,Gastrointestinal,Capsule,24,202.13,Insurance,4851.12
+60,2025-04-29,Amlodipine 5mg,Gastrointestinal,Capsule,19,223.55,Card,4247.45
+71,2025-04-29,Atorvastatin 10mg,Antibiotics,Strip,18,74.25,Insurance,1336.5
+103,2025-04-29,Ibuprofen 400mg,Gastrointestinal,Vial,18,129.39,UPI,2329.02
+115,2025-04-29,Paracetamol 500mg,Allergy,Tab,4,192.14,Cash,768.56
+116,2025-04-29,Levothyroxine 50mcg,Vitamins & Supplements,Vial,1,161.17,UPI,161.17
+117,2025-04-29,Levothyroxine 50mcg,Pain Relief,Tab,15,141.92,Insurance,2128.8
+181,2025-04-29,Amoxicillin 500mg,Allergy,Bottle,4,146.35,Cash,585.4
+303,2025-04-29,Pantoprazole 40mg,Diabetes,Bottle,23,202.05,UPI,4647.15
+310,2025-04-29,Paracetamol 500mg,Vitamins & Supplements,Strip,15,166.9,Cash,2503.5
+339,2025-04-29,Atorvastatin 10mg,Thyroid,Vial,4,86.56,UPI,346.24
+345,2025-04-29,Levothyroxine 50mcg,Vitamins & Supplements,Strip,15,202.64,Cash,3039.6
+430,2025-04-29,Paracetamol 500mg,Antibiotics,Tab,6,93.24,UPI,559.44
+445,2025-04-29,Atorvastatin 10mg,Pain Relief,Bottle,23,207.25,UPI,4766.75
+455,2025-04-29,Azithromycin 500mg,Vitamins & Supplements,Vial,23,27.86,UPI,640.78
+500,2025-04-29,Atorvastatin 10mg,Gastrointestinal,Capsule,24,68.15,Cash,1635.6
+536,2025-04-29,Metformin 500mg,Gastrointestinal,Tab,14,42.12,UPI,589.68
+541,2025-04-29,Vitamin D3 1000IU,Pain Relief,Tab,12,216.83,Cash,2601.96
+560,2025-04-29,Levothyroxine 50mcg,Allergy,Tab,20,218.52,Cash,4370.4
+660,2025-04-29,Cetirizine 10mg,Allergy,Bottle,6,188.9,Insurance,1133.4
+824,2025-04-29,Amoxicillin 500mg,Gastrointestinal,Capsule,19,127.33,Insurance,2419.27
+851,2025-04-29,Amlodipine 5mg,Allergy,Bottle,6,219.96,Card,1319.76
+870,2025-04-29,Paracetamol 500mg,Vitamins & Supplements,Capsule,22,32.19,Card,708.18
+910,2025-04-29,Azithromycin 500mg,Allergy,Vial,6,44.65,Cash,267.9
+1036,2025-04-29,Amoxicillin 500mg,Allergy,Strip,19,45.22,Cash,859.18
+1053,2025-04-29,Azithromycin 500mg,Thyroid,Strip,9,86.64,Cash,779.76
+1067,2025-04-29,Amoxicillin 500mg,Diabetes,Tab,19,27.95,Insurance,531.05
+1169,2025-04-29,Metformin 500mg,Antibiotics,Capsule,7,78.98,UPI,552.86
+1324,2025-04-29,Paracetamol 500mg,Cardiovascular,Vial,3,132.32,Insurance,396.96
+1339,2025-04-29,Amoxicillin 500mg,Antibiotics,Strip,12,182.15,Insurance,2185.8
+1346,2025-04-29,Levothyroxine 50mcg,Cardiovascular,Strip,18,16.53,Insurance,297.54
+1471,2025-04-29,Amoxicillin 500mg,Cardiovascular,Vial,8,206.2,Cash,1649.6
+1618,2025-04-29,Amoxicillin 500mg,Antibiotics,Vial,3,78.57,UPI,235.71
+1677,2025-04-29,Azithromycin 500mg,Cardiovascular,Strip,11,205.79,Card,2263.69
+1779,2025-04-29,Paracetamol 500mg,Vitamins & Supplements,Strip,15,220.71,Insurance,3310.65
+1924,2025-04-29,Levothyroxine 50mcg,Allergy,Bottle,14,202.26,Card,2831.64
